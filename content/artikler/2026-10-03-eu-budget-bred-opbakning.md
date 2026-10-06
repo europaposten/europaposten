@@ -5,6 +5,9 @@ date: 2026-10-03 08:00
 section: oekonomi
 kicker: EU-budgettet
 featured: ja
+illustration: eu-budget-bro.jpg
+illustration_alt: Karikatur af en anonym embedsmand, der balancerer på en papirbro mellem Finansministeriet og Bruxelles med en rød DK-mappe på hovedet
+illustration_credit: Illustration: Europaposten (hurtig aviskarikatur)
 author: Europaposten-redaktionen
 summary: Venstre, Konservative og Liberal Alliance bakker op om regeringens krav om en markant lavere udgiftsramme i EU's budget for 2028-2034. Forhandlingerne tager for alvor fat, når EU's stats- og regeringschefer mødes midt i oktober.
 sources:

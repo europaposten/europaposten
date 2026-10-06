@@ -73,6 +73,12 @@ main.wrap{padding-top:28px;padding-bottom:40px}
 .story-head h1{font-family:var(--serif);font-size:clamp(2rem,4.5vw,3rem);line-height:1.08;letter-spacing:-.015em;margin:0 0 14px}
 .standfirst{font-family:var(--serif);font-size:1.3rem;line-height:1.45;color:#2b2b2b;margin:0 0 14px}
 .story-head{border-bottom:1px solid var(--line);padding-bottom:16px;margin-bottom:24px}
+
+/* Lead-illustration under overskrift */
+.story-illustration{margin:18px 0 16px;max-width:100%}
+.story-illustration img{display:block;width:100%;height:auto;background:#fff;border:1px solid var(--line)}
+.illustration-credit{font-family:var(--sans);font-size:.78rem;color:var(--muted);margin:6px 0 0;letter-spacing:.01em}
+
 .story-body{font-family:var(--serif);font-size:1.16rem;line-height:1.7}
 .story-body p{margin:0 0 1.1em}
 .story-body h2{font-family:var(--sans);font-size:1.1rem;margin:1.8em 0 .5em}

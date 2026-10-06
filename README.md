@@ -11,6 +11,7 @@ eu-nyheder/
 ├── build.py              # site-generatoren
 ├── config.ini            # sitets navn, adresse, sektioner m.m.
 ├── content/artikler/     # én .md-fil pr. artikel
+├── content/billeder/     # lead-illustrationer (jpg/png/svg) refereret fra front matter
 ├── static/               # style.css og favicon
 ├── public/               # det færdige site (laves af build.py – ret ikke her)
 ├── content/kladder/      # kladder (ignoreres af git – kommer aldrig i det offentlige repo)

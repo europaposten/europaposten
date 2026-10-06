@@ -25,6 +25,7 @@ from zoneinfo import ZoneInfo
 
 ROOT = Path(__file__).resolve().parent
 CONTENT = ROOT / "content" / "artikler"
+IMAGES = ROOT / "content" / "billeder"
 STATIC = ROOT / "static"
 OUT = ROOT / "public"
 TZ = ZoneInfo("Europe/Copenhagen")
@@ -181,6 +182,13 @@ class Article:
         self.featured = str(meta.get("featured", "nej")).lower() in ("ja", "yes", "true")
         self.sources = [parse_source(s) for s in meta.get("sources", []) or []]
         self.slug = meta.get("slug") or slugify(self.title)
+        # Lead-illustration: filnavn under content/billeder/ (jpg/png/svg/webp)
+        ill = (meta.get("illustration") or "").strip()
+        self.illustration = ill.lstrip("/") if ill else ""
+        if self.illustration.startswith("billeder/"):
+            self.illustration = self.illustration[len("billeder/"):]
+        self.illustration_alt = (meta.get("illustration_alt") or "").strip()
+        self.illustration_credit = (meta.get("illustration_credit") or "").strip()
         self.body_md = body
         self.body_html = markdown(body)
         words = len(re.findall(r"\w+", body))
@@ -329,6 +337,24 @@ def render_index(site, sections, arts):
     return layout(site, sections, root, site["navn"], content, active="forside")
 
 
+
+def illustration_html(a: Article, root: str) -> str:
+    """Lead-illustration under overskriften, hvis front matter har 'illustration'."""
+    if not a.illustration:
+        return ""
+    src = f"{root}billeder/{esc(a.illustration)}"
+    alt = esc(a.illustration_alt or a.title)
+    credit = ""
+    if a.illustration_credit:
+        credit = f'<figcaption class="illustration-credit">{esc(a.illustration_credit)}</figcaption>'
+    return (
+        f'<figure class="story-illustration">\n'
+        f'  <img src="{src}" alt="{alt}" loading="eager" decoding="async">\n'
+        f'  {credit}\n'
+        f'</figure>'
+    )
+
+
 def render_article(site, sections, a: Article, arts):
     root = "../../"
     related = [x for x in arts if x is not a and x.section == a.section][:3]
@@ -340,19 +366,26 @@ def render_article(site, sections, a: Article, arts):
     updated = (f' · Opdateret <time datetime="{a.updated.isoformat()}">{dansk_dato(a.updated, med_tid=True)}</time>'
                if a.updated else "")
     abs_url = f"{site['base_url']}/{a.url}"
+    og_image = ""
+    ld_image = ""
+    if a.illustration:
+        img_abs = f"{site['base_url']}/billeder/{a.illustration}"
+        og_image = f'\n<meta property="og:image" content="{esc(img_abs)}">'
+        ld_image = f',"image":{json_str(img_abs)}'
     head = f"""<link rel="canonical" href="{esc(abs_url)}">
 <meta property="og:type" content="article">
 <meta property="og:title" content="{esc(a.title)}">
 <meta property="og:description" content="{esc(a.summary)}">
 <meta property="og:url" content="{esc(abs_url)}">
-<meta property="og:locale" content="da_DK">
+<meta property="og:locale" content="da_DK">{og_image}
 <meta property="article:published_time" content="{a.date.isoformat()}">
-<script type="application/ld+json">{{"@context":"https://schema.org","@type":"NewsArticle","headline":{json_str(a.title)},"description":{json_str(a.summary)},"datePublished":"{a.date.isoformat()}","inLanguage":"da","author":{{"@type":"Organization","name":{json_str(a.author)}}},"publisher":{{"@type":"Organization","name":{json_str(site['navn'])}}}}}</script>"""
+<script type="application/ld+json">{{"@context":"https://schema.org","@type":"NewsArticle","headline":{json_str(a.title)},"description":{json_str(a.summary)},"datePublished":"{a.date.isoformat()}","inLanguage":"da","author":{{"@type":"Organization","name":{json_str(a.author)}}},"publisher":{{"@type":"Organization","name":{json_str(site['navn'])}}}{ld_image}}}</script>"""
     content = f"""
 <article class="story">
   <header class="story-head">
     <p class="kicker kicker-{a.section}"><a href="{root}sektion/{a.section}/">{esc(a.section_name)}</a></p>
     <h1>{esc(a.title)}</h1>
+    {illustration_html(a, root)}
     <p class="standfirst">{esc(a.summary)}</p>
     <p class="meta">{byline(a)}{updated} · {a.minutes} min. læsning</p>
   </header>
@@ -483,6 +516,8 @@ def build():
         shutil.rmtree(OUT)
     OUT.mkdir()
     shutil.copytree(STATIC, OUT / "static")
+    if IMAGES.exists():
+        shutil.copytree(IMAGES, OUT / "billeder")
     write(OUT / "index.html", render_index(site, sections, arts))
     for a in arts:
         write(OUT / a.url / "index.html", render_article(site, sections, a, arts))
