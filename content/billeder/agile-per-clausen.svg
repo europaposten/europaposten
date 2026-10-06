@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720" width="1200" height="720" role="img" aria-label="Karikatur af Per Clausen med en rød NEJ-stempel ved siden af AGILE-dokument">
+  <rect width="1200" height="720" fill="#ffffff"/>
+  <path d="M80 640 C400 655 800 630 1120 645" fill="none" stroke="#111" stroke-width="2.4" stroke-linecap="round"/>
+  <!-- Document AGILE -->
+  <rect x="620" y="160" width="420" height="420" rx="8" fill="#fff" stroke="#111" stroke-width="3.2"/>
+  <path d="M660 220 H1000 M660 270 H980 M660 320 H990 M660 370 H940 M660 420 H970" fill="none" stroke="#111" stroke-width="2" stroke-linecap="round"/>
+  <text x="680" y="200" font-family="Georgia, serif" font-size="36" font-weight="bold" fill="#111">AGILE</text>
+  <text x="680" y="500" font-family="Georgia, serif" font-size="22" fill="#111">115 mio. euro</text>
+  <!-- Red NEJ stamp accent -->
+  <g transform="translate(880,380) rotate(-18)">
+    <ellipse cx="0" cy="0" rx="78" ry="52" fill="none" stroke="#C8102E" stroke-width="6"/>
+    <text x="0" y="12" text-anchor="middle" font-family="Georgia, serif" font-size="42" font-weight="bold" fill="#C8102E">NEJ</text>
+  </g>
+  <!-- Per Clausen type: balding, glasses, big nose, jacket -->
+  <path d="M280 560 L265 640" fill="none" stroke="#111" stroke-width="3.2" stroke-linecap="round"/>
+  <path d="M360 560 L380 642" fill="none" stroke="#111" stroke-width="3.2" stroke-linecap="round"/>
+  <path d="M255 400 C245 480 260 555 270 560 L380 560 C395 500 405 430 390 395 Z" fill="#fff" stroke="#111" stroke-width="3.2"/>
+  <path d="M240 290 C225 340 235 390 250 405 L400 400 C420 350 430 300 410 280 C350 260 280 265 240 290 Z" fill="#fff" stroke="#111" stroke-width="3.4"/>
+  <path d="M320 275 L310 395 M320 275 L345 392" fill="none" stroke="#111" stroke-width="2.2"/>
+  <ellipse cx="320" cy="210" rx="58" ry="62" fill="#fff" stroke="#111" stroke-width="3.4"/>
+  <!-- balding hair -->
+  <path d="M270 195 C290 155 360 155 375 200" fill="none" stroke="#111" stroke-width="3" stroke-linecap="round"/>
+  <!-- glasses -->
+  <circle cx="298" cy="205" r="18" fill="none" stroke="#111" stroke-width="2.8"/>
+  <circle cx="345" cy="205" r="18" fill="none" stroke="#111" stroke-width="2.8"/>
+  <path d="M316 205 H327" fill="none" stroke="#111" stroke-width="2.4"/>
+  <circle cx="298" cy="205" r="3.5" fill="#111"/>
+  <circle cx="345" cy="205" r="3.5" fill="#111"/>
+  <!-- big nose -->
+  <path d="M318 215 C345 225 360 245 355 268 C348 288 325 292 310 280 C298 270 302 245 308 228 Z" fill="#fff" stroke="#111" stroke-width="3.1"/>
+  <path d="M300 285 C315 278 340 282 350 292" fill="none" stroke="#111" stroke-width="2.4" stroke-linecap="round"/>
+  <!-- arm pointing to stamp -->
+  <path d="M400 330 C480 350 540 380 600 420" fill="none" stroke="#111" stroke-width="3.4" stroke-linecap="round"/>
+  <text x="200" y="680" font-family="Georgia, serif" font-size="18" fill="#111">Per Clausen (EL)</text>
+</svg>
