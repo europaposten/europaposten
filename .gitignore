@@ -1,0 +1,8 @@
+public/
+__pycache__/
+.DS_Store
+# Interne filer – må ikke ligge i det offentlige repository
+synlighedsplan.*
+stoettemuligheder.md
+screenshots/
+content/kladder/
