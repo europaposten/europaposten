@@ -7,8 +7,8 @@ kicker: Medier og EU
 author: Europaposten-redaktionen
 summary: Håndbog i EU for journalister er udkommet i en ny, gratis udgave, som Bruxelles-journalisten Jacob Langvad har bearbejdet. Bogen opfordrer journalister på alle redaktioner til at dække EU. I bogen siger EU-kommissær Dan Jørgensen, at der kun er omkring 13 danske korrespondenter i Bruxelles.
 featured: nej
-illustration: haandbog-journalist.svg
-illustration_alt: Karikatur af en anonym journalist med stor næse, der holder en kæmpe åben EU-håndbog med rød forside
+illustration: haandbog-langvad.jpg
+illustration_alt: Karikatur af Jacob Langvad med briller og stor næse, der holder en håndbog med rød bogmærke-accent
 illustration_credit: Illustration: Europaposten (hurtig aviskarikatur)
 draft: nej
 sources:
