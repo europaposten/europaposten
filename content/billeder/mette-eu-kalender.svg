@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720" width="1200" height="720" role="img" aria-label="Karikatur af Mette Frederiksen foran EU-kalender med rød markering ved topmøde">
+  <rect width="1200" height="720" fill="#ffffff"/>
+  <path d="M60 645 C400 660 800 630 1140 648" fill="none" stroke="#111" stroke-width="2.4" stroke-linecap="round"/>
+  <!-- Calendar -->
+  <rect x="620" y="120" width="460" height="480" rx="10" fill="#fff" stroke="#111" stroke-width="3.4"/>
+  <rect x="620" y="120" width="460" height="70" fill="#fff" stroke="#111" stroke-width="3.4"/>
+  <text x="850" y="165" text-anchor="middle" font-family="Georgia, serif" font-size="32" fill="#111">oktober 2026</text>
+  <!-- grid -->
+  <g fill="none" stroke="#111" stroke-width="1.6">
+    <path d="M620 250 H1080 M620 320 H1080 M620 390 H1080 M620 460 H1080 M620 530 H1080"/>
+    <path d="M713 190 V600 M806 190 V600 M899 190 V600 M992 190 V600"/>
+  </g>
+  <text x="666" y="230" font-family="Georgia, serif" font-size="18" fill="#111">7</text>
+  <text x="759" y="230" font-family="Georgia, serif" font-size="18" fill="#111">8</text>
+  <text x="852" y="230" font-family="Georgia, serif" font-size="18" fill="#111">9</text>
+  <!-- Red accent circle on 15-16 -->
+  <circle cx="759" cy="495" r="36" fill="none" stroke="#C8102E" stroke-width="5"/>
+  <circle cx="852" cy="495" r="36" fill="none" stroke="#C8102E" stroke-width="5"/>
+  <text x="759" y="502" text-anchor="middle" font-family="Georgia, serif" font-size="20" fill="#C8102E">15</text>
+  <text x="852" y="502" text-anchor="middle" font-family="Georgia, serif" font-size="20" fill="#C8102E">16</text>
+  <text x="700" y="580" font-family="Georgia, serif" font-size="20" fill="#111">Topmøde</text>
+  <!-- Mette F: short blonde hair, big nose -->
+  <path d="M290 560 L275 640 M370 560 L390 642" fill="none" stroke="#111" stroke-width="3.2" stroke-linecap="round"/>
+  <path d="M260 405 C250 485 265 555 280 560 L390 560 C405 500 415 430 400 400 Z" fill="#fff" stroke="#111" stroke-width="3.2"/>
+  <path d="M245 295 C230 345 240 395 255 410 L405 405 C425 355 430 305 410 280 C350 260 285 265 245 295 Z" fill="#fff" stroke="#111" stroke-width="3.4"/>
+  <ellipse cx="325" cy="205" rx="60" ry="64" fill="#fff" stroke="#111" stroke-width="3.4"/>
+  <!-- short hair -->
+  <path d="M268 195 C280 145 370 140 388 200 C370 170 290 170 268 195" fill="none" stroke="#111" stroke-width="3.2" stroke-linecap="round"/>
+  <path d="M275 210 C300 175 360 175 380 215" fill="none" stroke="#111" stroke-width="2.4"/>
+  <circle cx="302" cy="200" r="4" fill="#111"/>
+  <circle cx="350" cy="200" r="4" fill="#111"/>
+  <path d="M320 212 C350 222 368 245 362 268 C355 288 332 292 315 280 C302 270 305 245 312 225 Z" fill="#fff" stroke="#111" stroke-width="3.1"/>
+  <path d="M300 285 C318 278 342 282 355 294" fill="none" stroke="#111" stroke-width="2.4" stroke-linecap="round"/>
+  <path d="M405 340 C500 360 580 400 620 430" fill="none" stroke="#111" stroke-width="3.4" stroke-linecap="round"/>
+  <text x="190" y="685" font-family="Georgia, serif" font-size="18" fill="#111">Mette Frederiksen</text>
+</svg>
