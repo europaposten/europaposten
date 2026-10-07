@@ -311,11 +311,44 @@ def teaser(a: Article, root, size="normal"):
 </article>"""
 
 
-def latest_list(arts, root, n=8):
-    items = "".join(
-        f'<li><time datetime="{a.date.isoformat()}">{a.date:%d.%m}</time><a href="{root}{a.url}">{esc(a.title)}</a></li>'
-        for a in arts[:n])
-    return f'<section class="latest"><h2 class="rubric">Seneste nyt</h2><ol>{items}</ol></section>'
+def kort_tekst(s: str, maks: int = 120) -> str:
+    """Første sætning af manchetten, højst `maks` tegn (klippes ved et ordskel)."""
+    s = " ".join(s.split())
+    first = re.split(r"(?<=[.!?])\s+(?=[A-ZÆØÅ»\"0-9])", s, maxsplit=1)[0]
+    if len(first) <= maks:
+        return first
+    cut = first[:maks].rsplit(" ", 1)[0].rstrip(",;:–- ")
+    return cut + "…"
+
+
+def card_media(a: Article, root, lazy=True):
+    """Billede til forsidekort – eller en neutral pladsholder i sitets stil."""
+    if a.illustration:
+        load = 'loading="lazy"' if lazy else 'loading="eager" fetchpriority="high"'
+        return (f'<div class="card-media"><img src="{root}billeder/{esc(a.illustration)}" '
+                f'alt="{esc(a.illustration_alt or a.title)}" width="1280" height="720" {load} decoding="async"></div>')
+    return (f'<div class="card-media card-placeholder" aria-hidden="true">'
+            f'<span class="ph-logo">E</span><span class="ph-sec">{esc(a.section_name)}</span></div>')
+
+
+def card(a: Article, root, size="normal"):
+    """Forsidekort: billede øverst, lille sektionsmærke, overskrift. Hele kortet er et link."""
+    tag = "h2" if size == "lead" else "h3"
+    extra = ""
+    if size == "lead":
+        extra = f'<p class="card-teaser">{esc(kort_tekst(a.summary))}</p>'
+    noimg = "" if a.illustration else " card-noimg"
+    return f"""<article class="card card-{size}{noimg}">
+  <a class="card-link" href="{root}{a.url}">
+    {card_media(a, root, lazy=(size != "lead"))}
+    <div class="card-body">
+      <p class="kicker kicker-{a.section}">{esc(a.section_name)}</p>
+      <{tag} class="card-title">{esc(a.title)}</{tag}>
+      {extra}
+      <p class="card-meta"><time datetime="{a.date.isoformat()}">{dansk_dato(a.date)}</time></p>
+    </div>
+  </a>
+</article>"""
 
 
 def render_index(site, sections, arts):
@@ -326,30 +359,23 @@ def render_index(site, sections, arts):
     featured = [a for a in arts if a.featured]
     lead = featured[0] if featured else arts[0]
     rest = [a for a in arts if a is not lead]
-    grid = "".join(teaser(a, root) for a in rest[:6])
-    sec_blocks = ""
-    for slug, name in sections.items():
-        sa = [a for a in arts if a.section == slug][:3]
-        if not sa:
-            continue
-        links = "".join(f'<li><a href="{root}{a.url}">{esc(a.title)}</a></li>' for a in sa)
-        sec_blocks += f'<section class="sec-block"><h2 class="rubric"><a href="{root}sektion/{slug}/">{esc(name)}</a></h2><ul>{links}</ul></section>'
+    side, grid_arts = rest[:2], rest[2:14]
+    side_html = "".join(card(a, root, "side") for a in side)
+    grid = "".join(card(a, root) for a in grid_arts)
+    more = ""
+    if grid_arts:
+        more = f'<section class="front-more"><h2 class="rubric">Flere nyheder</h2><div class="cards">{grid}</div></section>'
     content = f"""
-<div class="front">
-  <div class="front-main">
-    {teaser(lead, root, "lead")}
-    {ad_slot(site, "forside-banner")}
-    <div class="grid">{grid}</div>
-  </div>
-  <aside class="front-side">
-    {latest_list(arts, root)}
-    {ad_slot(site, "forside-sidebar")}
-  </aside>
+<div class="front-top">
+  {card(lead, root, "lead")}
+  <div class="front-side-cards">{side_html}</div>
 </div>
-<div class="sec-blocks">{sec_blocks}</div>
+{ad_slot(site, "forside-banner")}
+{more}
+<p class="front-archive"><a href="{root}arkiv/">Se alle artikler i arkivet →</a></p>
+{ad_slot(site, "forside-sidebar")}
 """
     return layout(site, sections, root, site["navn"], content, active="forside")
-
 
 
 def illustration_html(a: Article, root: str) -> str:
