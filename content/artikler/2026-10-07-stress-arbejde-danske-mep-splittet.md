@@ -8,8 +8,8 @@ author: Europaposten-redaktionen
 summary: Europa-Parlamentet vil have Kommissionen til at komme med et forslag mod psykisk nedslidning og stress på arbejdspladsen. De danske medlemmer delte sig næsten på midten, og Venstre stemte anderledes end de to andre danske Renew-medlemmer. Afstemningen er ikke lov, men en opfordring.
 featured: nej
 draft: nej
-illustration: stress-papirbunke.svg
-illustration_alt: Tegning af en anonym, stresset kontoransat med stor næse bag en vaklende papirbunke, mens et lille skilt viser stemmetallet 7–6 med rødt
+illustration: stress-vippe-7-6.jpg
+illustration_alt: Tegning af en vippe med syv små MEP'er i den ene ende og seks i den anden, mens en stresset kontoransat balancerer på midten med en vaklende papirbunke
 illustration_credit: Illustration: Europaposten (hurtig aviskarikatur)
 sources:
   - Europa-Parlamentet: Parliament wants better protection of workers’ mental and physical health (6. oktober 2026) | https://www.europarl.europa.eu/news/en/press-room/20261002IPR47897/parliament-wants-better-protection-of-workers-mental-and-physical-health

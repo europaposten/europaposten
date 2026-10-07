@@ -8,9 +8,9 @@ author: Europaposten-redaktionen
 summary: Fra Europaudvalget tirsdag og ECOFIN fredag til Europa-Parlamentets plenar og Det Europæiske Råd den 15.-16. oktober. Her er fem konkrete punkter med dansk vinkel.
 featured: ja
 draft: nej
-illustration: mette-eu-kalender.svg
-illustration_alt: Karikatur af Mette Frederiksen foran en kalender for oktober 2026 med rød markering ved den 15. og 16.
-illustration_credit: Af Europaposten, karikatur
+illustration: mette-jonglerer-eu-ugen.jpg
+illustration_alt: Karikatur af Mette Frederiksen, der jonglerer med fem bolde – den øverste rød – mens et kalenderblad for oktober flagrer ved hendes fødder
+illustration_credit: Illustration: Europaposten (hurtig aviskarikatur)
 sources:
   - Rådet: Et kig frem 5.–18. oktober 2026 (2. oktober 2026) | https://www.consilium.europa.eu/da/press/press-releases/2026/10/02/forward-look-2026/
   - Rådet: Economic and Financial Affairs Council, 9. oktober 2026 | https://www.consilium.europa.eu/en/meetings/ecofin/2026/10/09/

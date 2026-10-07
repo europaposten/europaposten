@@ -8,9 +8,9 @@ author: Europaposten-redaktionen
 summary: Europa-Parlamentet har vedtaget AGILE, et nyt EU-program på 115 millioner euro til hurtig forsvarsinnovation i SMV’er. Af de 15 danske MEP’er stemte 12 for, én imod, og to stemte ikke.
 featured: nej
 draft: nej
-illustration: agile-per-clausen.svg
-illustration_alt: Karikatur af Per Clausen ved siden af et AGILE-dokument med et rødt NEJ-stempel
-illustration_credit: Af Europaposten, karikatur
+illustration: agile-per-clausen-nej.jpg
+illustration_alt: Karikatur af Per Clausen (EL), der med armene over kors holder et rødt NEJ-skilt, mens en kø af små MEP'er klatrer op i en legetøjsraket mærket AGILE
+illustration_credit: Illustration: Europaposten (hurtig aviskarikatur)
 sources:
   - Europa-Parlamentet: AGILE – nyt program for innovation på forsvarsområdet godkendt (6. oktober 2026) | https://www.europarl.europa.eu/news/da/press-room/20261002IPR47892/new-agile-defence-innovation-programme-approved-by-parliament
   - Europa-Parlamentet (EN): New AGILE defence innovation programme approved by Parliament (6. oktober 2026) | https://www.europarl.europa.eu/news/en/press-room/20261002IPR47892/new-agile-defence-innovation-programme-approved-by-parliament

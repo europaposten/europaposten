@@ -8,8 +8,8 @@ author: Europaposten-redaktionen
 summary: Kommissionen vil lempe CO2-kravene til nye biler, så der også kan sælges biler med forbrændingsmotor efter 2035. Regeringen er skeptisk, men dens egne beregninger viser både flere fossilbiler og flere penge i statskassen. Fredag forelægger den et nyt forhandlingsoplæg for Europaudvalget.
 featured: ja
 draft: nej
-illustration: co2-biler-2035.svg
-illustration_alt: Tegning af en anonym embedsmand med stor næse, der holder et skilt med 2035 og 100 % streget ud med rødt og erstattet af 90 %, mens en lille benzinbil puster røg ud
+illustration: co2-biler-2035-bom.jpg
+illustration_alt: Tegning af en anonym embedsmand med sav ved en bom mærket 2035, hvor et hjørne er savet af, så en lille osende benzinbil kan snige sig igennem
 illustration_credit: Illustration: Europaposten (hurtig aviskarikatur)
 sources:
   - Klima-, Energi- og Forsyningsministeriet: Samlenotat om forslag om CO2-krav til lette køretøjer, KOM (2025) 995 – forhandlingsoplæg (29. september 2026) | https://www.eu.dk/samling/20252/kommissionsforslag/KOM(2025)0995/bilag/2/3194583.pdf
