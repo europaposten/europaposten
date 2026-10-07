@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720" width="1200" height="720" role="img" aria-label="Anonym figur med stor næse går ned ad en trappe af CO2-kvoter, hvor trinene bliver lavere, med rød pil og procentsatserne 4,4, 3,7 og 1,7">
+  <rect width="1200" height="720" fill="#ffffff"/>
+  <g fill="none" stroke="#111" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M60 645 C400 660 800 630 1140 648" stroke-width="2.4"/>
+    <!-- staircase of quota blocks: steep first, then shallow -->
+    <path d="M120 642 L120 250 L330 250 L330 360 L540 360 L540 450 L750 450 L750 520 L960 520 L960 566 L1120 566 L1120 646" fill="none" stroke-width="3.6"/>
+    <!-- block seams like stacked tickets -->
+    <path d="M120 300 L330 300 M120 350 L330 350 M330 410 L540 410 M540 500 L750 500 M750 560 L960 560" stroke-width="1.8"/>
+  </g>
+  <text x="168" y="290" font-family="Georgia, serif" font-size="28" font-weight="bold" fill="#111">CO2</text>
+  <text x="378" y="400" font-family="Georgia, serif" font-size="28" font-weight="bold" fill="#111">CO2</text>
+  <text x="588" y="490" font-family="Georgia, serif" font-size="28" font-weight="bold" fill="#111">CO2</text>
+  <text x="798" y="552" font-family="Georgia, serif" font-size="24" font-weight="bold" fill="#111">CO2</text>
+  <text x="352" y="340" font-family="Georgia, serif" font-size="26" fill="#111">4,4 %</text>
+  <text x="560" y="432" font-family="Georgia, serif" font-size="26" fill="#111">3,7 %</text>
+  <text x="978" y="556" font-family="Georgia, serif" font-size="26" fill="#111">1,7 %</text>
+  <text x="140" y="690" font-family="Georgia, serif" font-size="20" fill="#111">i dag</text>
+  <text x="560" y="690" font-family="Georgia, serif" font-size="20" fill="#111">2031–35</text>
+  <text x="800" y="690" font-family="Georgia, serif" font-size="20" fill="#111">fra 2036</text>
+  <!-- red accent: arrow flattening -->
+  <path d="M180 200 C380 300 560 400 760 460 C860 486 960 500 1080 506" fill="none" stroke="#C8102E" stroke-width="6" stroke-linecap="round"/>
+  <path d="M1056 488 L1086 506 L1056 524" fill="none" stroke="#C8102E" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <g fill="none" stroke="#111" stroke-linecap="round" stroke-linejoin="round">
+    <!-- figure strolling on the 1.7 step (on top at y=520) -->
+    <path d="M846 520 L860 470 L874 520" stroke-width="3.2"/>
+    <path d="M836 478 C832 440 838 410 860 400 C882 410 888 440 884 478 Z" fill="#fff" stroke-width="3.2"/>
+    <path d="M884 432 C900 444 908 456 912 470" stroke-width="3"/>
+    <path d="M900 466 L930 466 L930 490 L900 490 Z" fill="#fff" stroke-width="2.6"/>
+    <path d="M836 432 C822 446 818 458 820 470" stroke-width="3"/>
+    <!-- head -->
+    <ellipse cx="860" cy="366" rx="28" ry="32" fill="#fff" stroke-width="3.2"/>
+    <path d="M840 344 C848 330 870 328 880 340" stroke-width="2.6"/>
+    <circle cx="852" cy="360" r="3.4" fill="#111" stroke="none"/>
+    <circle cx="872" cy="358" r="3.4" fill="#111" stroke="none"/>
+    <!-- big nose -->
+    <path d="M864 364 C882 368 906 382 906 398 C906 412 890 416 878 410 C866 404 862 390 862 376 Z" fill="#fff" stroke-width="3"/>
+    <path d="M846 388 C852 392 858 392 862 388" stroke-width="2.2"/>
+    <!-- relaxed whistle notes -->
+    <path d="M924 352 L924 330 L936 334 M944 330 L944 310 L956 314" stroke-width="2.2"/>
+  </g>
+</svg>

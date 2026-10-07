@@ -124,3 +124,9 @@ main.wrap{padding-top:28px;padding-bottom:40px}
   .standfirst{font-size:1.15rem}
   .topbar-links a{margin-left:10px}
 }
+
+/* Tabeller i artikler (fx afstemningsoversigter) */
+.table-wrap{overflow-x:auto;margin:1.2em 0}
+.story-body table{border-collapse:collapse;width:100%;font-size:.95rem}
+.story-body th,.story-body td{border-bottom:1px solid #ddd;padding:6px 8px;text-align:left;vertical-align:top}
+.story-body th{border-bottom:2px solid #111;font-weight:700}
