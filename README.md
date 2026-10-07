@@ -11,7 +11,7 @@ eu-nyheder/
 ├── build.py              # site-generatoren
 ├── config.ini            # sitets navn, adresse, sektioner m.m.
 ├── content/artikler/     # én .md-fil pr. artikel
-├── content/billeder/     # lead-illustrationer (jpg/png/svg) refereret fra front matter
+├── content/billeder/     # lead-tegninger og arkivfotos (jpg) refereret fra front matter
 ├── static/               # style.css og favicon
 ├── public/               # det færdige site (laves af build.py – ret ikke her)
 ├── content/kladder/      # kladder (ignoreres af git – kommer aldrig i det offentlige repo)
@@ -49,6 +49,28 @@ eu-nyheder/
 
 3. Skriv brødteksten under den sidste `---` i almindelig Markdown:
    `## Mellemrubrik`, `**fed**`, `*kursiv*`, `[linktekst](https://...)`, `> citat` og punktlister med `- `.
+
+   **Citatboks (fremhævet citat):** Skriv citatet som en blockquote, og læg afsenderen på sidste linje efter en lang tankestreg (`—` eller `--`). Det bliver vist som et stort citat med rødt anførselstegn og en lille afsenderlinje. Uden afsenderlinje bliver det en almindelig blockquote.
+
+   ```markdown
+   > Der er stadig et stykke vej til et totalforbud. Det er der, vi ønsker at ende.
+   > — [Samira Nawa (R), skatteordfører, til Ritzau](https://link-til-kilden) 24. oktober 2025
+   ```
+
+   Brug kun ordrette citater, der står i en kilde, og link til kilden i afsenderlinjen.
+
+   **Billeder:** Lead-billedet angives i front matter. Tegninger krediteres med `illustration_credit`. Arkivfotos (fx Wikimedia Commons med fri licens eller EU-institutionernes mediebanker) skal have fotograf, licens og kildelink – ellers stopper `build.py` med en fejl:
+
+   ```yaml
+   illustration: parken-2010.jpg            # fil i content/billeder/ (JPG, ca. 1200 px bred)
+   illustration_alt: Kort, faktuel beskrivelse af billedet
+   illustration_caption: Billedtekst (valgfri)
+   illustration_photographer: Fotografens navn
+   illustration_license: CC BY 2.0
+   illustration_license_url: https://creativecommons.org/licenses/by/2.0/
+   illustration_source: https://commons.wikimedia.org/wiki/File:...
+   illustration_credit: Foto: Navn via [Wikimedia Commons](https://...), [CC BY 2.0](https://...). Beskåret.   # valgfri – ellers bygges linjen af felterne ovenfor
+   ```
 
 4. Byg sitet og se resultatet lokalt:
 
