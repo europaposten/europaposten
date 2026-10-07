@@ -118,10 +118,20 @@ def inline_md(s: str) -> str:
 
 
 def markdown(md: str) -> str:
-    out, para, listbuf, quote = [], [], [], []
+    out, para, listbuf, quote, table = [], [], [], [], []
+
+    def cells(row):
+        return [c.strip() for c in row.strip().strip("|").split("|")]
 
     def flush():
-        nonlocal para, listbuf, quote
+        nonlocal para, listbuf, quote, table
+        if table:
+            rows = [r for r in table if not re.fullmatch(r"\|?\s*:?-{3,}:?\s*(\|\s*:?-{3,}:?\s*)*\|?", r.strip())]
+            head, body = rows[0], rows[1:]
+            html = "<div class=\"table-wrap\"><table><thead><tr>" + "".join(f"<th>{inline_md(c)}</th>" for c in cells(head)) + "</tr></thead><tbody>"
+            html += "".join("<tr>" + "".join(f"<td>{inline_md(c)}</td>" for c in cells(r)) + "</tr>" for r in body)
+            out.append(html + "</tbody></table></div>")
+            table = []
         if para:
             out.append("<p>" + inline_md(" ".join(para)) + "</p>")
             para = []
@@ -141,16 +151,20 @@ def markdown(md: str) -> str:
             level = min(len(st) - len(st.lstrip("#")), 4)
             level = max(level, 2)  # h1 er forbeholdt overskriften
             out.append(f"<h{level}>{inline_md(st.lstrip('#').strip())}</h{level}>")
+        elif st.startswith("|") and st.endswith("|"):
+            if para or listbuf or quote:
+                flush()
+            table.append(st)
         elif st.startswith(("- ", "* ")):
-            if para or quote:
+            if para or quote or table:
                 flush()
             listbuf.append(st[2:])
         elif st.startswith(">"):
-            if para or listbuf:
+            if para or listbuf or table:
                 flush()
             quote.append(st.lstrip("> ").strip())
         else:
-            if listbuf or quote:
+            if listbuf or quote or table:
                 flush()
             para.append(st)
     flush()

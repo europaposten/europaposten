@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720" width="1200" height="720" role="img" aria-label="Anonym embedsmand med stor næse holder skilt hvor 2035 og 100 procent er streget ud med rødt og erstattet af 90 procent, ved siden af en lille benzinbil der puster røg">
+  <rect width="1200" height="720" fill="#ffffff"/>
+  <g fill="none" stroke="#111" stroke-linecap="round" stroke-linejoin="round">
+    <!-- ground -->
+    <path d="M60 640 C330 652 640 628 900 644 C1000 650 1080 640 1140 646" stroke-width="2.4"/>
+    <!-- official: legs -->
+    <path d="M300 520 C296 560 290 600 284 638 M352 520 C356 560 362 600 370 638" stroke-width="3.4"/>
+    <path d="M270 640 C280 634 296 634 300 640 M356 640 C366 634 384 634 392 641" stroke-width="3"/>
+    <!-- coat -->
+    <path d="M262 330 C246 400 250 470 268 525 L382 525 C398 470 402 400 388 330 C352 312 298 312 262 330 Z" fill="#fff" stroke-width="3.4"/>
+    <path d="M325 318 L310 400 L325 430 L340 400 Z" stroke-width="2.4"/>
+    <path d="M325 430 L325 520" stroke-width="2"/>
+    <!-- head -->
+    <path d="M276 205 C272 150 300 120 330 120 C368 120 392 150 388 205 C386 252 360 290 330 292 C298 292 280 255 276 205 Z" fill="#fff" stroke-width="3.4"/>
+    <!-- sparse hair -->
+    <path d="M296 136 C300 124 312 118 320 122 M330 120 C334 110 346 108 352 116 M356 128 C364 120 374 124 376 132" stroke-width="2.6"/>
+    <!-- eyes, brows -->
+    <path d="M300 182 C308 176 318 176 324 182 M342 180 C350 174 360 176 366 182" stroke-width="2.6"/>
+    <circle cx="312" cy="196" r="4" fill="#111" stroke="none"/>
+    <circle cx="354" cy="194" r="4" fill="#111" stroke="none"/>
+    <!-- huge silly nose -->
+    <path d="M330 200 C352 206 392 226 396 252 C400 276 374 286 350 276 C330 268 322 250 326 230 Z" fill="#fff" stroke-width="3.2"/>
+    <!-- worried mouth -->
+    <path d="M318 270 C326 264 336 266 340 272" stroke-width="2.4"/>
+    <!-- arms up holding sign -->
+    <path d="M268 350 C246 400 244 440 252 480" stroke-width="3.4"/>
+    <path d="M384 350 C440 320 480 280 500 236" stroke-width="3.4"/>
+    <!-- sign -->
+    <path d="M440 60 L756 56 L760 200 L442 204 Z" fill="#fff" stroke-width="3.6"/>
+    <path d="M500 204 L500 236" stroke-width="3"/>
+  </g>
+  <text x="482" y="118" font-family="Georgia, serif" font-size="46" font-weight="bold" fill="#111">2035:</text>
+  <text x="624" y="118" font-family="Georgia, serif" font-size="46" font-weight="bold" fill="#111">100 %</text>
+  <text x="636" y="180" font-family="Georgia, serif" font-size="42" font-style="italic" fill="#111">90 %</text>
+  <!-- red accent: strike-through -->
+  <path d="M616 108 C654 94 704 86 752 76 M618 122 C664 106 714 94 754 88" fill="none" stroke="#C8102E" stroke-width="6" stroke-linecap="round"/>
+  <g fill="none" stroke="#111" stroke-linecap="round" stroke-linejoin="round">
+    <!-- small petrol car -->
+    <path d="M700 590 C700 560 712 540 740 534 L790 494 C800 486 812 482 826 482 L930 482 C946 482 958 490 966 500 L1000 534 C1030 538 1046 556 1046 590 Z" fill="#fff" stroke-width="3.4"/>
+    <path d="M800 532 L834 500 L882 500 L882 532 Z M900 532 L900 500 L944 500 L972 532 Z" stroke-width="2.6"/>
+    <circle cx="770" cy="596" r="30" fill="#fff" stroke-width="3.4"/>
+    <circle cx="980" cy="596" r="30" fill="#fff" stroke-width="3.4"/>
+    <circle cx="770" cy="596" r="8" stroke-width="2.4"/>
+    <circle cx="980" cy="596" r="8" stroke-width="2.4"/>
+    <!-- exhaust pipe -->
+    <path d="M700 580 L676 580" stroke-width="3.4"/>
+    <!-- smoke puffs -->
+    <path d="M660 572 C640 560 618 572 626 590 C604 594 606 622 630 620 C634 640 664 636 662 616 C684 618 688 590 666 586 C676 578 670 570 660 572 Z" stroke-width="2.6"/>
+    <path d="M590 540 C572 528 552 540 560 556 C542 562 548 584 568 580 C576 596 600 590 596 572 C614 570 612 546 590 540 Z" stroke-width="2.4"/>
+    <path d="M530 500 C518 492 504 500 510 512 C498 518 504 532 518 528 C524 540 540 534 538 522 C550 520 546 504 530 500 Z" stroke-width="2.2"/>
+    <!-- little speed lines -->
+    <path d="M1066 540 L1110 540 M1070 560 L1124 560 M1066 580 L1100 580" stroke-width="2.2"/>
+  </g>
+  <text x="836" y="660" font-family="Georgia, serif" font-size="20" fill="#111">benzin</text>
+</svg>
