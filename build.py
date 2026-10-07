@@ -117,6 +117,28 @@ def inline_md(s: str) -> str:
     return s
 
 
+# Citatboks: en blockquote, hvis sidste linje starter med "— " (lang tankestreg) eller "-- ",
+# bliver til et fremhævet citat med afsender. Uden afsenderlinje: almindelig blockquote.
+# (Kort tankestreg "– " bruges ikke, fordi den er dansk replikstreg i citater.)
+ATTRIB_RE = re.compile(r"^(?:—|--)\s*(.+)$")
+
+
+def render_quote(lines) -> str:
+    lines = [l for l in lines if l]
+    attrib = None
+    if len(lines) >= 2:
+        m = ATTRIB_RE.match(lines[-1])
+        if m:
+            attrib, lines = m.group(1).strip(), lines[:-1]
+    text = inline_md(" ".join(lines))
+    if not attrib:
+        return f"<blockquote><p>{text}</p></blockquote>"
+    # Fjern eventuelle anførselstegn rundt om citatet – citatboksen tegner selv sit tegn
+    text = re.sub(r'^(?:&quot;|[”“»«"])\s*|\s*(?:&quot;|[”“»«"])$', "", text)
+    return (f'<figure class="pullquote"><blockquote><p>{text}</p></blockquote>'
+            f'<figcaption>— {inline_md(attrib)}</figcaption></figure>')
+
+
 def markdown(md: str) -> str:
     out, para, listbuf, quote, table = [], [], [], [], []
 
@@ -139,7 +161,7 @@ def markdown(md: str) -> str:
             out.append("<ul>" + "".join(f"<li>{inline_md(i)}</li>" for i in listbuf) + "</ul>")
             listbuf = []
         if quote:
-            out.append("<blockquote><p>" + inline_md(" ".join(quote)) + "</p></blockquote>")
+            out.append(render_quote(quote))
             quote = []
 
     for line in md.splitlines():
@@ -162,7 +184,7 @@ def markdown(md: str) -> str:
         elif st.startswith(">"):
             if para or listbuf or table:
                 flush()
-            quote.append(st.lstrip("> ").strip())
+            quote.append(st[1:].strip())
         else:
             if listbuf or quote or table:
                 flush()
@@ -203,6 +225,19 @@ class Article:
             self.illustration = self.illustration[len("billeder/"):]
         self.illustration_alt = (meta.get("illustration_alt") or "").strip()
         self.illustration_credit = (meta.get("illustration_credit") or "").strip()
+        # Billedtekst og rettighedsoplysninger (bruges især ved arkivfotos)
+        self.illustration_caption = (meta.get("illustration_caption") or "").strip()
+        self.illustration_photographer = (meta.get("illustration_photographer") or "").strip()
+        self.illustration_license = (meta.get("illustration_license") or "").strip()
+        self.illustration_license_url = (meta.get("illustration_license_url") or "").strip()
+        self.illustration_source = (meta.get("illustration_source") or "").strip()
+        if self.illustration:
+            if not (IMAGES / self.illustration).exists():
+                raise ValueError(f"{path.name}: billedet '{self.illustration}' findes ikke i content/billeder/")
+            if not self.illustration_credit and not self.illustration_photographer:
+                raise ValueError(f"{path.name}: billedet mangler kreditering (illustration_credit eller illustration_photographer)")
+            if self.illustration_photographer and not (self.illustration_license and self.illustration_source):
+                raise ValueError(f"{path.name}: arkivfoto skal have både illustration_license og illustration_source")
         self.body_md = body
         self.body_html = markdown(body)
         words = len(re.findall(r"\w+", body))
@@ -384,13 +419,23 @@ def illustration_html(a: Article, root: str) -> str:
         return ""
     src = f"{root}billeder/{esc(a.illustration)}"
     alt = esc(a.illustration_alt or a.title)
-    credit = ""
-    if a.illustration_credit:
-        credit = f'<figcaption class="illustration-credit">{esc(a.illustration_credit)}</figcaption>'
+    credit_md = a.illustration_credit
+    if not credit_md and a.illustration_photographer:
+        # Byg krediteringen af de strukturerede felter: Foto: Navn / Kilde, licens
+        lic = a.illustration_license
+        if a.illustration_license_url:
+            lic = f"[{lic}]({a.illustration_license_url})"
+        credit_md = f"Foto: {a.illustration_photographer} / [kilde]({a.illustration_source}), {lic}"
+    parts = []
+    if a.illustration_caption:
+        parts.append(f'<span class="illustration-caption">{inline_md(a.illustration_caption)}</span>')
+    if credit_md:
+        parts.append(f'<span class="illustration-credit-line">{inline_md(credit_md)}</span>')
+    caption = f'<figcaption class="illustration-credit">{" ".join(parts)}</figcaption>' if parts else ""
     return (
         f'<figure class="story-illustration">\n'
         f'  <img src="{src}" alt="{alt}" loading="eager" decoding="async">\n'
-        f'  {credit}\n'
+        f'  {caption}\n'
         f'</figure>'
     )
 
