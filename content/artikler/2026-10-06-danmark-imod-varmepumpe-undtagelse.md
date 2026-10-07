@@ -8,9 +8,9 @@ author: Europaposten-redaktionen
 summary: Regeringen agter ikke at støtte et komitéforslag om midlertidig undtagelse fra eksportforbuddet for visse varmepumper med fluorholdige drivhusgasser. Sagen var sat til afstemning i F-gas-forvaltningskomitéen den 6. oktober.
 featured: nej
 draft: nej
-illustration: lokke-varmepumpe.svg
-illustration_alt: Karikatur af Lars Løkke Rasmussen ved en varmepumpe med rødt stempel med teksten Ikke støtte
-illustration_credit: Af Europaposten, karikatur
+illustration: lokke-varmepumpe-bom.jpg
+illustration_alt: Karikatur af Lars Løkke Rasmussen som grænsevagt, der sænker en rød bom foran en varmepumpe med kuffert, der prøver at snige sig ud
+illustration_credit: Illustration: Europaposten (hurtig aviskarikatur)
 sources:
   - Udenrigsministeriet / Europaudvalget: Følgeskrivelse om komitésag – tidsbegrænset undtagelse fra eksportforbud af visse typer af varmepumper (29. september 2026, EUU Alm.del bilag 267) | https://www.ft.dk/samling/20252/almdel/euu/bilag/267/3192499.pdf
   - Europa-Parlamentets og Rådets forordning (EU) 2024/573 om fluorholdige drivhusgasser | https://eur-lex.europa.eu/legal-content/DA/TXT/?uri=CELEX:32024R0573

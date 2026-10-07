@@ -8,8 +8,8 @@ author: Europaposten-redaktionen
 summary: Mandag diskuterer EU's miljøministre Kommissionens forslag om at revidere kvotehandelssystemet ETS. Forslaget giver flere CO2-kvoter efter 2030 og trækker affaldsforbrænding og mere sø- og luftfart ind. Regeringen vil holde fast i et højt ambitionsniveau, og dens egne notater viser, at statens kvoteindtægter kan blive ramt.
 featured: nej
 draft: nej
-illustration: ets-kvotetrappe.svg
-illustration_alt: Tegning af en anonym figur med stor næse, der går ned ad en trappe af CO2-kvoter, hvor trinene bliver lavere, med en rød pil og procentsatserne 4,4, 3,7 og 1,7
+illustration: ets-kvotetrappe-flad.jpg
+illustration_alt: Tegning af en anonym industrimand, der går ned ad en trappe af CO2-kvoter, hvor trinene bliver stadig fladere, med en rød pil der flader ud
 illustration_credit: Illustration: Europaposten (hurtig aviskarikatur)
 sources:
   - Klima-, Energi- og Forsyningsministeriet: Grund- og nærhedsnotat om revision af EU's kvotehandelssystem, KOM (2026) 616 (23. september 2026, KEF Alm.del bilag 198) | https://www.ft.dk/samling/20252/almdel/kef/bilag/198/3193822.pdf

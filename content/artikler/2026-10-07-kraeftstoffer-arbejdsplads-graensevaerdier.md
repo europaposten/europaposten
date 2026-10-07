@@ -8,8 +8,8 @@ author: Europaposten-redaktionen
 summary: Europa-Parlamentet har godkendt skærpede regler for kræftfremkaldende stoffer på arbejdspladsen, blandt andet kobolt fra batteriproduktion. I Danmark skal grænseværdien for opløsningsmidlet 1,4-dioxan skærpes fem gange, men regeringen venter små konsekvenser for erhvervslivet.
 featured: nej
 draft: nej
-illustration: kraeft-aandevaern.svg
-illustration_alt: Tegning af en anonym arbejder med stor næse, der stikker ud under et åndedrætsværn, ved siden af en tønde med en rød advarselstrekant
+illustration: kraeft-aandevaern-naese.jpg
+illustration_alt: Tegning af en anonym arbejder, hvis store næse ikke kan passe ind i åndedrætsværnet, ved siden af en tønde med rød advarselstrekant
 illustration_credit: Illustration: Europaposten (hurtig aviskarikatur)
 sources:
   - Europa-Parlamentet: Updated rules to protect workers from exposure to dangerous chemicals (6. oktober 2026) | https://www.europarl.europa.eu/news/en/press-room/20261002IPR47899/updated-rules-to-protect-workers-from-exposure-to-dangerous-chemicals
