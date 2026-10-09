@@ -168,6 +168,20 @@ def markdown(md: str) -> str:
         st = line.strip()
         if not st:
             flush()
+        elif st.startswith("!billede "):
+            # Billede i brødteksten: !billede fil.jpg | alt-tekst | billedtekst | kreditering (markdown)
+            flush()
+            parts = [x.strip() for x in st[len("!billede "):].split(" | ")]
+            if len(parts) != 4 or not all(parts):
+                raise ValueError(f"!billede kræver 4 felter (fil | alt | billedtekst | kreditering): {st}")
+            fil, alt, cap, credit = parts
+            if not (IMAGES / fil).exists():
+                raise ValueError(f"billedet '{fil}' findes ikke i content/billeder/")
+            out.append(
+                f'<figure class="story-illustration inline-illustration">'
+                f'<img src="../../billeder/{esc(fil)}" alt="{esc(alt)}" loading="lazy" decoding="async">'
+                f'<figcaption class="illustration-credit"><span class="illustration-caption">{inline_md(cap)}</span> '
+                f'<span class="illustration-credit-line">{inline_md(credit)}</span></figcaption></figure>')
         elif st.startswith("#"):
             flush()
             level = min(len(st) - len(st.lstrip("#")), 4)
