@@ -7,6 +7,9 @@ kicker: Europa-Parlamentet
 author: Europaposten-redaktionen
 summary: Liberal Alliances Henrik Dahl kritiserer Jens Galschiøts forgyldte nøgne Trump-statue i Europa-Parlamentet som banalt og "venstreorienteret kitsch". Det er et dansk opgør på tværs af partiskel: Enhedslistens Per Clausen fik skulpturen ind som satire, mens Dahl – fra samme land som kunstneren – afviser den som intellektuelt doven. Slovakiets premierminister Robert Fico krævede den fjernet.
 draft: nej
+illustration: dahl-kitsch-statue.jpg
+illustration_alt: Karikatur af Henrik Dahl (LA), der ser skeptisk på en tilsløret statue med bare fødder, golfkølle og rødt klæde
+illustration_credit: Illustration: Europaposten (hurtig aviskarikatur)
 sources:
   - X: Henrik Dahl (@SociologenHD) om Galschiøts skulptur (8. oktober 2026) | https://x.com/SociologenHD/status/2108120025663975572
   - Europaposten: Dansk MEP fik en nøgen guld-Trump ind i Europa-Parlamentet – sådan er reglerne (8. oktober 2026) | https://europaposten.dk/guld-trump-europa-parlamentet-per-clausen/

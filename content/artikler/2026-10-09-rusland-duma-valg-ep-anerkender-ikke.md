@@ -7,6 +7,9 @@ kicker: Europa-Parlamentet
 author: Europaposten-redaktionen
 summary: Europa-Parlamentet nægter at anerkende den nye russiske Statsduma efter valget 18.–20. september 2026 som legitim. Resolutionen blev vedtaget med 482 stemmer for. Elleve danske MEP'er stemte for, Majbritt Birkholm (DF) undlod, og tre stemte ikke. Ingen danskere stemte imod. Teksten opfordrer medlemslandene til at undgå officielle kontakter med det nye kammer.
 draft: nej
+illustration: duma-nej-stemme.jpg
+illustration_alt: Karikatur af anonym embedsmand, der stempler NO på et papir mærket DUMA med rødt segl
+illustration_credit: Illustration: Europaposten (hurtig aviskarikatur)
 sources:
   - Europa-Parlamentet: Parliament slams Russian State Duma elections as complete sham (pressemeddelelse, 8. oktober 2026) | https://www.europarl.europa.eu/news/en/press-room/20261002IPR47908/parliament-slams-russian-state-duma-elections-as-complete-sham
   - HowTheyVote.eu: Afstemning RC-B10-0441/2026 om Ruslands Statsduma-valg 2026 (8. oktober 2026) | https://howtheyvote.eu/votes/198216

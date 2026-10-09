@@ -7,6 +7,9 @@ kicker: Europa-Parlamentet
 author: Europaposten-redaktionen
 summary: Europa-Parlamentet vedtog torsdag en resolution om en EU-strategi mod islamistisk "entryism" og Muslim Brotherhood-netværk med 381 stemmer for. Kristoffer Storm (DD) roser beslutningen og kritiserer SF for ikke at stemme. Afstemningen viser, at alle tre SF-MEP'er og to af tre socialdemokrater heller ikke deltog – kun Niels Fuglsang undlod blankt. Resolutionen sætter ikke Broderskabet på terrorlisten, men beder Rådet overveje listing, hvis kriterierne er opfyldt.
 draft: nej
+illustration: storm-brotherhood-stemme.jpg
+illustration_alt: Karikatur af Kristoffer Storm (DD) med stemmeseddel og rødt Danmarksdemokraterne-stempel
+illustration_credit: Illustration: Europaposten (hurtig aviskarikatur)
 sources:
   - HowTheyVote.eu: Afstemning B10-0424/2026 om EU-strategi mod islamistisk entryism og Muslim Brotherhood-netværket (8. oktober 2026) | https://howtheyvote.eu/votes/198051
   - HowTheyVote.eu: CSV med individuelle stemmer for afstemning 198051 | https://howtheyvote.eu/api/votes/198051.csv
