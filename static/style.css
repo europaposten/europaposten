@@ -40,6 +40,19 @@ main.wrap{padding-top:28px;padding-bottom:40px}
 .meta{font-size:.8rem;color:var(--muted);margin:8px 0 0}
 .byline{font-weight:600;color:var(--ink)}
 
+/* Læs op (oplæsning med browserens talesyntese) */
+.laes-op{display:flex;align-items:center;gap:8px;margin:10px 0 0;font-family:var(--sans)}
+.laes-op[hidden]{display:none}
+.laes-op button{font:inherit;font-size:.78rem;font-weight:600;line-height:1;color:var(--ink);background:var(--paper);border:1px solid var(--line);border-radius:999px;padding:6px 12px;cursor:pointer;display:inline-flex;align-items:center;gap:6px}
+.laes-op button[hidden]{display:none}
+.laes-op button:hover{border-color:var(--ink)}
+.laes-op button:focus-visible{outline:2px solid var(--navy);outline-offset:2px}
+.laes-op-knap[aria-pressed="true"]{border-color:var(--accent);color:var(--accent)}
+.laes-op-stop{color:var(--muted)}
+.laes-op-ikon{flex:none}
+.visually-hidden{position:absolute!important;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;border:0}
+@media print{.laes-op{display:none!important}}
+
 /* Teasere (bruges i 'Læs også' på artikelsider) */
 .teaser-link{text-decoration:none;display:block}
 .teaser-link:hover .teaser-title{text-decoration:underline;text-decoration-thickness:1px;text-underline-offset:3px}
