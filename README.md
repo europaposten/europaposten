@@ -72,6 +72,12 @@ eu-nyheder/
    illustration_credit: Foto: Navn via [Wikimedia Commons](https://...), [CC BY 2.0](https://...). Beskåret.   # valgfri – ellers bygges linjen af felterne ovenfor
    ```
 
+   **Billede i brødteksten:** Skriv en linje for sig selv med fire felter adskilt af " | ": fil i `content/billeder/`, alt-tekst, billedtekst og kreditering (markdown, med fotograf, licens og kildelink for arkivfotos):
+
+   ```
+   !billede fil.jpg | Alt-tekst | Billedtekst med årstal | Foto: Navn via [Wikimedia Commons](https://...), [CC BY 4.0](https://...)
+   ```
+
 4. Byg sitet og se resultatet lokalt:
 
    ```bash
