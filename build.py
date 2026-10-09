@@ -478,6 +478,7 @@ def render_article(site, sections, a: Article, arts):
 <meta property="og:url" content="{esc(abs_url)}">
 <meta property="og:locale" content="da_DK">{og_image}
 <meta property="article:published_time" content="{a.date.isoformat()}">
+<script src="{root}static/laes-op.js" defer></script>
 <script type="application/ld+json">{{"@context":"https://schema.org","@type":"NewsArticle","headline":{json_str(a.title)},"description":{json_str(a.summary)},"datePublished":"{a.date.isoformat()}","inLanguage":"da","author":{{"@type":"Organization","name":{json_str(a.author)}}},"publisher":{{"@type":"Organization","name":{json_str(site['navn'])}}}{ld_image}}}</script>"""
     content = f"""
 <article class="story">
@@ -487,6 +488,11 @@ def render_article(site, sections, a: Article, arts):
     {illustration_html(a, root)}
     <p class="standfirst">{esc(a.summary)}</p>
     <p class="meta">{byline(a)}{updated} · {a.minutes} min. læsning</p>
+    <div class="laes-op" role="group" aria-label="Oplæsning af artiklen" hidden>
+      <button type="button" class="laes-op-knap" aria-label="Læs artiklen op" aria-pressed="false"><svg class="laes-op-ikon" viewBox="0 0 24 24" width="16" height="16" aria-hidden="true" focusable="false"><path d="M3 9v6h4l5 4V5L7 9H3zm13.5 3a4.5 4.5 0 0 0-2.5-4v8a4.5 4.5 0 0 0 2.5-4zM14 3.2v2.1a7 7 0 0 1 0 13.4v2.1a9 9 0 0 0 0-17.6z" fill="currentColor"/></svg><span class="laes-op-tekst">Læs op</span></button>
+      <button type="button" class="laes-op-stop" aria-label="Stop oplæsningen" hidden>Stop</button>
+      <span class="laes-op-status visually-hidden" aria-live="polite"></span>
+    </div>
   </header>
   <div class="story-body">
     {a.body_html}
