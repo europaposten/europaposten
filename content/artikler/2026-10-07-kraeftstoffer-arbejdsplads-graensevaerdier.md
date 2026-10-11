@@ -3,6 +3,7 @@ title: "Nye EU-grænseværdier for kræftstoffer på jobbet: 11 danske ja-stemme
 slug: kraeftstoffer-arbejdsplads-graensevaerdier
 date: 2026-10-07 07:45
 section: politik
+type: Nyhed
 kicker: Arbejdsmiljø
 author: Europaposten-redaktionen
 summary: Europa-Parlamentet har godkendt skærpede regler for kræftfremkaldende stoffer på arbejdspladsen, blandt andet kobolt fra batteriproduktion. I Danmark skal grænseværdien for opløsningsmidlet 1,4-dioxan skærpes fem gange, men regeringen venter små konsekvenser for erhvervslivet.

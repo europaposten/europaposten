@@ -3,6 +3,7 @@ title: "Henrik Dahl kalder Galschiøts guld-Trump for venstreorienteret kitsch"
 slug: henrik-dahl-galschiot-kitsch-trump
 date: 2026-10-09 06:45
 section: politik
+type: Nyhed
 kicker: Europa-Parlamentet
 author: Europaposten-redaktionen
 summary: Liberal Alliances Henrik Dahl kritiserer Jens Galschiøts forgyldte nøgne Trump-statue i Europa-Parlamentet som banalt og "venstreorienteret kitsch". Det er et dansk opgør på tværs af partiskel: Enhedslistens Per Clausen fik skulpturen ind som satire, mens Dahl – fra samme land som kunstneren – afviser den som intellektuelt doven. Slovakiets premierminister Robert Fico krævede den fjernet.

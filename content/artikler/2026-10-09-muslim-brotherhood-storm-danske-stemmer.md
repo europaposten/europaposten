@@ -3,6 +3,7 @@ title: "Muslim Brotherhood-resolution: Storm spørger, hvorfor SF ikke stemte �
 slug: muslim-brotherhood-storm-danske-stemmer
 date: 2026-10-09 06:30
 section: politik
+type: Nyhed
 kicker: Europa-Parlamentet
 author: Europaposten-redaktionen
 summary: Europa-Parlamentet vedtog torsdag en resolution om en EU-strategi mod islamistisk "entryism" og Muslim Brotherhood-netværk med 381 stemmer for. Kristoffer Storm (DD) roser beslutningen og kritiserer SF for ikke at stemme. Afstemningen viser, at alle tre SF-MEP'er og to af tre socialdemokrater heller ikke deltog – kun Niels Fuglsang undlod blankt. Resolutionen sætter ikke Broderskabet på terrorlisten, men beder Rådet overveje listing, hvis kriterierne er opfyldt.

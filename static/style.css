@@ -181,3 +181,14 @@ main.wrap{padding-top:28px;padding-bottom:40px}
 .story-body th,.story-body td{border-bottom:1px solid #ddd;padding:6px 8px;text-align:left;vertical-align:top}
 .story-body th{border-bottom:2px solid #111;font-weight:700}
 .story-body .inline-illustration{margin:26px 0}
+/* Artikeltype, juridisk footer, rettelser, emneoversigt */
+.type-label{display:inline-block;color:var(--ink);border:1px solid currentColor;border-radius:2px;padding:0 5px;margin-right:6px;font-size:.68rem;letter-spacing:.06em}
+.type-label a{text-decoration:none;color:inherit}
+.type-analyse,.type-long-read{color:#7a1f1f}.type-forklaring,.type-faktatjek{color:#1f4f6b}.type-ministersvar{color:#4a4a00}
+.footer .type-label{color:#fff}
+.footer-legal{font-size:.85rem;color:#e9eef4;border-top:1px solid #2a4a6c;margin-top:20px;padding-top:12px}
+.footer-legal p{margin:4px 0}
+.corrections{border-left:3px solid var(--accent);padding-left:12px;margin-bottom:16px}
+.corrections h2{font-size:1rem;margin:0 0 6px}
+.topics-grid{display:grid;grid-template-columns:1fr 1fr;gap:32px}
+@media (max-width:700px){.topics-grid{grid-template-columns:1fr}}

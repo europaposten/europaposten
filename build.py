@@ -45,7 +45,25 @@ def load_config():
     site["vis_annoncepladser"] = site.get("vis_annoncepladser", "nej").lower() in ("ja", "yes", "true", "1")
     site["cf_analytics_token"] = site.get("cf_analytics_token", "").strip()
     sections = dict(cp["sektioner"])
+    red = dict(cp["redaktion"]) if cp.has_section("redaktion") else {}
+    site["redaktoer"] = red.get("ansvarshavende", "").strip()
+    site["redaktoer_titel"] = red.get("titel", "Ansvarshavende redaktør").strip()
     return site, sections
+
+
+# Artikeltyper (front matter 'type'). Rækkefølgen bruges på oversigtssider.
+ARTIKELTYPER = {
+    "nyhed": "Nyhed", "analyse": "Analyse", "forklaring": "Forklaring",
+    "faktatjek": "Faktatjek", "ministersvar": "Ministersvar", "long-read": "Long read",
+}
+TYPE_BESKRIVELSE = {
+    "nyhed": "Nyheder om beslutninger, afstemninger og forslag i EU – med dansk vinkel og link til primærkilderne.",
+    "analyse": "Analyser sætter en sag i perspektiv. De er tydeligt markeret og adskilt fra nyhedsstoffet.",
+    "forklaring": "Forklaringer gør en EU-sag eller et begreb forståeligt fra bunden.",
+    "faktatjek": "Faktatjek efterprøver konkrete påstande om EU mod primærkilderne.",
+    "ministersvar": "Ministres svar til Folketinget om EU-sager – læst og forklaret med link til svaret på ft.dk.",
+    "long-read": "Længere, gennemresearchede artikler om de store EU-sager.",
+}
 
 
 def analytics_snippet(site) -> str:
@@ -196,7 +214,8 @@ def markdown(md: str) -> str:
             flush()
             level = min(len(st) - len(st.lstrip("#")), 4)
             level = max(level, 2)  # h1 er forbeholdt overskriften
-            out.append(f"<h{level}>{inline_md(st.lstrip('#').strip())}</h{level}>")
+            htxt = st.lstrip('#').strip()
+            out.append(f'<h{level} id="{slugify(htxt)}">{inline_md(htxt)}</h{level}>')
         elif st.startswith("|") and st.endswith("|"):
             if para or listbuf or quote:
                 flush()
@@ -237,6 +256,12 @@ class Article:
         upd = meta.get("updated")
         self.updated = dt.datetime.strptime(upd.replace("T", " "), "%Y-%m-%d %H:%M").replace(tzinfo=TZ) if upd else None
         self.author = meta.get("author", "Europaposten-redaktionen")
+        t = slugify(meta.get("type", "Nyhed"))
+        if t not in ARTIKELTYPER:
+            raise ValueError(f"{path.name}: ukendt type '{meta.get('type')}'. Gyldige: {', '.join(ARTIKELTYPER.values())}")
+        self.type, self.type_name = t, ARTIKELTYPER[t]
+        # Rettelser: liste af 'ÅÅÅÅ-MM-DD | Hvad blev rettet'
+        self.corrections = [tuple(x.strip() for x in c.split("|", 1)) for c in meta.get("rettelser", []) or [] if "|" in c]
         self.kicker = meta.get("kicker", "")
         self.draft = str(meta.get("draft", "nej")).lower() in ("ja", "yes", "true")
         self.featured = str(meta.get("featured", "nej")).lower() in ("ja", "yes", "true")
@@ -317,7 +342,7 @@ def layout(site, sections, root, title, content, description=None, active=None, 
 <header class="masthead">
   <div class="topbar wrap">
     <span class="today">{dansk_dato(now, med_ugedag=True)}</span>
-    <span class="topbar-links"><a href="{root}arkiv/">Arkiv</a><a href="{root}om-os/">Om os</a><a href="{root}rss.xml">RSS</a></span>
+    <span class="topbar-links"><a href="{root}arkiv/">Arkiv</a><a href="{root}om-eu/">Om EU</a><a href="{root}om-os/">Om os</a><a href="{root}rss.xml">RSS</a></span>
   </div>
   <div class="brand wrap">
     <a href="{root}" class="logo">{esc(site['navn'])}</a>
@@ -342,10 +367,14 @@ def layout(site, sections, root, title, content, description=None, active=None, 
     </div>
     <div>
       <p><strong>Om {esc(site['navn'])}</strong></p>
-      <ul><li><a href="{root}om-os/">Om os og vores metode</a></li><li><a href="{root}redaktionelle-retningslinjer/">Redaktionelle retningslinjer</a></li><li><a href="{root}arkiv/">Arkiv</a></li><li><a href="{root}rss.xml">RSS-feed</a></li><li><a href="mailto:{esc(site['kontakt_email'])}">Kontakt / ret en fejl</a></li></ul>
+      <ul><li><a href="{root}om-os/">Om Europaposten og redaktionen</a></li><li><a href="{root}redaktionelle-retningslinjer/">Redaktionelle retningslinjer</a></li><li><a href="{root}saadan-bruger-vi-ai/">Sådan bruger vi AI</a></li><li><a href="{root}rettelser-og-klager/">Rettelser og klager</a></li><li><a href="{root}om-eu/">Om EU – forklaringer</a></li><li><a href="{root}emner/">Emner og artikeltyper</a></li><li><a href="{root}arkiv/">Arkiv</a> · <a href="{root}rss.xml">RSS</a></li></ul>
     </div>
   </div>
-  <p class="wrap fineprint">Artiklerne skrives med hjælp fra kunstig intelligens og gennemgås af redaktionen. Alle artikler linker til deres kilder. © {now.year} {esc(site['navn'])}</p>
+  <div class="wrap footer-legal">
+    <p><strong>Ansvarshavende redaktør:</strong> {esc(site.get('redaktoer', ''))} · <strong>Kontakt:</strong> <a href="mailto:{esc(site['kontakt_email'])}">{esc(site['kontakt_email'])}</a></p>
+    <p>{esc(site['navn'])} er anmeldt til Pressenævnet og omfattet af medieansvarsloven. Klager over indhold kan indbringes for <a href="https://www.pressenaevnet.dk/" rel="noopener" target="_blank">Pressenævnet</a> – se <a href="{root}rettelser-og-klager/">Rettelser og klager</a>.</p>
+  </div>
+  <p class="wrap fineprint">Europaposten er en AI-assisteret redaktion: Kunstig intelligens bruges som værktøj til research og udkast, og den ansvarshavende redaktør læser, redigerer og godkender hver artikel (<a href="{root}saadan-bruger-vi-ai/">sådan bruger vi AI</a>). Alle artikler linker til deres kilder. © {now.year} {esc(site['navn'])}</p>
 </footer>
 {analytics_snippet(site)}
 </body>
@@ -353,8 +382,12 @@ def layout(site, sections, root, title, content, description=None, active=None, 
 """
 
 
+REDAKTOER = ""  # sættes i build()
+
+
 def byline(a: Article, with_time=True):
-    s = f'<span class="byline">Af {esc(a.author)}</span> · <time datetime="{a.date.isoformat()}">{dansk_dato(a.date, med_tid=with_time)}</time>'
+    red = f'Redigeret af {esc(REDAKTOER)}' if REDAKTOER else f'Af {esc(a.author)}'
+    s = f'<span class="byline">{red}</span> · <time datetime="{a.date.isoformat()}">{dansk_dato(a.date, med_tid=with_time)}</time>'
     return s
 
 
@@ -363,12 +396,20 @@ def teaser(a: Article, root, size="normal"):
     tag = "h2" if size == "lead" else "h3"
     return f"""<article class="teaser teaser-{size}">
   <a class="teaser-link" href="{root}{a.url}">
-    <p class="kicker kicker-{a.section}">{kicker}</p>
+    <p class="kicker kicker-{a.section}">{type_label(a)}{kicker}</p>
     <{tag} class="teaser-title">{esc(a.title)}</{tag}>
     <p class="teaser-summary">{esc(a.summary)}</p>
   </a>
   <p class="meta">{byline(a, with_time=False)} · {a.minutes} min. læsning</p>
 </article>"""
+
+
+def type_label(a: Article, root=None) -> str:
+    """Lille mærke med artikeltypen (Nyhed, Analyse ...)."""
+    inner = esc(a.type_name)
+    if root is not None:
+        inner = f'<a href="{root}type/{a.type}/">{inner}</a>'
+    return f'<span class="type-label type-{a.type}">{inner}</span> '
 
 
 def kort_tekst(s: str, maks: int = 120) -> str:
@@ -402,7 +443,7 @@ def card(a: Article, root, size="normal"):
   <a class="card-link" href="{root}{a.url}">
     {card_media(a, root, lazy=(size != "lead"))}
     <div class="card-body">
-      <p class="kicker kicker-{a.section}">{esc(a.section_name)}</p>
+      <p class="kicker kicker-{a.section}">{type_label(a)}{esc(a.section_name)}</p>
       <{tag} class="card-title">{esc(a.title)}</{tag}>
       {extra}
       <p class="card-meta"><time datetime="{a.date.isoformat()}">{dansk_dato(a.date)}</time></p>
@@ -471,6 +512,10 @@ def render_article(site, sections, a: Article, arts):
     if len(related) < 3:
         related += [x for x in arts if x is not a and x not in related][: 3 - len(related)]
     rel_html = "".join(teaser(x, root, "small") for x in related)
+    corr_html = ""
+    if a.corrections:
+        corr_html = ('<section class="corrections"><h2>Rettelser</h2><ul>' + "".join(
+            f"<li><strong>{esc(d)}:</strong> {inline_md(t)}</li>" for d, t in a.corrections) + "</ul></section>")
     sources = "".join(
         f'<li><a href="{esc(u)}" rel="noopener" target="_blank">{esc(t)}</a></li>' for t, u in a.sources)
     updated = (f' · Opdateret <time datetime="{a.updated.isoformat()}">{dansk_dato(a.updated, med_tid=True)}</time>'
@@ -482,6 +527,23 @@ def render_article(site, sections, a: Article, arts):
         img_abs = f"{site['base_url']}/billeder/{a.illustration}"
         og_image = f'\n<meta property="og:image" content="{esc(img_abs)}">'
         ld_image = f',"image":{json_str(img_abs)}'
+    import json as _json
+    pub = {"@type": "NewsMediaOrganization", "name": site["navn"], "url": site["base_url"] + "/",
+           "logo": {"@type": "ImageObject", "url": site["base_url"] + "/static/favicon.svg"},
+           "email": site["kontakt_email"],
+           "publishingPrinciples": site["base_url"] + "/redaktionelle-retningslinjer/",
+           "correctionsPolicy": site["base_url"] + "/rettelser-og-klager/",
+           "ethicsPolicy": site["base_url"] + "/rettelser-og-klager/",
+           "actionableFeedbackPolicy": site["base_url"] + "/rettelser-og-klager/",
+           "masthead": site["base_url"] + "/om-os/"}
+    ld = {"author": {"@type": "Organization", "name": site["navn"], "url": site["base_url"] + "/om-os/"},
+          "publisher": pub, "mainEntityOfPage": abs_url, "articleSection": a.section_name,
+          "genre": a.type_name, "isAccessibleForFree": True}
+    if site.get("redaktoer"):
+        ld["editor"] = {"@type": "Person", "name": site["redaktoer"], "jobTitle": site.get("redaktoer_titel", "")}
+    if a.updated:
+        ld["dateModified"] = a.updated.isoformat()
+    ld_extra = _json.dumps(ld, ensure_ascii=False)[1:-1].replace("</", "<\\/")
     head = f"""<link rel="canonical" href="{esc(abs_url)}">
 <meta property="og:type" content="article">
 <meta property="og:title" content="{esc(a.title)}">
@@ -490,11 +552,11 @@ def render_article(site, sections, a: Article, arts):
 <meta property="og:locale" content="da_DK">{og_image}
 <meta property="article:published_time" content="{a.date.isoformat()}">
 <script src="{root}static/laes-op.js" defer></script>
-<script type="application/ld+json">{{"@context":"https://schema.org","@type":"NewsArticle","headline":{json_str(a.title)},"description":{json_str(a.summary)},"datePublished":"{a.date.isoformat()}","inLanguage":"da","author":{{"@type":"Organization","name":{json_str(a.author)}}},"publisher":{{"@type":"Organization","name":{json_str(site['navn'])}}}{ld_image}}}</script>"""
+<script type="application/ld+json">{{"@context":"https://schema.org","@type":"NewsArticle","headline":{json_str(a.title)},"description":{json_str(a.summary)},"datePublished":"{a.date.isoformat()}","inLanguage":"da",{ld_extra}{ld_image}}}</script>"""
     content = f"""
 <article class="story">
   <header class="story-head">
-    <p class="kicker kicker-{a.section}"><a href="{root}sektion/{a.section}/">{esc(a.section_name)}</a></p>
+    <p class="kicker kicker-{a.section}">{type_label(a, root)}<a href="{root}sektion/{a.section}/">{esc(a.section_name)}</a>{(" · " + esc(a.kicker)) if a.kicker and a.kicker not in (a.type_name, a.section_name, "Forklaret") else ""}</p>
     <h1>{esc(a.title)}</h1>
     {illustration_html(a, root)}
     <p class="standfirst">{esc(a.summary)}</p>
@@ -510,11 +572,12 @@ def render_article(site, sections, a: Article, arts):
     {ad_slot(site, "artikel-midt")}
   </div>
   <footer class="story-foot">
+    {corr_html}
     <section class="sources">
       <h2>Kilder</h2>
       <ul>{sources}</ul>
     </section>
-    <p class="ai-note">Denne artikel er skrevet med hjælp fra kunstig intelligens på baggrund af de nævnte kilder og gennemgået af redaktionen. Har du fundet en fejl? <a href="mailto:{esc(site['kontakt_email'])}">Skriv til os</a>. <a href="{root}om-os/">Læs om vores metode</a>.</p>
+    <p class="ai-note">Artiklen er læst, redigeret og godkendt af ansvarshavende redaktør {esc(site.get('redaktoer', ''))}, som står inde for indholdet. Kunstig intelligens er brugt som værktøj til research og første udkast på baggrund af de nævnte kilder. Har du fundet en fejl? <a href="mailto:{esc(site['kontakt_email'])}">Skriv til os</a> · <a href="{root}rettelser-og-klager/">Rettelser og klager</a> · <a href="{root}saadan-bruger-vi-ai/">Sådan bruger vi AI</a>.</p>
   </footer>
 </article>
 {ad_slot(site, "artikel-bund")}
@@ -536,7 +599,7 @@ def render_list(site, sections, root, title, intro, arts, active=None):
     for day, items in by_day.items():
         d = dt.datetime.combine(day, dt.time(), TZ)
         lis = "".join(
-            f'<li><p class="kicker kicker-{a.section}">{esc(a.section_name)}</p><a href="{root}{a.url}"><h3>{esc(a.title)}</h3></a><p>{esc(a.summary)}</p></li>'
+            f'<li><p class="kicker kicker-{a.section}">{type_label(a)}{esc(a.section_name)}</p><a href="{root}{a.url}"><h3>{esc(a.title)}</h3></a><p>{esc(a.summary)}</p></li>'
             for a in items)
         blocks += f'<section class="day"><h2 class="rubric">{dansk_dato(d, med_ugedag=True)}</h2><ul class="list">{lis}</ul></section>'
     if not blocks:
@@ -545,49 +608,70 @@ def render_list(site, sections, root, title, intro, arts, active=None):
     return layout(site, sections, root, title, content, active=active)
 
 
-def render_about(site, sections):
+SIDER = ROOT / "content" / "sider"
+PAGES = {
+    "om-os": SIDER / "om-os.md",
+    "redaktionelle-retningslinjer": ROOT / "content" / "redaktionelle-retningslinjer.md",
+    "saadan-bruger-vi-ai": SIDER / "saadan-bruger-vi-ai.md",
+    "rettelser-og-klager": SIDER / "rettelser-og-klager.md",
+    "om-eu": SIDER / "om-eu.md",
+}
+
+
+def corrections_log(site, arts, root):
+    """Offentlig rettelseslog: alle rettelser fra artiklernes front matter, nyeste først."""
+    rows = sorted(((d, t, a) for a in arts for d, t in a.corrections), key=lambda x: x[0], reverse=True)
+    if not rows:
+        return ('<p class="meta">Der er endnu ikke registreret rettelser. Når vi retter en faktuel fejl, '
+                'står rettelsen både nederst i artiklen og her.</p>')
+    return '<ul class="list corrections-log">' + "".join(
+        f'<li><p class="meta">{esc(d)}</p><a href="{root}{a.url}"><h3>{esc(a.title)}</h3></a><p>{inline_md(t)}</p></li>'
+        for d, t, a in rows) + "</ul>"
+
+
+def explainer_list(arts, root):
+    ex = [a for a in arts if a.type in ("forklaring", "long-read", "faktatjek", "analyse")]
+    if not ex:
+        return "<p>Der er endnu ingen forklaringer.</p>"
+    return '<ul class="list">' + "".join(
+        f'<li><p class="kicker kicker-{a.section}">{type_label(a)}{esc(a.section_name)}</p><a href="{root}{a.url}"><h3>{esc(a.title)}</h3></a><p>{esc(a.summary)}</p></li>'
+        for a in ex) + "</ul>"
+
+
+def render_topics(site, sections, arts):
     root = "../"
-    n = esc(site["navn"])
-    content = f"""
-<article class="story about">
-  <header class="story-head"><h1>Om {n}</h1>
-  <p class="standfirst">{n} er et lille, uafhængigt dansk nyhedssite om EU-politik. Vi forklarer, hvad beslutningerne i Bruxelles, Strasbourg og Luxembourg betyder for Danmark og danskerne.</p></header>
-  <div class="story-body">
-    <h2>Sådan arbejder vi</h2>
-    <ul>
-      <li><strong>Åbenhed om kunstig intelligens:</strong> Vores artikler skrives med hjælp fra kunstig intelligens. Et menneske vælger historierne, kontrollerer fakta mod kilderne og godkender teksten før udgivelse.</li>
-      <li><strong>Altid kilder:</strong> Hver artikel slutter med en liste over de kilder, den bygger på – typisk EU-institutionernes egne pressemeddelelser, danske ministerier og etablerede nyhedsmedier. Vi opfordrer dig til at læse med i originalkilderne.</li>
-      <li><strong>Ingen opdigtede citater eller tal:</strong> Vi bruger kun citater og tal, som fremgår af kilderne, og vi oplyser, hvem der har sagt hvad. Kan vi ikke bekræfte en oplysning, udelader vi den.</li>
-      <li><strong>Fakta og holdning holdes adskilt:</strong> Vores nyhedsartikler er neutrale. Skulle vi en dag bringe analyser eller kommentarer, vil de være tydeligt markeret.</li>
-      <li><strong>Redaktionelle retningslinjer:</strong> Læs, hvordan vi finder, vinkler og skriver EU-historier, i vores <a href="{root}redaktionelle-retningslinjer/">redaktionelle retningslinjer</a>.</li>
-      <li><strong>Vi retter fejl:</strong> Finder du en fejl, så skriv til <a href="mailto:{esc(site['kontakt_email'])}">{esc(site['kontakt_email'])}</a>. Rettelser markeres i artiklen med dato.</li>
-    </ul>
-    <h2>Økonomi og uafhængighed</h2>
-    <p>{n} drives som et privat sideprojekt. Sitet kan på sigt blive finansieret af annoncer eller affiliate-links. Hvis det sker, vil kommercielt indhold altid være tydeligt markeret og adskilt fra den redaktionelle dækning. {n} har ingen tilknytning til EU-institutionerne, politiske partier eller interesseorganisationer.</p>
-    <h2>Privatliv</h2>
-    <p>Sitet bruger ingen cookies og ingen eksterne skrifttyper. Vi tæller besøg med Cloudflare Web Analytics, som er cookiefri og ikke indsamler personoplysninger eller følger dig på tværs af sites. Derfor er der ingen cookiebanner.</p>
-    <h2>Kontakt</h2>
-    <p>Tips, rettelser og spørgsmål: <a href="mailto:{esc(site['kontakt_email'])}">{esc(site['kontakt_email'])}</a></p>
-  </div>
-</article>"""
-    return layout(site, sections, root, "Om os", content)
+    sec = "".join(
+        f'<li><a href="{root}sektion/{s}/"><h3>{esc(n)}</h3></a><p>{sum(1 for a in arts if a.section == s)} artikler</p></li>'
+        for s, n in sections.items())
+    typ = "".join(
+        f'<li><a href="{root}type/{t}/"><h3>{esc(n)}</h3></a><p>{esc(TYPE_BESKRIVELSE[t])} ({sum(1 for a in arts if a.type == t)} artikler)</p></li>'
+        for t, n in ARTIKELTYPER.items())
+    content = (f'<header class="page-head"><h1>Emner og artikeltyper</h1><p>Find artikler efter emne eller efter type. '
+               f'Alle artikler ligger også i <a href="{root}arkiv/">arkivet</a>.</p></header>'
+               f'<div class="topics-grid"><section><h2 class="rubric">Emner</h2><ul class="list">{sec}</ul></section>'
+               f'<section><h2 class="rubric">Artikeltyper</h2><ul class="list">{typ}</ul></section></div>')
+    return layout(site, sections, root, "Emner og artikeltyper", content)
 
 
-PAGES = {"redaktionelle-retningslinjer": ROOT / "content" / "redaktionelle-retningslinjer.md"}
-
-
-def render_page(site, sections, path: Path):
-    """Simpel side (fx redaktionelle retningslinjer) fra Markdown med front matter."""
+def render_page(site, sections, path: Path, arts=()):
+    """Simpel side (fx redaktionelle retningslinjer) fra Markdown med front matter.
+    Pladsholdere i teksten: {{rettelseslog}}, {{forklaringer}}, {{redaktoer}}, {{email}}, {{antal_artikler}}."""
     root = "../"
     meta, body = parse_front_matter(path.read_text(encoding="utf-8"), path)
+    blocks = {"{{rettelseslog}}": corrections_log(site, arts, root), "{{forklaringer}}": explainer_list(arts, root)}
+    body = (body.replace("{{redaktoer}}", site.get("redaktoer", "")).replace("{{email}}", site["kontakt_email"])
+            .replace("{{antal_artikler}}", str(len(arts))))
     title = meta.get("title", path.stem)
+    body_html = markdown(body)
+    for k, v in blocks.items():
+        body_html = body_html.replace(f"<p>{k}</p>", v)
     upd = f'<p class="meta">Senest opdateret: {esc(meta["updated"])}</p>' if meta.get("updated") else ""
     content = f"""
 <article class="story about">
   <header class="story-head"><h1>{esc(title)}</h1>
   <p class="standfirst">{esc(meta.get("summary", ""))}</p>{upd}</header>
   <div class="story-body">
-{markdown(body)}
+{body_html}
   </div>
 </article>"""
     return layout(site, sections, root, title, content, description=meta.get("summary"))
@@ -614,7 +698,7 @@ def render_rss(site, arts):
 
 
 def render_sitemap(site, sections, arts):
-    urls = ["", "arkiv/", "om-os/"] + [f"{k}/" for k, v in PAGES.items() if v.exists()] + [f"sektion/{s}/" for s in sections] + [a.url for a in arts]
+    urls = ["", "arkiv/", "emner/"] + [f"type/{t}/" for t in ARTIKELTYPER] + [f"{k}/" for k, v in PAGES.items() if v.exists()] + [f"sektion/{s}/" for s in sections] + [a.url for a in arts]
     body = "".join(f"<url><loc>{esc(site['base_url'])}/{u}</loc></url>" for u in urls)
     return f'<?xml version="1.0" encoding="utf-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">{body}</urlset>\n'
 
@@ -626,7 +710,9 @@ def write(path: Path, text: str):
 
 
 def build():
+    global REDAKTOER
     site, sections = load_config()
+    REDAKTOER = site.get("redaktoer", "")
     arts = load_articles(sections)
     if OUT.exists():
         shutil.rmtree(OUT)
@@ -643,10 +729,17 @@ def build():
               render_list(site, sections, "../../", name, f"Alle artikler i sektionen {name}.", sa, active=slug))
     write(OUT / "arkiv" / "index.html",
           render_list(site, sections, "../", "Arkiv", "Alle artikler, nyeste først.", arts))
-    write(OUT / "om-os" / "index.html", render_about(site, sections))
+    for t, name in ARTIKELTYPER.items():
+        ta = [a for a in arts if a.type == t]
+        write(OUT / "type" / t / "index.html",
+              render_list(site, sections, "../../", name, TYPE_BESKRIVELSE[t], ta))
+    write(OUT / "emner" / "index.html", render_topics(site, sections, arts))
+    write(OUT / "redaktionen" / "index.html",
+          '<!doctype html><meta charset="utf-8"><meta http-equiv="refresh" content="0; url=../om-os/#redaktionen">'
+          '<link rel="canonical" href="../om-os/"><a href="../om-os/#redaktionen">Redaktionen</a>')
     for slug, path in PAGES.items():
         if path.exists():
-            write(OUT / slug / "index.html", render_page(site, sections, path))
+            write(OUT / slug / "index.html", render_page(site, sections, path, arts))
     write(OUT / "rss.xml", render_rss(site, arts))
     write(OUT / "sitemap.xml", render_sitemap(site, sections, arts))
     write(OUT / "robots.txt", f"User-agent: *\nAllow: /\nSitemap: {site['base_url']}/sitemap.xml\n")
@@ -676,6 +769,7 @@ title: {title}
 slug: {slug}
 date: {now:%Y-%m-%d %H:%M}
 section: {section}
+type: Nyhed
 summary: Skriv en kort manchet på 1-2 sætninger her.
 author: Europaposten-redaktionen
 draft: ja

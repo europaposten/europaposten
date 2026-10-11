@@ -3,6 +3,7 @@ title: "Miljøministeriet: Nogle EU-lande har vedtaget brændstofstøtte til fis
 slug: ministersvar-braendstofstoette-fiskeri-eu
 date: 2026-10-10 08:00
 section: klima-miljoe
+type: Ministersvar
 kicker: Ministersvar
 author: Europaposten-redaktionen
 summary: Kim Edberg Andersen (DD) spurgte, om andre EU-lande har udbetalt brændstofstøtte til fiskeriet. Miljøminister Maria Reumert Gjerding svarer, at nogle lande har vedtaget støtte – men at ministeriet ikke ved, om den er udbetalt.

@@ -3,6 +3,7 @@ title: "Fossilbiler efter 2035? Regeringen beder fredag om nyt mandat til EU's C
 slug: co2-krav-biler-nyt-mandat
 date: 2026-10-07 07:00
 section: klima-miljoe
+type: Nyhed
 kicker: Europaudvalget
 author: Europaposten-redaktionen
 summary: Kommissionen vil lempe CO2-kravene til nye biler, så der også kan sælges biler med forbrændingsmotor efter 2035. Regeringen er skeptisk, men dens egne beregninger viser både flere fossilbiler og flere penge i statskassen. Fredag forelægger den et nyt forhandlingsoplæg for Europaudvalget.

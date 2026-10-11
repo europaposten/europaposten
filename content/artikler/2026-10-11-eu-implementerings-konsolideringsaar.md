@@ -3,6 +3,7 @@ title: "15 lande – herunder Danmark – foreslår et europæisk implementering
 slug: eu-implementerings-konsolideringsaar
 date: 2026-10-11 07:00
 section: politik
+type: Nyhed
 kicker: Rådet
 author: Europaposten-redaktionen
 summary: Østrig fremlagde på Generelle Anliggender 22. september et AOB-punkt, hvor 15 medlemslande – herunder Danmark – støtter et dedikeret «European Implementation and Consolidation Year». Fokus skal være gennemførelse, forenkling og «legislative deep-cleaning» før nye politiske lag lægges på.

@@ -3,6 +3,7 @@ title: "Vil regeringen sætte PFAS-forbud og regler mod social dumping på pause
 slug: regeringen-pause-eu-love-pfas-social-dumping
 date: 2026-10-08 20:00
 section: politik
+type: Analyse
 kicker: Analyse
 author: Europaposten-redaktionen
 summary: Per Clausen (EL) spørger, om regeringen vil have udsat et EU-forbud mod PFAS og regler mod udnyttelse af udenlandske arbejdere, når Danmark støtter et "år" med færre nye EU-regler. Papiret, som Danmark står bag, nævner ingen af delene og lover at bevare beskyttelsen af miljø og arbejdstagere. Det siger til gengæld heller ikke, hvad der skal undtages, og regeringen har ikke forklaret sig.

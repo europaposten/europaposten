@@ -3,6 +3,7 @@ title: "7 mod 6: Danske MEP'er splittet om EU-regler mod stress på jobbet"
 slug: stress-arbejde-danske-mep-splittet
 date: 2026-10-07 07:15
 section: politik
+type: Nyhed
 kicker: Hvem stemte hvordan
 author: Europaposten-redaktionen
 summary: Europa-Parlamentet vil have Kommissionen til at komme med et forslag mod psykisk nedslidning og stress på arbejdspladsen. De danske medlemmer delte sig næsten på midten, og Venstre stemte anderledes end de to andre danske Renew-medlemmer. Afstemningen er ikke lov, men en opfordring.

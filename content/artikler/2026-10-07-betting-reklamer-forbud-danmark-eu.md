@@ -3,6 +3,7 @@ title: "Forklaret: Kan Danmark – eller hele EU – forbyde betting-reklamer?"
 slug: betting-reklamer-forbud-danmark-eu
 date: 2026-10-07 18:30
 section: politik
+type: Forklaring
 kicker: Forklaret
 author: Europaposten-redaktionen
 summary: Brasilien har på få dage smidt bettingselskaberne ud af fodbolden. I Danmark vil SF, Radikale Venstre og Enhedslisten have et totalforbud mod spilreklamer, men på bordet ligger kun et forbud omkring sportskampe. Et forbud i hele EU er ikke på vej, for Europa-Kommissionen siger, at det er landenes egen sag.

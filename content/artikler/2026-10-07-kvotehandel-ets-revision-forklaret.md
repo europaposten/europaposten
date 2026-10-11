@@ -3,6 +3,7 @@ title: "Forklaret: EU's kvotehandel skal lempes efter 2030 – det betyder det f
 slug: kvotehandel-ets-revision-forklaret
 date: 2026-10-07 07:30
 section: klima-miljoe
+type: Forklaring
 kicker: Forklaring
 author: Europaposten-redaktionen
 summary: Mandag diskuterer EU's miljøministre Kommissionens forslag om at revidere kvotehandelssystemet ETS. Forslaget giver flere CO2-kvoter efter 2030 og trækker affaldsforbrænding og mere sø- og luftfart ind. Regeringen vil holde fast i et højt ambitionsniveau, og dens egne notater viser, at statens kvoteindtægter kan blive ramt.

@@ -3,6 +3,7 @@ title: Danmark vil ikke støtte EU-undtagelse for eksport af varmepumper med F-g
 slug: danmark-imod-varmepumpe-undtagelse
 date: 2026-10-06 18:45
 section: klima-miljoe
+type: Nyhed
 kicker: Kort nyhed
 author: Europaposten-redaktionen
 summary: Regeringen agter ikke at støtte et komitéforslag om midlertidig undtagelse fra eksportforbuddet for visse varmepumper med fluorholdige drivhusgasser. Sagen var sat til afstemning i F-gas-forvaltningskomitéen den 6. oktober.

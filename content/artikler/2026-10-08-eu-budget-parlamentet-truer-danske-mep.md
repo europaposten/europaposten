@@ -3,6 +3,7 @@ title: "EU-budgettet: Parlamentet truer med nej til nedskæringer – men 8 af 1
 slug: eu-budget-parlamentet-truer-danske-mep
 date: 2026-10-08 07:00
 section: oekonomi
+type: Nyhed
 kicker: EU-budgettet
 author: Europaposten-redaktionen
 summary: Europa-Parlamentet vil ikke godkende et langtidsbudget, der skærer i Kommissionens forslag. Den danske regering vil netop have budgettet ned. Da Parlamentet vedtog sit krav i april, stemte otte af de 15 danske medlemmer imod.

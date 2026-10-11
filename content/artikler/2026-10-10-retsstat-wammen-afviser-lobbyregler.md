@@ -3,6 +3,7 @@ title: "Wammen afviser nye lobby- og svingdørsregler – retshjælpsrevision sk
 slug: retsstat-wammen-afviser-lobbyregler
 date: 2026-10-10 06:30
 section: politik
+type: Ministersvar
 kicker: Ministersvar
 author: Europaposten-redaktionen
 summary: Justitsminister Nicolai Wammen svarer Europaudvalget, at regeringen ikke vil indføre yderligere regler om lobbyisme, svingdøre og formueangivelser, som Europa-Kommissionen anbefaler. Retsplejerådets revision af retshjælpen ventes først sommeren 2027 – et år senere end Kommissionen forventede i landekapitlet.
