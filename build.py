@@ -105,7 +105,8 @@ def parse_front_matter(text: str, path: Path):
     """Simpel YAML-agtig parser: 'nøgle: værdi' og lister med '- '."""
     if not text.startswith("---"):
         raise ValueError(f"{path.name}: mangler front matter (skal starte med ---)")
-    _, fm, body = text.split("---", 2)
+    # Del kun ved linjer, der består af "---" (URL'er kan indeholde "---")
+    _, fm, body = re.split(r"^---[ \t]*$", text, maxsplit=2, flags=re.M)
     meta, current_list = {}, None
     for raw in fm.strip().splitlines():
         line = raw.rstrip()
