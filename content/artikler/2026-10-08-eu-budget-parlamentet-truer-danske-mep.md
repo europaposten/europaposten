@@ -21,13 +21,13 @@ sources:
   - Rådet: Et kig frem 5.–18. oktober 2026 (2. oktober 2026) | https://www.consilium.europa.eu/da/press/press-releases/2026/10/02/forward-look-2026/
 ---
 
-Europa-Parlamentet gentog onsdag sit krav om et større langtidsbudget for EU i perioden 2028-2034. Under en debat i Strasbourg med Rådet og Europa-Kommissionen sendte Parlamentets ene hovedforhandler, rumænske Siegfried Mureşan (EPP), en klar advarsel til medlemslandene: "Enhver nedskæring af budgettet, som vil svække Europa i årene fremover, vil ikke være et grundlag for Parlamentets godkendelse" (Europapostens oversættelse).
+Europa-Parlamentet gentog onsdag sit krav om et større langtidsbudget for EU i perioden 2028-2034. [Under en debat i Strasbourg](https://www.europarl.europa.eu/news/en/press-room/20261002IPR47904/meps-reiterate-their-call-for-an-ambitious-2028-2034-eu-budget) med Rådet og Europa-Kommissionen sendte Parlamentets ene hovedforhandler, rumænske Siegfried Mureşan (EPP), en klar advarsel til medlemslandene: "Enhver nedskæring af budgettet, som vil svække Europa i årene fremover, vil ikke være et grundlag for Parlamentets godkendelse" (Europapostens oversættelse).
 
 Det er en direkte udfordring til den danske regering, som går til forhandlingerne med et krav om, at det samlede udgiftsniveau skal ned.
 
 ## Hvad vil Parlamentet?
 
-Parlamentet vedtog sin holdning i april. Ifølge Parlamentets pressemeddelelse vil flertallet:
+Parlamentet vedtog sin holdning i april. [Ifølge Parlamentets pressemeddelelse vil flertallet](https://www.europarl.europa.eu/news/en/press-room/20260423IPR41835):
 
 - sætte budgettet til 1,27 procent af EU-landenes samlede bruttonationalindkomst (BNI), og holde renter og afdrag på genopretningsfonden NextGenerationEU (0,11 procent af BNI) uden for budgetloftet,
 - hæve budgettet med omkring 10 procent i forhold til Kommissionens forslag fra juli 2025, svarende til i alt 2.010 milliarder euro i løbende priser,
@@ -37,7 +37,7 @@ Mureşan sagde onsdag, at Kommissionens forslag svarer til 1,15 procent af lande
 
 ## Danmark vil den modsatte vej
 
-Regeringen fik fredag den 2. oktober opbakning i Folketingets Europaudvalg til sin linje, oplyser Finansministeriet. Venstre, Konservative og Liberal Alliance støttede, at udgiftsniveauet i Kommissionens forslag skal ned. Ministeriet har ikke oplyst, hvor stor en besparelse regeringen konkret vil kræve.
+Regeringen fik fredag den 2. oktober opbakning i Folketingets Europaudvalg til sin linje, [oplyser Finansministeriet](https://fm.dk/nyheder/nyhedsarkiv/2026/oktober/bred-opbakning-bag-regeringens-linje-til-eu-s-naeste-fleraarige-budget/). Venstre, Konservative og Liberal Alliance støttede, at udgiftsniveauet i Kommissionens forslag skal ned. Ministeriet har ikke oplyst, hvor stor en besparelse regeringen konkret vil kræve.
 
 > Vi går nu til forhandlingerne om EU's næste flerårige budget med de stærkest mulige kort på hånden og klare danske prioriteter.
 > — [Peter Hummelgaard (S), finansminister, i Finansministeriets pressemeddelelse](https://fm.dk/nyheder/nyhedsarkiv/2026/oktober/bred-opbakning-bag-regeringens-linje-til-eu-s-naeste-fleraarige-budget/) 2. oktober 2026
@@ -46,7 +46,7 @@ Blandt medlemslandene trækker det også nedad. Cypern foreslog under sit forman
 
 ## Sådan stemte de danske MEP'er i april
 
-Parlamentets holdning blev vedtaget den 28. april med 370 stemmer for, 201 imod og 84, der undlod at stemme. De danske medlemmer stemte sådan, viser den officielle afstemningsliste:
+Parlamentets holdning blev vedtaget den 28. april med 370 stemmer for, 201 imod og 84, der undlod at stemme. De danske medlemmer stemte sådan, [viser den officielle afstemningsliste](https://howtheyvote.eu/votes/190026):
 
 | MEP | Parti i DK | Gruppe i EP | Stemme |
 | --- | --- | --- | --- |
@@ -72,7 +72,7 @@ Det giver 5 danske stemmer for, 8 imod og 2, der undlod. Socialdemokratiets tre 
 
 Budgettet kræver enstemmighed blandt EU-landene i Rådet og derefter et ja fra et absolut flertal af Parlamentets medlemmer. Parlamentet kan altså ikke ændre budgettet selv, men det kan stemme det ned. Det er den magt, Mureşan henviste til.
 
-Ifølge Rådets kalender er næste skridt:
+[Ifølge Rådets kalender](https://www.consilium.europa.eu/da/press/press-releases/2026/10/02/forward-look-2026/) er næste skridt:
 
 - **Lørdag 10. oktober:** Det irske formandskab fremlægger sin forhandlingsboks.
 - **13. oktober:** EU's europaministre holder en politisk debat om budgettet.

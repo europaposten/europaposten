@@ -31,7 +31,7 @@ sources:
   - Altinget EU: Per Clausen – EU's nye forslag mod social dumping forslår som en skrædder i helvede (debatindlæg, 18. september 2026) | https://www.altinget.dk/eu/artikel/enhedslisten-eus-nye-forslag-mod-social-dumping-forslaar-som-en-skraedder-i-helvede
 ---
 
-Enhedslistens medlem af Europa-Parlamentet, Per Clausen (The Left), gik torsdag morgen hårdt til regeringen på X. Anledningen var en artikel i Altinget om, at Danmark og 12 andre EU-lande vil have et helt år, hvor EU gør eksisterende regler bedre i stedet for at lave nye. Clausen spurgte, om det er EU's forbud mod de farlige PFAS-stoffer eller reglerne mod udnyttelse af udenlandske arbejdere, regeringen vil have udsat.
+Enhedslistens medlem af Europa-Parlamentet, Per Clausen (The Left), gik torsdag morgen hårdt til regeringen på X. Anledningen var [en artikel i Altinget](https://www.altinget.dk/eu/artikel/danmark-og-12-andre-lande-opfordrer-til-hovedrengoering-af-eu-lovgivningen-hold-pause-i-et-aar) om, at Danmark og 12 andre EU-lande vil have et helt år, hvor EU gør eksisterende regler bedre i stedet for at lave nye. Clausen spurgte, om det er EU's forbud mod de farlige PFAS-stoffer eller reglerne mod udnyttelse af udenlandske arbejdere, regeringen vil have udsat.
 
 > Hvad tænker regeringen på? Er det forslag om at forbyde farlige kemikalier som PFAS eler forslag, som kan modvirke underbetaling, misbrug og udbytning af arbejdere fra andre lande, regeringen vil have udsat?
 > — [Per Clausen (EL), medlem af Europa-Parlamentet, på X](https://x.com/PerClausen3/status/2108100528547000456) 8. oktober 2026

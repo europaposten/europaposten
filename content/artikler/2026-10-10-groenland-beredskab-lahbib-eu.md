@@ -24,7 +24,7 @@ sources:
 
 I november rejser EU's kommissær for ligestilling, beredskab og krisestyring, Hadja Lahbib, til Grønland sammen med den danske minister for samfundssikkerhed og beredskab, Lisbeth Bech Nielsen (SF). Formålet er ifølge ministeren at drøfte, hvordan samarbejdet – og dermed det civile beredskab i Grønland – kan styrkes.
 
-Det fremgår af Bech Nielsens besvarelse 9. oktober af Grønlandsudvalgets spørgsmål 94. Udvalget havde bedt om en redegørelse for samarbejdet med Grønland på beredskabsområdet, forventningerne til den kommende tid, og hvordan midlerne i akutpakken til beredskabet er blevet brugt.
+Det fremgår af [Bech Nielsens besvarelse 9. oktober](https://www.ft.dk/samling/20252/almdel/gru/bilag/0/3201837.pdf) af Grønlandsudvalgets spørgsmål 94. Udvalget havde bedt om en redegørelse for samarbejdet med Grønland på beredskabsområdet, forventningerne til den kommende tid, og hvordan midlerne i akutpakken til beredskabet er blevet brugt.
 
 ## Tæt bilateralt samarbejde – med klare grænser
 
@@ -57,7 +57,7 @@ Det europæiske lag er nyt i den offentlige redegørelse. I slutningen af septem
 
 Ministeren formulerer det sådan, at de to skal drøfte, hvordan man kan styrke samarbejdet og dermed det civile beredskab. Det er et civilt beredskabsbesøg, ikke en forsvarsmission: Kommissærporteføljen dækker beredskab og krisestyring, og de områder, Grønland selv har overtaget, ligger netop her.
 
-Besøget falder i en periode, hvor EU i forvejen har øget sit politiske engagement i Grønland – blandt andet med kommissionsformand Ursula von der Leyens besøg i Nuuk i september og den bredere partnerskabsdagsorden, Europaposten har beskrevet særskilt. Her er fokus snævrere: forebyggelse, robusthed og konkret opfølgning på ekspertmissionen.
+Besøget falder i en periode, hvor EU i forvejen har øget sit politiske engagement i Grønland – blandt andet med kommissionsformand Ursula von der Leyens besøg i Nuuk i september og den bredere partnerskabsdagsorden, [Europaposten har beskrevet særskilt](/artikler/von-der-leyen-groenland-set-fra-washington/). Her er fokus snævrere: forebyggelse, robusthed og konkret opfølgning på ekspertmissionen.
 
 ## Hvad betyder det for Danmark?
 

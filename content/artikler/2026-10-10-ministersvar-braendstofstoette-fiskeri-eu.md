@@ -23,7 +23,7 @@ sources:
 
 Kim Edberg Andersen (DD) spurgte miljøminister Maria Reumert Gjerding (EL): Vil ministeren redegøre for, om der er andre lande i EU, der har udbetalt brændstofstøtte til fiskerierhvervet som følge af stigende brændstofpriser?
 
-Ministeren svarede 8. oktober (offentliggjort 9. oktober):
+[Ministeren svarede 8. oktober](https://www.ft.dk/samling/20252/almdel/mof/spm/357/svar/2240784/3201646.pdf) (offentliggjort 9. oktober):
 
 > Miljøministeriet er orienteret om, at der er lande i EU, som har vedtaget støtte til fiskeriet som følge af de stigende brændstofpriser. Ministeriet har ikke oplysninger, om der er udbetalt støtte.
 > — [Maria Reumert Gjerding (EL), miljøminister, svar på MOF 357](https://www.ft.dk/samling/20252/almdel/mof/spm/357/svar/2240784/3201646.pdf) 8. oktober 2026

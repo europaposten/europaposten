@@ -31,9 +31,9 @@ sources:
   - Europa-Kommissionen: Det europæiske center for demokratisk modstandsdygtighed | https://commission.europa.eu/european-centre-democratic-resilience_da
 ---
 
-Danske efterretningstjenester har én konkret russisk påvirkningsoperation mod Danmark beskrevet offentligt. I starten af 2025 blev Danmark og Grønland »sandsynligvis« ramt af en operation, hvor et falsk budskab blev tillagt en dansk folketingspolitiker. Rusland forsøgte ifølge Forsvarets Efterretningstjeneste (FE) at udnytte debatten om forholdet mellem Danmark og Grønland til at skade forholdet mellem Kongeriget og USA. Det står i FE's risikovurdering UDSYN 2025 fra december.
+Danske efterretningstjenester har én konkret russisk påvirkningsoperation mod Danmark beskrevet offentligt. I starten af 2025 blev Danmark og Grønland [»sandsynligvis« ramt af en operation](https://www.fe-ddis.dk/globalassets/fe/dokumenter/2025/-fe-udsyn-25-.pdf), hvor et falsk budskab blev tillagt en dansk folketingspolitiker. Rusland forsøgte ifølge Forsvarets Efterretningstjeneste (FE) at udnytte debatten om forholdet mellem Danmark og Grønland til at skade forholdet mellem Kongeriget og USA. Det står i FE's risikovurdering UDSYN 2025 fra december.
 
-Sagen er aktuel igen, fordi Storbritanniens premierminister Andy Burnham søndag som den første regeringschef bekræftede, at Rusland blandede sig i brexit-afstemningen i 2016. Moderaternes MEP Stine Bosse delte nyheden:
+Sagen er aktuel igen, fordi Storbritanniens premierminister Andy Burnham søndag som den første regeringschef [bekræftede, at Rusland blandede sig i brexit-afstemningen i 2016](https://www.independent.co.uk/news/uk/politics/burnham-brexit-russia-eu-b3064772.html). Moderaternes MEP Stine Bosse delte nyheden:
 
 > Vi bliver snydt så vandet driver … det startede i UK
 > — [Stine Bosse (M), MEP, på X](https://x.com/BosseStine/status/2109291996422779250) 11. oktober 2026
@@ -49,11 +49,11 @@ Før folketingsvalget 24. marts 2026 lavede Politiets Efterretningstjeneste (PET
 
 Ifølge myndighederne skyldes det især Danmarks omfattende støtte til Ukraine, herunder ukrainsk våbenproduktion på dansk jord. Formålet med de russiske aktiviteter er sandsynligvis at skabe utryghed og svække støtten til Ukraine. Vurderingen nævner også, at USA's ønske om at overtage Grønland har ført til mis- og desinformation om Kongeriget, som Rusland og Kina kan udnytte.
 
-Det er et markant skifte. I oktober 2022, før det forrige folketingsvalg, vurderede PET og FE det »mindre sandsynligt«, at Rusland ville prioritere en koordineret kampagne mod valget.
+Det er et markant skifte. I oktober 2022, før det forrige folketingsvalg, [vurderede PET og FE det »mindre sandsynligt«](https://pet.dk/pet/nyhedsliste/truslen-fra-russisk-paavirkning-af-det-kommende-folketingsvalg/2022/10/07), at Rusland ville prioritere en koordineret kampagne mod valget.
 
 ## Hvad blev der fundet?
 
-Efter valget i marts meddelte PET, FE og SAMSIK, at de ikke havde afdækket påvirkningsaktiviteter fra fremmede efterretningstjenester. De fandt til gengæld profiler med forbindelser til russiske onlinemiljøer, som delte fordrejede udsagn om danske politikere. Personerne bag kendte ifølge myndighederne den danske debat godt, men opslagene fik begrænset spredning. Flere fik først mange visninger, efter at danske medier skrev om dem. Desinformation om Grønland fik i enkelte tilfælde stor spredning, og pro-russiske hackergrupper angreb danske og grønlandske hjemmesider – dog på det vanlige niveau.
+[Efter valget i marts meddelte PET, FE og SAMSIK](https://pet.dk/pet/nyhedsliste/myndighederne-har-ikke-afdaekket-fremmed-statslig-paavirkningsaktivitet/2026/03/25), at de ikke havde afdækket påvirkningsaktiviteter fra fremmede efterretningstjenester. De fandt til gengæld profiler med forbindelser til russiske onlinemiljøer, som delte fordrejede udsagn om danske politikere. Personerne bag kendte ifølge myndighederne den danske debat godt, men opslagene fik begrænset spredning. Flere fik først mange visninger, efter at danske medier skrev om dem. Desinformation om Grønland fik i enkelte tilfælde stor spredning, og pro-russiske hackergrupper angreb danske og grønlandske hjemmesider – dog på det vanlige niveau.
 
 Allerede i 2022 skrev PET, at tjenesten »ikke hidtil« havde afdækket koordineret og systematisk fremmed statslig påvirkning i forbindelse med valg i Danmark. Udmeldingen kom fire måneder efter folkeafstemningen om forsvarsforbeholdet 1. juni 2022, men den nævner ikke afstemningen specifikt. Europaposten har ikke fundet en offentlig efterfølgende vurdering fra myndighederne, der handler om folkeafstemningerne om retsforbeholdet i 2015 eller forsvarsforbeholdet i 2022.
 
@@ -61,15 +61,15 @@ Den britiske sag viser, hvorfor det er værd at bemærke. I Storbritannien blev 
 
 ## Hvad har Danmark gjort?
 
-Det nuværende danske værn går tilbage til 2018, hvor den daværende regering i september lancerede en handlingsplan med 11 initiativer mod udenlandsk påvirkning af valg. Den indeholdt blandt andet rådgivning af partierne, et beredskab ved selve valghandlingen, dialog med medier og sociale medier og et lovforslag, der skulle opdatere straffelovens værn mod fremmede efterretningstjenesters påvirkningskampagner. I dag koordineres indsatsen i Taskforce Påvirkning, hvor Justitsministeriet, Udenrigsministeriet, Forsvarsministeriet, Ministeriet for Samfundssikkerhed og Beredskab, Naalakkersuisut, PET, FE, SAMSIK og Rigspolitiet deltager.
+Det nuværende danske værn går tilbage til 2018, hvor den daværende regering i september [lancerede en handlingsplan med 11 initiativer](https://www.justitsministeriet.dk/pressemeddelelse/styrket-vaern-mod-udenlandsk-paavirkning-af-danske-valg-og-demokratiet/) mod udenlandsk påvirkning af valg. Den indeholdt blandt andet rådgivning af partierne, et beredskab ved selve valghandlingen, dialog med medier og sociale medier og et lovforslag, der skulle opdatere straffelovens værn mod fremmede efterretningstjenesters påvirkningskampagner. I dag koordineres indsatsen i Taskforce Påvirkning, hvor Justitsministeriet, Udenrigsministeriet, Forsvarsministeriet, Ministeriet for Samfundssikkerhed og Beredskab, Naalakkersuisut, PET, FE, SAMSIK og Rigspolitiet deltager.
 
-Danmark deltager også, sammen med alle andre EU-lande, i Det Europæiske Center for Demokratisk Modstandsdygtighed, som Kommissionen satte i gang i februar 2026 som en del af det europæiske demokratiskjold.
+Danmark deltager også, sammen med alle andre EU-lande, i [Det Europæiske Center for Demokratisk Modstandsdygtighed](https://commission.europa.eu/european-centre-democratic-resilience_da), som Kommissionen satte i gang i februar 2026 som en del af det europæiske demokratiskjold.
 
 ## De danske MEP'er er splittede
 
-Europa-Parlamentet vedtog 15. september med 420 stemmer mod 220 og 26 hverken-eller en initiativbetænkning om demokratiskjoldet. Parlamentet kalder Rusland den største eksterne trussel mod Europas sikkerhed og demokrati. Ifølge Parlamentets eget resumé beklager det, at centret mangler et klart mandat via en retsakt, eget budget og eget personale, og det ønsker deltagelse gjort obligatorisk. Betænkningen er ikke lov, men et politisk signal til Kommissionen.
+Europa-Parlamentet vedtog 15. september med 420 stemmer mod 220 og 26 hverken-eller en initiativbetænkning om demokratiskjoldet. Parlamentet kalder Rusland den største eksterne trussel mod Europas sikkerhed og demokrati. [Ifølge Parlamentets eget resumé](https://oeil.europarl.europa.eu/oeil/en/document-summary?id=1914974) beklager det, at centret mangler et klart mandat via en retsakt, eget budget og eget personale, og det ønsker deltagelse gjort obligatorisk. Betænkningen er ikke lov, men et politisk signal til Kommissionen.
 
-Ti af de 15 danske MEP'er stemte for, herunder Stine Bosse. Majbritt Birkholm (DF) og Kristoffer Storm (DD) stemte imod, Per Clausen (EL) stemte hverken for eller imod, og Kira Marie Peter-Hansen (SF) og Marianne Vind (S) stemte ikke.
+[Ti af de 15 danske MEP'er stemte for](https://howtheyvote.eu/votes/195987), herunder Stine Bosse. Majbritt Birkholm (DF) og Kristoffer Storm (DD) stemte imod, Per Clausen (EL) stemte hverken for eller imod, og Kira Marie Peter-Hansen (SF) og Marianne Vind (S) stemte ikke.
 
 ## Næste skridt
 

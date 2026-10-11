@@ -21,13 +21,13 @@ sources:
   - Frankrig og Tyskland: Franco-German letter on strengthening European resilience (non-paper, 5. oktober 2026, via Politico) | https://www.politico.eu/wp-content/uploads/2026/10/05/French-German-Non-paper.pdf
 ---
 
-Europa-Parlamentet vedtog onsdag en anbefaling om EU's politiske forhold til Kina. Den blev vedtaget med 454 stemmer for, 86 imod og 110, der undlod at stemme. Ingen af de 15 danske medlemmer stemte imod.
+Europa-Parlamentet vedtog onsdag en anbefaling om EU's politiske forhold til Kina. [Den blev vedtaget med 454 stemmer for](https://howtheyvote.eu/votes/197457), 86 imod og 110, der undlod at stemme. Ingen af de 15 danske medlemmer stemte imod.
 
 Anbefalingen er rettet til Rådet, Europa-Kommissionen og EU's udenrigschef. Den er ikke lov, men Parlamentets bud på, hvilken kurs EU skal følge over for Beijing.
 
 ## Hvad vil Parlamentet?
 
-Ifølge Parlamentets pressemeddelelse vil flertallet kombinere dialog med Kina med mere beskyttelse af europæiske interesser. Blandt kravene er:
+[Ifølge Parlamentets pressemeddelelse](https://www.europarl.europa.eu/news/en/press-room/20261002IPR47902/eu-china-relations-meps-defend-dialogue-fair-trade-and-human-rights) vil flertallet kombinere dialog med Kina med mere beskyttelse af europæiske interesser. Blandt kravene er:
 
 - **Gensidighed i handlen:** EU skal kunne reagere "forholdsmæssigt", hvis Kina ikke åbner sit marked for europæiske virksomheder.
 - **Mindre afhængighed:** En strategi for at mindske risikoen ved afhængighed af Kina, særligt for kritiske råstoffer, medicin, batterier, elbiler, halvledere og it.
@@ -63,9 +63,9 @@ Det giver 8 danske stemmer for, 0 imod, 2, der undlod, og 5, der ikke deltog i a
 
 ## Samme uge: Forhandlinger i Beijing og et fransk-tysk forslag
 
-Afstemningen faldt midt i en travl uge for EU's Kina-politik. EU's handelskommissær, Maroš Šefčovič, mødes torsdag og fredag med Kinas handelsminister, Wang Wentao, i Beijing, skriver Al Jazeera. Emnerne er blandt andet EU's handelsunderskud med Kina på over 1 milliard euro om dagen og Kinas begrænsninger på eksport af sjældne jordarter.
+Afstemningen faldt midt i en travl uge for EU's Kina-politik. EU's handelskommissær, Maroš Šefčovič, mødes torsdag og fredag med Kinas handelsminister, Wang Wentao, i Beijing, [skriver Al Jazeera](https://www.aljazeera.com/economy/2026/10/7/eu-china-trade-talks-begin-in-beijing-amid-escalating-pressure). Emnerne er blandt andet EU's handelsunderskud med Kina på over 1 milliard euro om dagen og Kinas begrænsninger på eksport af sjældne jordarter.
 
-Mandag sendte Frankrigs præsident, Emmanuel Macron, og Tysklands kansler, Friedrich Merz, et fælles uformelt forslag (et såkaldt non-paper) til Kommissionens formand, Ursula von der Leyen. De vil have et nyt instrument, der hurtigt kan begrænse et lands adgang til EU's indre marked ved alvorlige og systematiske markedsforvridninger. Ifølge DW skal Kommissionen kunne handle selv, mens landene kan stoppe det med kvalificeret flertal. Forslaget nævner ikke Kina, men bliver bredt set som rettet mod Kina.
+Mandag sendte Frankrigs præsident, Emmanuel Macron, og Tysklands kansler, Friedrich Merz, et fælles uformelt forslag ([et såkaldt non-paper](https://www.politico.eu/wp-content/uploads/2026/10/05/French-German-Non-paper.pdf)) til Kommissionens formand, Ursula von der Leyen. De vil have et nyt instrument, der hurtigt kan begrænse et lands adgang til EU's indre marked ved alvorlige og systematiske markedsforvridninger. Ifølge DW skal Kommissionen kunne handle selv, mens landene kan stoppe det med kvalificeret flertal. Forslaget nævner ikke Kina, men bliver bredt set som rettet mod Kina.
 
 Kinas handelsministerium har ifølge Al Jazeera advaret om et "resolut svar", hvis EU indfører restriktioner mod kinesiske virksomheder eller varer.
 

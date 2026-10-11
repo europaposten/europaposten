@@ -18,7 +18,7 @@ sources:
   - Rådet for Den Europæiske Union: ST 13399/1/26 REV 1, AOB Simplification – Information from Austria (23. september 2026) | https://data.consilium.europa.eu/doc/document/ST-13399-2026-REV-1/en/pdf
 ---
 
-Femten EU-lande, herunder Danmark, støtter forslaget om et dedikeret europæisk implementerings- og konsolideringsår. Det fremgår af et AOB-notat (any other business), som Østrig fremlagde til mødet i Rådet for Generelle Anliggender 22. september. Dokumentet er offentliggjort i Rådets register 23. september som ST 13399/1/26 REV 1.
+Femten EU-lande, herunder Danmark, støtter forslaget om et dedikeret europæisk implementerings- og konsolideringsår. Det fremgår af [et AOB-notat](https://data.consilium.europa.eu/doc/document/ST-13399-2026-REV-1/en/pdf) (any other business), som Østrig fremlagde til mødet i Rådet for Generelle Anliggender 22. september. Dokumentet er offentliggjort i Rådets register 23. september som ST 13399/1/26 REV 1.
 
 De øvrige underskrivere er Østrig, Tjekkiet, Tyskland, Estland, Grækenland, Italien, Letland, Litauen, Ungarn, Polen, Portugal, Slovenien, Slovakiet og Finland.
 

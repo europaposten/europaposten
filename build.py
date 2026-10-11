@@ -168,7 +168,18 @@ def render_quote(lines) -> str:
             f'<figcaption>— {inline_md(attrib)}</figcaption></figure>')
 
 
+FAKTA_RE = re.compile(r"^:::fakta[ \t]*(.*?)[ \t]*\n(.*?)\n:::[ \t]*$", re.M | re.S)
+
+
 def markdown(md: str) -> str:
+    # Faktaboks: ':::fakta Titel' ... ':::' (fx "Det ved vi – og det ved vi ikke")
+    boxes = []
+
+    def _box(m):
+        title = m.group(1).strip() or "Fakta"
+        boxes.append(f'<aside class="factbox"><h2>{inline_md(title)}</h2>{markdown(m.group(2))}</aside>')
+        return f"\n\n@@FAKTABOKS{len(boxes) - 1}@@\n\n"
+    md = FAKTA_RE.sub(_box, md)
     out, para, listbuf, quote, table = [], [], [], [], []
 
     def cells(row):
@@ -197,6 +208,9 @@ def markdown(md: str) -> str:
         st = line.strip()
         if not st:
             flush()
+        elif re.fullmatch(r"@@FAKTABOKS\d+@@", st):
+            flush()
+            out.append(boxes[int(st[11:-2])])
         elif st.startswith("!billede "):
             # Billede i brødteksten: !billede fil.jpg | alt-tekst | billedtekst | kreditering (markdown)
             flush()
@@ -509,16 +523,21 @@ def illustration_html(a: Article, root: str) -> str:
 
 def render_article(site, sections, a: Article, arts):
     root = "../../"
-    related = [x for x in arts if x is not a and x.section == a.section][:3]
+    # Læs også: først samme emne (kicker), så samme sektion, så de nyeste
+    others = [x for x in arts if x is not a]
+    related = [x for x in others if a.kicker and x.kicker == a.kicker][:3]
+    related += [x for x in others if x.section == a.section and x not in related][: 3 - len(related)]
     if len(related) < 3:
-        related += [x for x in arts if x is not a and x not in related][: 3 - len(related)]
+        related += [x for x in others if x not in related][: 3 - len(related)]
     rel_html = "".join(teaser(x, root, "small") for x in related)
     corr_html = ""
     if a.corrections:
-        corr_html = ('<section class="corrections"><h2>Rettelser</h2><ul>' + "".join(
+        corr_html = ('<section class="corrections" id="rettelser"><h2>Rettelser</h2><ul>' + "".join(
             f"<li><strong>{esc(d)}:</strong> {inline_md(t)}</li>" for d, t in a.corrections) + "</ul></section>")
-    sources = "".join(
+    # Samlet kildeliste kun i long reads; i øvrige artikler står kilderne som links i brødteksten
+    sources = "" if a.type != "long-read" else "".join(
         f'<li><a href="{esc(u)}" rel="noopener" target="_blank">{esc(t)}</a></li>' for t, u in a.sources)
+    rettet = ' · <a href="#rettelser">Artiklen er rettet</a>' if a.corrections else ""
     updated = (f' · Opdateret <time datetime="{a.updated.isoformat()}">{dansk_dato(a.updated, med_tid=True)}</time>'
                if a.updated else "")
     abs_url = f"{site['base_url']}/{a.url}"
@@ -561,7 +580,7 @@ def render_article(site, sections, a: Article, arts):
     <h1>{esc(a.title)}</h1>
     {illustration_html(a, root)}
     <p class="standfirst">{esc(a.summary)}</p>
-    <p class="meta">{byline(a)}{updated} · {a.minutes} min. læsning</p>
+    <p class="meta">{byline(a)}{updated}{rettet} · {a.minutes} min. læsning</p>
     <div class="laes-op" role="group" aria-label="Oplæsning af artiklen" hidden>
       <button type="button" class="laes-op-knap" aria-label="Læs artiklen op" aria-pressed="false"><svg class="laes-op-ikon" viewBox="0 0 24 24" width="16" height="16" aria-hidden="true" focusable="false"><path d="M3 9v6h4l5 4V5L7 9H3zm13.5 3a4.5 4.5 0 0 0-2.5-4v8a4.5 4.5 0 0 0 2.5-4zM14 3.2v2.1a7 7 0 0 1 0 13.4v2.1a9 9 0 0 0 0-17.6z" fill="currentColor"/></svg><span class="laes-op-tekst">Læs op</span></button>
       <button type="button" class="laes-op-stop" aria-label="Stop oplæsningen" hidden>Stop</button>
@@ -574,10 +593,7 @@ def render_article(site, sections, a: Article, arts):
   </div>
   <footer class="story-foot">
     {corr_html}
-    <section class="sources">
-      <h2>Kilder</h2>
-      <ul>{sources}</ul>
-    </section>
+    {f'<section class="sources"><h2>Kilder</h2><ul>{sources}</ul></section>' if sources else ''}
     <p class="ai-note">Artiklen er læst, redigeret og godkendt af ansvarshavende redaktør {esc(site.get('redaktoer', ''))}, som står inde for indholdet. Kunstig intelligens er brugt som værktøj til research og første udkast på baggrund af de nævnte kilder. Har du fundet en fejl? <a href="mailto:{esc(site['kontakt_email'])}">Skriv til os</a> · <a href="{root}rettelser-og-klager/">Rettelser og klager</a> · <a href="{root}saadan-bruger-vi-ai/">Sådan bruger vi AI</a>.</p>
   </footer>
 </article>

@@ -44,7 +44,7 @@ EU-politik er højre/venstre-politik og interessepolitik ligesom dansk politik. 
 ## 7. Kildekritik og primærkilder
 
 - Vi går så vidt muligt til primærkilden: lovforslaget, afstemningsresultatet, ministersvaret, samlenotatet eller dommen – ikke kun omtalen af den.
-- Alle artikler slutter med en kildeliste med links, helst til de originale dokumenter, så læseren selv kan efterprøve os.
+- Vi linker til kilderne direkte i teksten, der hvor oplysningen står – helst til de originale dokumenter – så læseren selv kan efterprøve os. Long reads har desuden en samlet kildeliste nederst.
 - Vi tilskriver altid: Det skal fremgå, hvem der siger eller har besluttet hvad, og hvor oplysningen kommer fra.
 - Vi spørger, hvem kilden er, og hvilken interesse den har. Ministerier, institutioner, partier og interesseorganisationer er parter; tænketanke præsenteres med deres udgangspunkt.
 - Andre mediers historier kan være et tip, men vi skriver selvstændigt ud fra primærkilderne og omskriver ikke andres artikler. Bruger vi en oplysning, som et andet medie har fundet frem til, krediterer vi mediet. Vi bruger ikke betalingsbelagt indhold ud over korte, kildeangivne gengivelser.

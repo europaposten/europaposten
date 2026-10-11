@@ -21,7 +21,7 @@ Bylinen "Redigeret af {{redaktoer}}" over hver artikel betyder, at han har læst
 ## AI: et værktøj til research og udkast
 
 - **Research og overvågning:** AI hjælper med at gennemgå primærkilder hver dag: Folketingets spørgsmål og ministersvar, Europa-Parlamentets afstemninger og forespørgsler, Kommissionens og Rådets pressemeddelelser, EUR-Lex og de danske MEP'ers offentlige udmeldinger.
-- **Første udkast:** AI skriver udkast ud fra de kilder, der linkes til nederst i artiklen. Udkastet er et råmateriale, som redaktøren bearbejder.
+- **Første udkast:** AI skriver udkast ud fra de kilder, der linkes til i artiklen. Udkastet er et råmateriale, som redaktøren bearbejder.
 - **Grafik og illustrationer:** Tegninger og grafikker kan være lavet med AI-værktøjer. De er altid krediteret som illustration og forestiller ikke virkelige begivenheder. Vi bruger aldrig AI-billeder, der ligner fotos af virkelige personer eller situationer.
 - **Oplæsning:** Funktionen "Læs op" bruger din browsers egen syntetiske stemme.
 

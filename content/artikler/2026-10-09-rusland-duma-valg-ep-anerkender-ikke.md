@@ -19,13 +19,13 @@ sources:
   - Meduza: 'A complete sham': European Parliament condemns Russia's September elections (8. oktober 2026) | https://meduza.io/en/news/2026/10/08/a-complete-sham-european-parliament-condemns-russia-s-september-elections-and-refuses-to-recognize-its-new-lower-house-as-legitimate
 ---
 
-Europa-Parlamentet vedtog torsdag en resolution, der kalder valget til Ruslands Statsduma 18.–20. september 2026 for et "komplet fupnummer" og nægter at anerkende det nyvalgte kammer som Ruslands legitime lovgivende forsamling. Teksten (RC-B10-0441/2026) fik **482 stemmer for, 41 imod og 39 blanke**, ifølge Parlamentets pressemeddelelse og HowTheyVote.eu.
+Europa-Parlamentet vedtog torsdag en resolution, der kalder valget til Ruslands Statsduma 18.–20. september 2026 for et "komplet fupnummer" og nægter at anerkende det nyvalgte kammer som Ruslands legitime lovgivende forsamling. [Teksten (RC-B10-0441/2026)](https://howtheyvote.eu/votes/198216) fik **482 stemmer for, 41 imod og 39 blanke**, ifølge Parlamentets pressemeddelelse og HowTheyVote.eu.
 
 Elleve af de 15 danske medlemmer stemte for. Ingen danskere stemte imod.
 
 ## Hvad siger resolutionen?
 
-Ifølge Parlamentets pressemeddelelse afviser MEP'erne valget som hverken frit eller fair. De peger blandt andet på:
+[Ifølge Parlamentets pressemeddelelse](https://www.europarl.europa.eu/news/en/press-room/20261002IPR47908/parliament-slams-russian-state-duma-elections-as-complete-sham) afviser MEP'erne valget som hverken frit eller fair. De peger blandt andet på:
 
 - at der ikke var reelle alternative kandidater, fri presse, troværdige observatører eller politiske frihedsrettigheder
 - at kritikere af regimet er fængslet, myrdet eller tvunget i eksil
@@ -59,7 +59,7 @@ Det giver **11 danske for, 0 imod, 1 blank og 3, der ikke deltog**. Dansk Folkep
 
 ## Binding eller signal?
 
-Resolutionen er Parlamentets politiske holdning. Den skaber ikke automatisk et juridisk forbud mod diplomatiske eller parlamentariske kontakter for medlemslandene. Et ensartet, bindende ikke-anerkendelsesregime kræver yderligere skridt i Rådet, skriver 2eu.brussels.
+Resolutionen er Parlamentets politiske holdning. Den skaber ikke automatisk et juridisk forbud mod diplomatiske eller parlamentariske kontakter for medlemslandene. Et ensartet, bindende ikke-anerkendelsesregime kræver yderligere skridt i Rådet, [skriver 2eu.brussels](https://2eu.brussels/en/news/european-parliament-refuses-to-recognise-new-russian-state-duma-and-urges-eu-countries-to-avoid-official-contacts).
 
 EU havde allerede 21. september, via udenrigschefen på vegne af Unionen, sagt, at man ikke anerkender organiseringen eller resultaterne af stemmeafgivning i de besatte ukrainske områder. Torsdagens tekst går videre ved at udfordre den politiske legitimitet af hele den nye Statsduma.
 

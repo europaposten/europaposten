@@ -19,13 +19,13 @@ sources:
   - CNN: 'King of Injustice' – Golden naked Trump statue installed at European Parliament (7. oktober 2026) | https://www.cnn.com/2026/10/07/style/golden-naked-trump-statue-european-parliament
 ---
 
-Mens Jens Galschiøts forgyldte skulptur af en nøgen Donald Trump stod i Europa-Parlamentet i Strasbourg, lagde Liberal Alliances medlem Henrik Dahl (EPP) en længere kritik ud på X. Opslaget fik omkring 610 likes og knap 19.000 visninger på et døgn.
+Mens Jens Galschiøts forgyldte skulptur af en nøgen Donald Trump stod i Europa-Parlamentet i Strasbourg, lagde Liberal Alliances medlem Henrik Dahl (EPP) [en længere kritik ud på X](https://x.com/SociologenHD/status/2108120025663975572). Opslaget fik omkring 610 likes og knap 19.000 visninger på et døgn.
 
 Dahl skriver på engelsk. Han understreger, at han kommer fra samme land som kunstneren, og afviser værket som banalt. Ifølge hans opslag handler moderne kunst tungt på myten om, hvad kunst er; den "taler banalitet til magten"; og der findes ifølge ham ikke en eneste modepræget venstreorienteret kunstner, der ikke deler Galschiøts synspunkter. Han kalder det intellektuelt dovent, en træt og banal genbrug – og "venstreorienteret kitsch" (Europapostens oversættelse).
 
 ## To danske MEP'er, to linjer
 
-Det er Enhedslistens Per Clausen (The Left), der fik skulpturen "The Orange Plague" / "King of Injustice" ind i Parlamentet i denne uge. Udstillingen er godkendt af Parlamentets **kvæstorer** – en tværpolitisk gruppe, der vurderer, om kulturarrangementer overholder reglerne. Hvert medlem må stå bag to kulturarrangementer eller udstillinger i en valgperiode. En godkendelse er ikke det samme som, at Parlamentet bakker op om budskabet. Det skrev vi torsdag i [vores artikel om udstillingen](/guld-trump-europa-parlamentet-per-clausen/).
+Det er Enhedslistens Per Clausen (The Left), [der fik skulpturen](/artikler/guld-trump-europa-parlamentet-per-clausen/) "The Orange Plague" / "King of Injustice" ind i Parlamentet i denne uge. Udstillingen er godkendt af Parlamentets **kvæstorer** – en tværpolitisk gruppe, der vurderer, om kulturarrangementer overholder reglerne. Hvert medlem må stå bag to kulturarrangementer eller udstillinger i en valgperiode. En godkendelse er ikke det samme som, at Parlamentet bakker op om budskabet. Det skrev vi torsdag i [vores artikel om udstillingen](/guld-trump-europa-parlamentet-per-clausen/).
 
 Clausen har forsvaret udstillingen som satire og ytringsfrihed:
 
@@ -36,7 +36,7 @@ Dahls kritik rammer derfor ikke kvæstor-processen, men selve kunstværkets indh
 
 ## Fico krævede fjernelse – skulpturen er væk
 
-Kritikken kom også udefra. Slovakiets premierminister Robert Fico kaldte torsdag på X skulpturen for et "tegn på hele Den Europæiske Unions forfald" og krævede den fjernet, skriver POLITICO Europe. Han anerkendte, at han ikke er enig i al Trumps politik, men sagde, at det at fornærme partnere på officielle lokaliteter viser en "dybtgående mangel på forståelse for den tid, vi lever i" (Europapostens oversættelse af POLITICOs gengivelse).
+Kritikken kom også udefra. Slovakiets premierminister Robert Fico kaldte torsdag på X skulpturen for et "tegn på hele Den Europæiske Unions forfald" og krævede den fjernet, [skriver POLITICO Europe](https://www.politico.eu/article/slovakia-robert-fico-nude-donald-trump-statue-orange-plague-european-parliament/). Han anerkendte, at han ikke er enig i al Trumps politik, men sagde, at det at fornærme partnere på officielle lokaliteter viser en "dybtgående mangel på forståelse for den tid, vi lever i" (Europapostens oversættelse af POLITICOs gengivelse).
 
 Ifølge POLITICO oplyste Parlamentets pressetjeneste efter publicering, at skulpturen allerede var fjernet onsdag – altså inden Ficos offentlige krav. Udstillingen var planlagt som et kort arrangement i forbindelse med plenarugen.
 

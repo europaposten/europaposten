@@ -21,13 +21,13 @@ sources:
 
 EU's kvotehandelssystem, ETS, er EU's vigtigste klimaværktøj. Kraftværker, industri, luftfart og skibsfart skal købe en kvote for hvert ton CO2, de udleder, og det samlede antal kvoter falder år for år. Nu vil Europa-Kommissionen ændre systemet, så det passer til EU's nye klimamål om 90 procent lavere nettoudledninger i 2040.
 
-Mandag den 12. oktober holder miljøministrene i Rådet en første politisk drøftelse af forslaget. Der skal ikke træffes beslutninger. Fredag forinden forelægger klima-, energi- og forsyningsministeren rådsmødet for Folketingets Europaudvalg. Her er det vigtigste.
+Mandag den 12. oktober holder [miljøministrene i Rådet en første politisk drøftelse](https://www.consilium.europa.eu/da/meetings/env/2026/10/12/) af forslaget. Der skal ikke træffes beslutninger. Fredag forinden [forelægger klima-, energi- og forsyningsministeren rådsmødet for Folketingets Europaudvalg](https://www.ft.dk/samling/20261/udvda/EUU/2214874/index.htm). Her er det vigtigste.
 
 ## 1. Kvoterne falder langsommere
 
 I dag skrumper loftet over antallet af kvoter med 4,4 procent om året. Kommissionen foreslår, at det sænkes til 3,7 procent om året i 2031-2035 og til 1,7 procent fra 2036. Til gengæld skal en central EU-ordning købe op til 260 millioner internationale klimakreditter i 2036-2040. Hvis der ikke findes kreditter af god nok kvalitet, skal faktoren fra 2036 i stedet være 2,7 procent.
 
-Ifølge regeringens grund- og nærhedsnotat betyder det samlet, at flere kvoter bliver tilgængelige efter 2030 end efter de gældende regler. Ministeriet kalder det "en lempelse af kvotesystemets regler" og vurderer, at forslaget isoleret set vil give en lavere kvotepris.
+Ifølge [regeringens grund- og nærhedsnotat](https://www.ft.dk/samling/20252/almdel/kef/bilag/198/3193822.pdf) betyder det samlet, at flere kvoter bliver tilgængelige efter 2030 end efter de gældende regler. Ministeriet kalder det "en lempelse af kvotesystemets regler" og vurderer, at forslaget isoleret set vil give en lavere kvotepris.
 
 ## 2. Nye sektorer kommer med
 
@@ -45,7 +45,7 @@ Ifølge notatet trækker forslaget i begge retninger. Flere kvoter kan give fler
 
 ## Hvad vil regeringen?
 
-Regeringens foreløbige holdning er, at ETS skal levere "en så stor andel af EU’s samlede reduktionsindsats som muligt" og kun bruge internationale klimakreditter i begrænset omfang. Regeringen er overordnet positiv over for at inddrage affaldsforbrænding, negative udledninger og mere sø- og luftfart. Den vil have fokus på konsekvenserne for Grønlands og Færøernes forbindelser til omverdenen. Den kan ikke støtte, at kvoteindtægter bruges til EU's administrationsudgifter, og vil ikke have kvotesystemet for bygninger og vejtransport (ETS2) genåbnet.
+[Regeringens foreløbige holdning](https://www.eu.dk/samling/20252/raadsmoede/591298/bilag/2/3194573.pdf) er, at ETS skal levere "en så stor andel af EU’s samlede reduktionsindsats som muligt" og kun bruge internationale klimakreditter i begrænset omfang. Regeringen er overordnet positiv over for at inddrage affaldsforbrænding, negative udledninger og mere sø- og luftfart. Den vil have fokus på konsekvenserne for Grønlands og Færøernes forbindelser til omverdenen. Den kan ikke støtte, at kvoteindtægter bruges til EU's administrationsudgifter, og vil ikke have kvotesystemet for bygninger og vejtransport (ETS2) genåbnet.
 
 ## Hvem er uenige?
 
