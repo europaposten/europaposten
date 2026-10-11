@@ -1,7 +1,7 @@
 ---
 title: "Efter Borris: Danmark er med i EU's droneprojekt – men står uden for Eastern Flank Watch, hvor Sverige, Finland og Norge er med"
 slug: borris-droner-eu-droneforsvar
-date: 2026-10-11 15:30
+date: 2026-10-11 14:15
 section: forsvar
 type: Analyse
 kicker: Droneforsvar
