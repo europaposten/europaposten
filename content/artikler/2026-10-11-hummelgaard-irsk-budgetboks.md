@@ -4,6 +4,7 @@ slug: hummelgaard-irsk-budgetboks
 date: 2026-10-11 16:00
 section: politik
 type: Nyhed
+sag: eu-budget
 kicker: EU-budgettet
 author: Europaposten-redaktionen
 summary: Finansminister Peter Hummelgaard kalder det irske formandskabs nye forhandlingsboks for EU's langtidsbudget utilstrækkelig. Budgettet er fortsat for højt, og besparelserne har ifølge ministeren det forkerte fokus. Tysklands kansler Friedrich Merz siger det samme.

@@ -4,6 +4,7 @@ slug: groenland-beredskab-lahbib-eu
 date: 2026-10-10 07:30
 section: forsvar
 type: Ministersvar
+sag: groenland
 kicker: Ministersvar
 author: Europaposten-redaktionen
 summary: Minister for samfundssikkerhed og beredskab Lisbeth Bech Nielsen oplyser, at hun i november sammen med EU-kommissær Hadja Lahbib besøger Grønland for at styrke det civile beredskab. En EU-ekspertmission var i landet i slutningen af september, og akutpakken 2026 har afsat 180 mio. kr. til grønlandsk beredskab.

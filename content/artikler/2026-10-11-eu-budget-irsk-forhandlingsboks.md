@@ -4,6 +4,7 @@ slug: eu-budget-irsk-forhandlingsboks
 date: 2026-10-11 13:30
 section: politik
 type: Analyse
+sag: eu-budget
 kicker: EU-budgettet
 author: Europaposten-redaktionen
 summary: Det irske formandskab har lagt en ny forhandlingsboks for EU's langtidsbudget 2028–2034 frem. Den skærer 8 procent i Kommissionens forslag, men skåner landbrug og samhørighed og skærer i stedet i bistand, forskning og forsvarsindustri. For Danmark er det afgørende spørgsmål stadig åbent – om de nuværende rabatter fortsætter.

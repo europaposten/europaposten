@@ -56,6 +56,13 @@ ARTIKELTYPER = {
     "nyhed": "Nyhed", "analyse": "Analyse", "forklaring": "Forklaring",
     "faktatjek": "Faktatjek", "ministersvar": "Ministersvar", "long-read": "Long read",
 }
+# Sager: løbende historier med egen side på /sag/<slug>/. Artikler knyttes til med 'sag: slug, slug' i front matter.
+SAGER = {
+    "eu-budget": ("EU-budgettet 2028–2034", "Forhandlingerne om EU's næste langtidsbudget: regeringens krav om et lavere udgiftsniveau, Parlamentets krav om mere og det irske formandskabs forhandlingsboks."),
+    "groenland": ("Grønland og EU", "EU's voksende engagement i Grønland – fra Kommissionens udspil og beredskabssamarbejde til påvirkningsforsøg og stormagtspres."),
+    "forsvar-droner": ("Forsvar og droner", "Droneobservationerne over Danmark, Borris-sagen og EU's nye forsvarsprojekter og -programmer – og hvor Danmark er med."),
+    "rusland": ("Rusland og hybride trusler", "Russisk påvirkning, valg og hybride angreb – og hvordan Danmark og EU svarer igen."),
+}
 TYPE_BESKRIVELSE = {
     "nyhed": "Nyheder om beslutninger, afstemninger og forslag i EU – med dansk vinkel og link til primærkilderne.",
     "analyse": "Analyser sætter en sag i perspektiv. De er tydeligt markeret og adskilt fra nyhedsstoffet.",
@@ -278,6 +285,10 @@ class Article:
         # Rettelser: liste af 'ÅÅÅÅ-MM-DD | Hvad blev rettet'
         self.corrections = [tuple(x.strip() for x in c.split("|", 1)) for c in meta.get("rettelser", []) or [] if "|" in c]
         self.kicker = meta.get("kicker", "")
+        self.sager = [x.strip() for x in str(meta.get("sag", "") or "").split(",") if x.strip()]
+        for sg in self.sager:
+            if sg not in SAGER:
+                raise ValueError(f"{path.name}: ukendt sag '{sg}'. Gyldige: {', '.join(SAGER)}")
         self.draft = str(meta.get("draft", "nej")).lower() in ("ja", "yes", "true")
         self.featured = str(meta.get("featured", "nej")).lower() in ("ja", "yes", "true")
         self.sources = [parse_source(s) for s in meta.get("sources", []) or []]
@@ -525,7 +536,8 @@ def render_article(site, sections, a: Article, arts):
     root = "../../"
     # Læs også: først samme emne (kicker), så samme sektion, så de nyeste
     others = [x for x in arts if x is not a]
-    related = [x for x in others if a.kicker and x.kicker == a.kicker][:3]
+    related = [x for x in others if set(a.sager) & set(x.sager)][:3]
+    related += [x for x in others if a.kicker and x.kicker == a.kicker and x not in related][: 3 - len(related)]
     related += [x for x in others if x.section == a.section and x not in related][: 3 - len(related)]
     if len(related) < 3:
         related += [x for x in others if x not in related][: 3 - len(related)]
@@ -587,6 +599,7 @@ def render_article(site, sections, a: Article, arts):
       <span class="laes-op-status visually-hidden" aria-live="polite"></span>
     </div>
   </header>
+  {('<p class="sag-link">Følg sagen: ' + " · ".join(f'<a href="{root}sag/{sg}/">{esc(SAGER[sg][0])}</a>' for sg in a.sager) + '</p>') if a.sager else ''}
   <div class="story-body">
     {a.body_html}
     {ad_slot(site, "artikel-midt")}
@@ -655,8 +668,22 @@ def explainer_list(arts, root):
         for a in ex) + "</ul>"
 
 
+def render_sag(site, sections, slug, arts):
+    root = "../../"
+    name, intro = SAGER[slug]
+    sa = [a for a in arts if slug in a.sager]
+    grid = "".join(card(a, root) for a in sa) or "<p>Der er endnu ingen artikler i sagen.</p>"
+    content = (f'<header class="page-head"><p class="kicker">Sag</p><h1>{esc(name)}</h1><p>{esc(intro)}</p>'
+               f'<p class="meta">{len(sa)} artikler · senest opdateret {dansk_dato(sa[0].date, med_tid=True) if sa else ""}</p></header>'
+               f'<div class="grid grid-3">{grid}</div>')
+    return layout(site, sections, root, name, content, description=intro)
+
+
 def render_topics(site, sections, arts):
     root = "../"
+    sag = "".join(
+        f'<li><a href="{root}sag/{k}/"><h3>{esc(n)}</h3></a><p>{esc(d)} ({sum(1 for a in arts if k in a.sager)} artikler)</p></li>'
+        for k, (n, d) in SAGER.items())
     sec = "".join(
         f'<li><a href="{root}sektion/{s}/"><h3>{esc(n)}</h3></a><p>{sum(1 for a in arts if a.section == s)} artikler</p></li>'
         for s, n in sections.items())
@@ -665,6 +692,7 @@ def render_topics(site, sections, arts):
         for t, n in ARTIKELTYPER.items())
     content = (f'<header class="page-head"><h1>Emner og artikeltyper</h1><p>Find artikler efter emne eller efter type. '
                f'Alle artikler ligger også i <a href="{root}arkiv/">arkivet</a>.</p></header>'
+               f'<section><h2 class="rubric">Sager vi følger</h2><ul class="list">{sag}</ul></section>'
                f'<div class="topics-grid"><section><h2 class="rubric">Emner</h2><ul class="list">{sec}</ul></section>'
                f'<section><h2 class="rubric">Artikeltyper</h2><ul class="list">{typ}</ul></section></div>')
     return layout(site, sections, root, "Emner og artikeltyper", content)
@@ -715,7 +743,7 @@ def render_rss(site, arts):
 
 
 def render_sitemap(site, sections, arts):
-    urls = ["", "arkiv/", "emner/"] + [f"type/{t}/" for t in ARTIKELTYPER] + [f"{k}/" for k, v in PAGES.items() if v.exists()] + [f"sektion/{s}/" for s in sections] + [a.url for a in arts]
+    urls = ["", "arkiv/", "emner/"] + [f"type/{t}/" for t in ARTIKELTYPER] + [f"{k}/" for k, v in PAGES.items() if v.exists()] + [f"sektion/{s}/" for s in sections] + [f"sag/{k}/" for k in SAGER] + [a.url for a in arts]
     body = "".join(f"<url><loc>{esc(site['base_url'])}/{u}</loc></url>" for u in urls)
     return f'<?xml version="1.0" encoding="utf-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">{body}</urlset>\n'
 
@@ -751,6 +779,8 @@ def build():
         write(OUT / "type" / t / "index.html",
               render_list(site, sections, "../../", name, TYPE_BESKRIVELSE[t], ta))
     write(OUT / "emner" / "index.html", render_topics(site, sections, arts))
+    for sg in SAGER:
+        write(OUT / "sag" / sg / "index.html", render_sag(site, sections, sg, arts))
     write(OUT / "redaktionen" / "index.html",
           '<!doctype html><meta charset="utf-8"><meta http-equiv="refresh" content="0; url=../om-os/#redaktionen">'
           '<link rel="canonical" href="../om-os/"><a href="../om-os/#redaktionen">Redaktionen</a>')

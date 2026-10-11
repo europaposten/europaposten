@@ -4,6 +4,7 @@ slug: von-der-leyen-groenland-set-fra-washington
 date: 2026-10-09 08:30
 section: forsvar
 type: Long read
+sag: groenland
 kicker: Long read
 author: Europaposten-redaktionen
 summary: For Trump-regeringen er Grønland et spørgsmål om missilforsvar, Kina og Rusland – og EU er mest en bremseklods. For Ursula von der Leyen er øen blevet prøvestenen for hele hendes Europa-projekt. Europaposten tegner portrættet af kommissionsformanden gennem det år, hvor Grønland rykkede ind midt i EU-politikken, og forklarer, hvad det betyder for Danmark nu.

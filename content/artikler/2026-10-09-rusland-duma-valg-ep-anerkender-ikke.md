@@ -4,6 +4,7 @@ slug: rusland-duma-valg-ep-anerkender-ikke
 date: 2026-10-09 07:00
 section: forsvar
 type: Nyhed
+sag: rusland
 kicker: Europa-Parlamentet
 author: Europaposten-redaktionen
 summary: Europa-Parlamentet nægter at anerkende den nye russiske Statsduma efter valget 18.–20. september 2026 som legitim. Resolutionen blev vedtaget med 482 stemmer for. Elleve danske MEP'er stemte for, Majbritt Birkholm (DF) undlod, og tre stemte ikke. Ingen danskere stemte imod. Teksten opfordrer medlemslandene til at undgå officielle kontakter med det nye kammer.

@@ -4,6 +4,7 @@ slug: agile-danske-mep-stemmer
 date: 2026-10-06 19:30
 section: forsvar
 type: Nyhed
+sag: forsvar-droner
 kicker: Hvem stemte hvordan
 author: Europaposten-redaktionen
 summary: Europa-Parlamentet har vedtaget AGILE, et nyt EU-program på 115 millioner euro til hurtig forsvarsinnovation i SMV’er. Af de 15 danske MEP’er stemte 12 for, én imod, og to stemte ikke.

@@ -4,6 +4,7 @@ slug: borris-droner-eu-droneforsvar
 date: 2026-10-11 14:15
 section: forsvar
 type: Analyse
+sag: forsvar-droner
 kicker: Droneforsvar
 author: Europaposten-redaktionen
 summary: Forsvaret har rettet tidslinjen for skuddene mod formodede droner ved Borris i september 2025. Sagen viser huller i det danske droneforsvar, som Forsvaret selv har beskrevet. Samtidig har Danmark valgt kun at gå med i to af EU's fem nye forsvarsprojekter. Europaposten har læst dokumenterne og ser på, hvad EU-samarbejdet kan løse, og hvad det ikke kan.
@@ -40,6 +41,15 @@ Klokken var mellem 20.06 og 20.08 søndag aften 28. september 2025, da danske so
 Torsdag 1. oktober 2026 kl. 19.10 [trak Forsvarskommandoen den forklaring tilbage](https://www.forsvaret.dk/da/nyheder/2026/revurdering-af-skudafgivelse-i-borris/). I en [revurdering](https://www.forsvaret.dk/globalassets/fko---forsvaret/dokumenter/publikationer/-ikl-revurdering-af-episoden-i-borris-den-28.-september-2025-.pdf) skriver kommandoen, at evalueringen gengav ”forkerte oplysninger”, og at det ”ikke kan afvises”, at skuddene faldt samtidig med, at et civilt fly passerede området.
 
 Sagen er først og fremmest dansk: Den handler om, hvad soldaterne så, hvornår de skød, og hvorfor offentligheden fik et forkert tidspunkt. Men den falder samtidig med, at EU-landene er ved at fordele roller i de nye fælles forsvarsprojekter, hvor droneforsvar er et af de største emner. Her har Danmark valgt at gå med i to af fem projekter. Europaposten har læst Forsvarets dokumenter, ministersvarene til Folketinget og Rådets afgørelse for at se, om Borris viser, at Danmark står for meget alene med droneforsvaret.
+
+:::fakta Det ved vi – og det ved vi ikke
+- **Vi ved:** Forsvaret placerer nu de 43 skud mellem kl. 20.06 og ca. 20.08, ikke kl. 20.20 som i evalueringen fra juni.
+- **Vi ved:** Forsvaret fastholder, at målet sandsynligvis var droner, og vurderer, at det civile fly i ca. 2.100 meters højde var uden for ammunitionens rækkevidde på højst ca. 1.900 meter.
+- **Vi ved:** Danmark er med i EU's droneprojekt DECODER og luftforsvarsprojektet EU-FIAMD, men står uden for Eastern Flank Watch, IMSD og SPACE, hvor Sverige, Finland og Norge er med.
+- **Vi ved ikke:** Hvad soldaterne præcist skød efter. Der findes ikke radarspor eller anden teknisk dokumentation, der kan afgøre det.
+- **Vi ved ikke:** Hvorfor regeringen konkret har sagt nej til Eastern Flank Watch. Ministersvaret giver ingen konkret begrundelse.
+- **Vi ved ikke:** Hvornår samrådet om dronesagen finder sted.
+:::
 
 ## Hvad Forsvaret nu siger om Borris
 
