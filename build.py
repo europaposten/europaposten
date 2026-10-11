@@ -43,8 +43,18 @@ def load_config():
     site = dict(cp["site"])
     site["base_url"] = site.get("base_url", "").rstrip("/")
     site["vis_annoncepladser"] = site.get("vis_annoncepladser", "nej").lower() in ("ja", "yes", "true", "1")
+    site["cf_analytics_token"] = site.get("cf_analytics_token", "").strip()
     sections = dict(cp["sektioner"])
     return site, sections
+
+
+def analytics_snippet(site) -> str:
+    """Cloudflare Web Analytics: cookiefri, ingen persondata. Tom, hvis token mangler."""
+    tok = site.get("cf_analytics_token", "")
+    if not tok:
+        return ""
+    return ("<script defer src=\"https://static.cloudflareinsights.com/beacon.min.js\" "
+            f"data-cf-beacon='{{\"token\": \"{esc(tok)}\"}}'></script>")
 
 
 # ---------------------------------------------------------------- hjælpere
@@ -337,6 +347,7 @@ def layout(site, sections, root, title, content, description=None, active=None, 
   </div>
   <p class="wrap fineprint">Artiklerne skrives med hjælp fra kunstig intelligens og gennemgås af redaktionen. Alle artikler linker til deres kilder. © {now.year} {esc(site['navn'])}</p>
 </footer>
+{analytics_snippet(site)}
 </body>
 </html>
 """
@@ -554,7 +565,7 @@ def render_about(site, sections):
     <h2>Økonomi og uafhængighed</h2>
     <p>{n} drives som et privat sideprojekt. Sitet kan på sigt blive finansieret af annoncer eller affiliate-links. Hvis det sker, vil kommercielt indhold altid være tydeligt markeret og adskilt fra den redaktionelle dækning. {n} har ingen tilknytning til EU-institutionerne, politiske partier eller interesseorganisationer.</p>
     <h2>Privatliv</h2>
-    <p>Sitet bruger i øjeblikket ingen cookies, ingen sporing og ingen eksterne skrifttyper.</p>
+    <p>Sitet bruger ingen cookies og ingen eksterne skrifttyper. Vi tæller besøg med Cloudflare Web Analytics, som er cookiefri og ikke indsamler personoplysninger eller følger dig på tværs af sites. Derfor er der ingen cookiebanner.</p>
     <h2>Kontakt</h2>
     <p>Tips, rettelser og spørgsmål: <a href="mailto:{esc(site['kontakt_email'])}">{esc(site['kontakt_email'])}</a></p>
   </div>
