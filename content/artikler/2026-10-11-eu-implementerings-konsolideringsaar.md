@@ -8,9 +8,12 @@ kicker: Rådet
 author: Europaposten-redaktionen
 summary: Østrig fremlagde på Generelle Anliggender 22. september et AOB-punkt, hvor 15 medlemslande – herunder Danmark – støtter et dedikeret «European Implementation and Consolidation Year». Fokus skal være gennemførelse, forenkling og «legislative deep-cleaning» før nye politiske lag lægges på.
 draft: nej
-illustration: forenkling-hovedrengoering.jpg
-illustration_alt: Karikatur af en EU-embedsmand, der fejer bunker af paragraffer væk med en rød kost, mens en lille virksomhedsejer ser lettet til
-illustration_credit: Illustration: Europaposten (hurtig aviskarikatur)
+illustration: implementeringsaar-15-lande-kort.jpg
+illustration_alt: Europakort, hvor de 15 lande bag forslaget er markeret med rødt – Østrig, Tjekkiet, Danmark, Tyskland, Estland, Grækenland, Italien, Letland, Litauen, Ungarn, Polen, Portugal, Slovenien, Slovakiet og Finland. Danmark er fremhævet med sort kant.
+illustration_credit: Kort: Europaposten. Kortdata: Natural Earth
+illustration_license: Public domain
+illustration_license_url: https://www.naturalearthdata.com/about/terms-of-use/
+illustration_source: https://www.naturalearthdata.com/
 sources:
   - Rådet for Den Europæiske Union: ST 13399/1/26 REV 1, AOB Simplification – Information from Austria (23. september 2026) | https://data.consilium.europa.eu/doc/document/ST-13399-2026-REV-1/en/pdf
 ---
