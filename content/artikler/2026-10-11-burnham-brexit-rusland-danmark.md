@@ -4,6 +4,7 @@ slug: burnham-brexit-rusland-danmark
 date: 2026-10-11 17:45
 section: politik
 type: Nyhed
+sag: rusland, groenland
 kicker: Russisk påvirkning
 author: Europaposten-redaktionen
 summary: Forsvarets Efterretningstjeneste har beskrevet en russisk påvirkningsoperation mod Danmark og Grønland i 2025. Efterretningstjenesterne kalder Danmark et prioriteret mål, men har aldrig offentligt afdækket koordineret indblanding i et dansk valg.
@@ -39,6 +40,14 @@ Sagen er aktuel igen, fordi Storbritanniens premierminister Andy Burnham søndag
 > — [Stine Bosse (M), MEP, på X](https://x.com/BosseStine/status/2109291996422779250) 11. oktober 2026
 
 Men hvor meget bliver danskerne egentlig snydt? De offentlige dokumenter giver hende delvis ret: Truslen mod Danmark er skærpet og veldokumenteret. Indblanding i et dansk valg er derimod aldrig blevet påvist offentligt.
+
+:::fakta Det ved vi – og det ved vi ikke
+- **Vi ved:** FE vurderer, at Danmark og Grønland i starten af 2025 »sandsynligvis« blev ramt af en russisk operation med et falsk budskab tillagt en dansk folketingspolitiker.
+- **Vi ved:** PET, FE og SAMSIK vurderede før valget i marts 2026, at Danmark meget sandsynligt er et prioriteret mål for russiske påvirkningsaktiviteter.
+- **Vi ved:** Efter valget meddelte myndighederne, at de ikke havde afdækket påvirkningsaktiviteter fra fremmede efterretningstjenester.
+- **Vi ved ikke:** Om Rusland forsøgte at påvirke folkeafstemningerne om retsforbeholdet i 2015 og forsvarsforbeholdet i 2022. Europaposten har ikke fundet en offentlig vurdering fra myndighederne.
+- **Vi ved ikke:** Hvad Burnhams konklusion om brexit-afstemningen bygger på. Han har ikke offentliggjort den vurdering, han henviser til.
+:::
 
 ## Danmark er et prioriteret mål
 

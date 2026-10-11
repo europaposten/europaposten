@@ -195,3 +195,5 @@ main.wrap{padding-top:28px;padding-bottom:40px}
 .factbox{background:var(--tint);border-top:3px solid var(--ink);padding:14px 18px;margin:24px 0}
 .factbox h2{font-size:.8rem;text-transform:uppercase;letter-spacing:.08em;margin:0 0 8px}
 .factbox p,.factbox ul{font-size:.95rem;margin:6px 0}
+.sag-link{font-size:.85rem;font-weight:700;text-transform:uppercase;letter-spacing:.05em;margin:0 0 18px;padding-left:10px;border-left:3px solid var(--accent)}
+.sag-link a{color:var(--accent);text-decoration:none}

@@ -4,6 +4,7 @@ slug: clausen-eu-budget-bistand
 date: 2026-10-11 06:30
 section: politik
 type: Nyhed
+sag: eu-budget
 kicker: Europa-Parlamentet
 author: Europaposten-redaktionen
 summary: Enhedslistens MEP Per Clausen kritiserer i et X-opslag, at EU-budgettet lægger op til at spare på bistand og midler til konkurrenceevne og grøn omstilling. Den danske regering har samtidig mandat til en markant reduktion af Kommissionens foreslåede udgiftsniveau – med forsvarsparathed som en af prioriteterne.
