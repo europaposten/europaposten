@@ -3,6 +3,7 @@ title: "5 ting du skal følge i EU frem til topmødet midt i oktober"
 slug: fem-ting-eu-ugen-oktober
 date: 2026-10-06 20:00
 section: politik
+type: Nyhed
 kicker: 5 ting du skal vide
 author: Europaposten-redaktionen
 summary: Fra Europaudvalget tirsdag og ECOFIN fredag til Europa-Parlamentets plenar og Det Europæiske Råd den 15.-16. oktober. Her er fem konkrete punkter med dansk vinkel.

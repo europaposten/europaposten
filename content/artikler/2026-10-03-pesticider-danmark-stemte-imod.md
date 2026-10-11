@@ -3,6 +3,7 @@ title: Danmark i mindretal: EU-landene vil give sprøjtemidler længere godkende
 slug: pesticider-danmark-stemte-imod
 date: 2026-10-03 07:00
 section: klima-miljoe
+type: Nyhed
 kicker: Landbrug og miljø
 author: Europaposten-redaktionen
 summary: Et flertal af EU's medlemslande vil forlænge godkendelserne af pesticider og lette byrderne for landbruget. Den danske regering stemte imod, fordi den ser ændringerne som en svækkelse af beskyttelsesniveauet.

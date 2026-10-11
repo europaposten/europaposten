@@ -3,6 +3,7 @@ title: "Tænketank: EU mangler en kernebrændselsstrategi – også for lande ud
 slug: eu-kernebraendsel-strategi-arnborg
 date: 2026-10-11 07:30
 section: klima-miljoe
+type: Nyhed
 kicker: Energi
 author: Europaposten-redaktionen
 summary: Alfred Arnborg fra Tænketanken Europa advarer i et brief 8. oktober om, at EU vil udbygge kernekraft uden at have sikret brændslet. Danmark står uden for Nuclear Alliance, men deler ifølge analysen pris- og autonomirisici via det sammenkoblede elmarked.

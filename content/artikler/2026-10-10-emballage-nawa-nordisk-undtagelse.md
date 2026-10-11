@@ -3,6 +3,7 @@ title: "Nawa åbner for flere analyser i nordisk dialog om undtagelse fra EU's g
 slug: emballage-nawa-nordisk-undtagelse
 date: 2026-10-10 07:00
 section: klima-miljoe
+type: Ministersvar
 kicker: Ministersvar
 author: Europaposten-redaktionen
 summary: Klima-, energi- og forsyningsminister Samira Nawa afviser ikke yderligere økonomi- og miljøanalyser, mens ministeriet sammen med de øvrige nordiske lande afdækker, hvad Kommissionen kræver for en mulig undtagelse fra emballageforordningens genbrugskrav til drikkevareemballager. Enhedslisten efterlyser vurdering af genpåfyldelig PET og regional vaskeinfrastruktur først.

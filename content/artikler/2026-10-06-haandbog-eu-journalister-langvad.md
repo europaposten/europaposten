@@ -3,6 +3,7 @@ title: Ny håndbog: EU-stoffet er for vigtigt til kun at blive dækket fra Bruxe
 slug: haandbog-eu-journalister-2026-langvad
 date: 2026-10-06 07:00
 section: politik
+type: Nyhed
 kicker: Medier og EU
 author: Europaposten-redaktionen
 summary: Håndbog i EU for journalister er udkommet i en ny, gratis udgave, som Bruxelles-journalisten Jacob Langvad har bearbejdet. Bogen opfordrer journalister på alle redaktioner til at dække EU. I bogen siger EU-kommissær Dan Jørgensen, at der kun er omkring 13 danske korrespondenter i Bruxelles.

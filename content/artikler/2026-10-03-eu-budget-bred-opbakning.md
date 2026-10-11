@@ -3,6 +3,7 @@ title: Bred opbakning i Folketinget: Regeringen vil presse EU's næste langtidsb
 slug: eu-budget-bred-opbakning
 date: 2026-10-03 08:00
 section: oekonomi
+type: Nyhed
 kicker: EU-budgettet
 featured: ja
 illustration: eu-budget-bro.jpg

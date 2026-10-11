@@ -3,6 +3,7 @@ title: "Dansk MEP fik en nøgen guld-Trump ind i Europa-Parlamentet – sådan e
 slug: guld-trump-europa-parlamentet-per-clausen
 date: 2026-10-08 06:30
 section: politik
+type: Nyhed
 kicker: Europa-Parlamentet
 author: Europaposten-redaktionen
 summary: Jens Galschiøts forgyldte skulptur af en nøgen Donald Trump står i denne uge i Europa-Parlamentet i Strasbourg. Det er Enhedslistens Per Clausen, der har inviteret den ind. Parlamentets kvæstorer har godkendt udstillingen, men det er ikke det samme som at bakke op om budskabet.

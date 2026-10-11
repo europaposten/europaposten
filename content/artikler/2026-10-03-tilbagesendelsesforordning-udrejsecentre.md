@@ -3,6 +3,7 @@ title: EU vedtager nye udsendelsesregler – åbner for de udrejsecentre, Danmar
 slug: udrejsecentre-tilbagesendelsesforordning
 date: 2026-10-03 07:30
 section: migration
+type: Nyhed
 kicker: Migration
 author: Europaposten-redaktionen
 summary: EU-landene har givet endeligt grønt lys til en ny forordning om udsendelse af personer uden ret til ophold. Den giver hjemmel til udrejsecentre i lande uden for EU – et projekt, Danmark driver sammen med fire andre lande.

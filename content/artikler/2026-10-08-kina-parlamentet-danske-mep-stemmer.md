@@ -3,6 +3,7 @@ title: "Hårdere linje over for Kina: 8 danske MEP'er stemte for – ingen imod"
 slug: kina-parlamentet-danske-mep-stemmer
 date: 2026-10-08 06:45
 section: politik
+type: Nyhed
 kicker: Europa-Parlamentet
 author: Europaposten-redaktionen
 summary: Europa-Parlamentet vil have en skarpere Kina-politik med både dialog og mere beskyttelse af europæiske interesser. Otte danske medlemmer stemte for, to undlod, og fem stemte ikke. Samtidig forhandler EU's handelskommissær i Beijing, og Frankrig og Tyskland vil have et nyt handelsvåben.
