@@ -61,7 +61,7 @@ Den britiske sag viser, hvorfor det er værd at bemærke. I Storbritannien blev 
 
 ## Hvad har Danmark gjort?
 
-Det nuværende danske værn går tilbage til 2018, hvor den daværende regering i september lancerede en handlingsplan med 11 initiativer mod udenlandsk påvirkning af valg. Den indeholdt blandt andet rådgivning af partierne, et beredskab ved selve valghandlingen, dialog med medier og sociale medier og en skærpelse af straffeloven. I dag koordineres indsatsen i Taskforce Påvirkning, hvor Justitsministeriet, Udenrigsministeriet, Forsvarsministeriet, Ministeriet for Samfundssikkerhed og Beredskab, Naalakkersuisut, PET, FE, SAMSIK og Rigspolitiet deltager.
+Det nuværende danske værn går tilbage til 2018, hvor den daværende regering i september lancerede en handlingsplan med 11 initiativer mod udenlandsk påvirkning af valg. Den indeholdt blandt andet rådgivning af partierne, et beredskab ved selve valghandlingen, dialog med medier og sociale medier og et lovforslag, der skulle opdatere straffelovens værn mod fremmede efterretningstjenesters påvirkningskampagner. I dag koordineres indsatsen i Taskforce Påvirkning, hvor Justitsministeriet, Udenrigsministeriet, Forsvarsministeriet, Ministeriet for Samfundssikkerhed og Beredskab, Naalakkersuisut, PET, FE, SAMSIK og Rigspolitiet deltager.
 
 Danmark deltager også, sammen med alle andre EU-lande, i Det Europæiske Center for Demokratisk Modstandsdygtighed, som Kommissionen satte i gang i februar 2026 som en del af det europæiske demokratiskjold.
 
