@@ -21,7 +21,7 @@ sources:
 
 Europa-Parlamentet stemte tirsdag for at bede Europa-Kommissionen om at fremsætte et nyt EU-forslag om psykosociale risici på arbejdspladsen, altså forhold som stort arbejdspres, mobning og vold, der kan føre til stress, udbrændthed og sygdom. Betænkningen blev vedtaget med 413 stemmer for, 210 imod og 29, der undlod at stemme.
 
-De 15 danske medlemmer var næsten lige delt. Det viser den officielle afstemningsliste, som HowTheyVote.eu har samlet.
+De 15 danske medlemmer var næsten lige delt. Det viser den officielle afstemningsliste, [som HowTheyVote.eu har samlet](https://howtheyvote.eu/votes/197484).
 
 ## Sådan stemte de danske MEP'er
 
@@ -49,7 +49,7 @@ Det er værd at bemærke, at Renew-gruppen var delt blandt danskerne. Stine Boss
 
 ## Hvad vil Parlamentet?
 
-Ifølge Parlamentets pressemeddelelse ønsker flertallet blandt andet:
+[Ifølge Parlamentets pressemeddelelse](https://www.europarl.europa.eu/news/en/press-room/20261002IPR47897/parliament-wants-better-protection-of-workers-mental-and-physical-health) ønsker flertallet blandt andet:
 
 - at arbejdsgivere får pligt til jævnligt at vurdere psykosociale risici som for stor arbejdsmængde og høj arbejdsintensitet og lave handlingsplaner,
 - at større omstruktureringer, fx indførelse af hjemmearbejde eller automatiseret overvågning, vurderes på forhånd sammen med de ansatte,
@@ -61,12 +61,12 @@ Ordføreren, belgiske Estelle Ceulemans (S&D), siger i pressemeddelelsen, at Eur
 
 ## Faktatjek: Er det nu EU-lov?
 
-Nej. Der er tale om en såkaldt lovgivningsmæssig initiativbetænkning (procedurekoden INL). Parlamentet kan ikke selv fremsætte lovforslag, men kan bede Kommissionen om at gøre det. Ifølge Parlamentet har Kommissionen nu tre måneder til at svare, enten med de skridt den vil tage, eller med en begrundelse for at sige nej.
+Nej. Der er tale om en såkaldt [lovgivningsmæssig initiativbetænkning](https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2026/2023(INL)) (procedurekoden INL). Parlamentet kan ikke selv fremsætte lovforslag, men kan bede Kommissionen om at gøre det. Ifølge Parlamentet har Kommissionen nu tre måneder til at svare, enten med de skridt den vil tage, eller med en begrundelse for at sige nej.
 
 Kommer der et forslag, skal det først forhandles i både Rådet, hvor den danske regering sidder med, og Parlamentet. Først derefter vil det kunne ændre noget på danske arbejdspladser.
 
 ## Den danske vinkel
 
-Danmark har allerede en særlig bekendtgørelse om psykisk arbejdsmiljø, der har gældt siden 1. november 2020. Den kræver blandt andet, at arbejdet tilrettelægges forsvarligt i forhold til stor arbejdsmængde og tidspres, uklare og modstridende krav, høje følelsesmæssige krav, krænkende handlinger som mobning og seksuel chikane samt arbejdsrelateret vold.
+Danmark har allerede en [særlig bekendtgørelse om psykisk arbejdsmiljø](https://at.dk/en/regulations/executive-orders/executive-order-on-psychosocial-working-environment/), der har gældt siden 1. november 2020. Den kræver blandt andet, at arbejdet tilrettelægges forsvarligt i forhold til stor arbejdsmængde og tidspres, uklare og modstridende krav, høje følelsesmæssige krav, krænkende handlinger som mobning og seksuel chikane samt arbejdsrelateret vold.
 
 Eventuelle nye EU-regler vil derfor ikke starte fra nul i Danmark. Hvis Kommissionen siger ja, bliver det afgørende spørgsmål for danske virksomheder og ansatte, hvordan et forslag passer sammen med de danske regler, og om det tilføjer nye krav. Det vil regeringen skulle tage stilling til i et samlenotat til Folketingets Europaudvalg, før den forhandler i Rådet.

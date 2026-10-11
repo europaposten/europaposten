@@ -17,7 +17,7 @@ sources:
   - Kernekraftalliancen: Om alliancen (teknologineutral tilgang) | https://kernekraftalliancen.dk/
 ---
 
-EU bør formulere en fælles strategi for kernebrændsel, før næste generation af reaktorer bestilles. Det er hovedbudskabet i et brief fra Alfred Arnborg, Tænketanken Europa, offentliggjort 8. oktober.
+EU bør formulere en fælles strategi for kernebrændsel, før næste generation af reaktorer bestilles. Det er hovedbudskabet i [et brief fra Alfred Arnborg](https://thinkeuropa.dk/en/brief/2026-10-the-eu-needs-a-nuclear-fuel-strategy), Tænketanken Europa, offentliggjort 8. oktober.
 
 Arnborg skriver, at EU vil udvide kernekraftproduktionen, men ikke har sikret brændslet. Unionen har ingen aktive uranminer og importerer al naturligt uran. Kommissionens egen vurdering finder ifølge briefet, at EU’s konverteringskapacitet midt i århundredet vil være «næsten tilstrækkelig» til indenlandsk efterspørgsel – og «bestemt utilstrækkelig», hvis reaktorkapaciteten vokser hurtigere.
 
@@ -29,7 +29,7 @@ Omkring en femtedel af EU’s reaktorer er russiskdesignede VVER-modeller i Slov
 
 ## Hvorfor det også angår Danmark
 
-Danmark har ingen kernekraftværker og står ikke blandt underskriverne af Nuclear Alliance-erklæringen fra 11. marts 2026. Den erklæring er underskrevet af regeringerne i Belgien, Bulgarien, Kroatien, Tjekkiet, Finland, Frankrig, Ungarn, Italien, Nederlandene, Polen, Rumænien, Slovakiet, Slovenien og Sverige – 14 lande.
+Danmark har ingen kernekraftværker og står ikke blandt underskriverne af [Nuclear Alliance-erklæringen fra 11. marts 2026](https://www.elysee.fr/en/emmanuel-macron/2026/03/11/declaration-of-the-nuclear-alliance). Den erklæring er underskrevet af regeringerne i Belgien, Bulgarien, Kroatien, Tjekkiet, Finland, Frankrig, Ungarn, Italien, Nederlandene, Polen, Rumænien, Slovakiet, Slovenien og Sverige – 14 lande.
 
 Alligevel er forsyningssikkerhed for kernebrændsel ifølge Arnborg en fælles EU-interesse. Leveringsstop ville hæve elpriserne på det sammenkoblede europæiske elmarked, brændselsafhængigheder begrænser EU’s handlefrihed, og større eksportkapacitet ville styrke EU’s position udadtil.
 
@@ -48,6 +48,6 @@ Som konkrete greb foreslår Arnborg blandt andet, at Kommissionen udvikler en br
 
 ## Dansk industrikontekst
 
-I Danmark arbejder Kernekraftalliancen – et samarbejde af virksomheder, organisationer og eksperter – for en teknologineutral tilgang til kernekraft i Danmark og Europa. Alliancen er ikke kilde til EU-tallene i denne artikel, men markerer, at der også herhjemme er erhvervsaktører, der ønsker kernekraft ind i den energipolitiske debat på lige vilkår med andre teknologier.
+I Danmark [arbejder Kernekraftalliancen](https://kernekraftalliancen.dk/) – et samarbejde af virksomheder, organisationer og eksperter – for en teknologineutral tilgang til kernekraft i Danmark og Europa. Alliancen er ikke kilde til EU-tallene i denne artikel, men markerer, at der også herhjemme er erhvervsaktører, der ønsker kernekraft ind i den energipolitiske debat på lige vilkår med andre teknologier.
 
 For Danmark uden egne reaktorer er Arnborgs pointe praktisk: Selv uden et dansk værk påvirker EU’s brændselsforsyning elpriser og geopolitisk råderum. Om Kommissionen følger op med en egentlig strategi, er endnu åbent.

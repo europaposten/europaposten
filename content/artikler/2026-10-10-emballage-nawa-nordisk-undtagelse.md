@@ -24,7 +24,7 @@ sources:
   - EUR-Lex: Kommissionens delegerede afgørelse (EU) 2026/429 om undtagelse for palleindpakning og remme | https://eur-lex.europa.eu/eli/dec_del/2026/429/oj
 ---
 
-Danmark er stadig kun i den indledende fase af en mulig undtagelse fra EU's genbrugskrav til drikkevareemballager. Det står klart i klima-, energi- og forsyningsminister Samira Nawas (R) svar 9. oktober på et spørgsmål fra Pil Christensen (EL).
+Danmark er stadig kun i den indledende fase af en mulig undtagelse fra EU's genbrugskrav til drikkevareemballager. Det står klart i klima-, energi- og forsyningsminister [Samira Nawas (R) svar 9. oktober](https://www.ft.dk/samling/20252/almdel/mof/spm/355/svar/2240414/3201015.pdf) på et spørgsmål fra Pil Christensen (EL).
 
 Christensen spurgte, om ministeren vil sikre en reel vurdering af moderne genpåfyldelige PET-flasker, lette genbrugsemballager, realistiske rotationstal, standardiserede emballagepools og effektiv regional retur- og vaskeinfrastruktur, *inden* Danmark eventuelt søger undtagelse fra emballageforordningens artikel 29. Hun henviste til en livscyklusanalyse (LCA) fra Teknologisk Institut og en henvendelse fra Danmarks Naturfredningsforening og otte andre organisationer.
 
@@ -43,11 +43,11 @@ Det er ikke et ja til den brede vurdering, Enhedslisten og miljøorganisationern
 
 ## Hvilken undtagelse er i spil?
 
-Ifølge DAKOFAs gennemgang af tidligere ministersvar (især MOF 272) peget Dansk Retursystem særligt på artikel 29, stk 18, i forordning (EU) 2025/40. Den bestemmelse giver Kommissionen mulighed for via delegerede retsakter at fastsætte *yderligere* undtagelser – blandt andet ved særlige økonomiske begrænsninger eller emballageformater, hvor hygiejne, fødevaresikkerhed eller miljøforhold står i vejen for målene. En sådan undtagelse ville gælde på EU-niveau, ikke kun i Danmark.
+[Ifølge DAKOFAs gennemgang](https://dakofa.dk/nyhed/genbrugskrav-til-drikkevareemballager-lca-og-dokumentation-bliver-centrale-i-spoergsmaalet-om-en-undtagelse) af tidligere ministersvar (især MOF 272) peget Dansk Retursystem særligt på artikel 29, stk 18, i [forordning (EU) 2025/40](https://eur-lex.europa.eu/eli/reg/2025/40). Den bestemmelse giver Kommissionen mulighed for via delegerede retsakter at fastsætte *yderligere* undtagelser – blandt andet ved særlige økonomiske begrænsninger eller emballageformater, hvor hygiejne, fødevaresikkerhed eller miljøforhold står i vejen for målene. En sådan undtagelse ville gælde på EU-niveau, ikke kun i Danmark.
 
 Artikel 29, stk 14 – en national femårsfritagelse under bestemte betingelser – er ifølge samme ministersvar ikke relevant for Danmark lige nu, fordi landet endnu ikke opfylder to betingelser om genanvendelsesmål og reduktion af emballageaffald.
 
-Kommissionen har allerede brugt artikel 29, stk 18, én gang: Den delegerede afgørelse (EU) 2026/429 fritager visse erhvervsdrivende, der bruger palleindpakning og remme, fra kravet om 100 procent genbrug af de formater. Begrundelsen handlede blandt andet om høje tilpasningsomkostninger og manglende automatiserede genbrugsløsninger. DAKOFA understreger, at drikkevareemballager er en anden sag: Der findes allerede genpåfyldelige glasflasker i det danske pantsystem, og Teknologisk Instituts LCA beskriver indsamling, vask og klargøring. Det siger ikke i sig selv, om betingelserne for undtagelse er opfyldt – kun at præcedensen ikke er et-til-et.
+Kommissionen har allerede brugt artikel 29, stk 18, én gang: [Den delegerede afgørelse (EU) 2026/429](https://eur-lex.europa.eu/eli/dec_del/2026/429/oj) fritager visse erhvervsdrivende, der bruger palleindpakning og remme, fra kravet om 100 procent genbrug af de formater. Begrundelsen handlede blandt andet om høje tilpasningsomkostninger og manglende automatiserede genbrugsløsninger. DAKOFA understreger, at drikkevareemballager er en anden sag: Der findes allerede genpåfyldelige glasflasker i det danske pantsystem, og Teknologisk Instituts LCA beskriver indsamling, vask og klargøring. Det siger ikke i sig selv, om betingelserne for undtagelse er opfyldt – kun at præcedensen ikke er et-til-et.
 
 ## Modstemmerne
 

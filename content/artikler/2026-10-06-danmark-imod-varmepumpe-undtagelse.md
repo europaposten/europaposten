@@ -18,9 +18,9 @@ sources:
   - Folketingets Europaudvalg: Bilagsoversigt (komitésager) | https://www.ft.dk/da/udvalg/udvalgene/euu/dokumenter/kommissionsforslag_bilag
 ---
 
-Den danske regering agter ikke at støtte et forslag fra Europa-Kommissionen om en tidsbegrænset undtagelse fra eksportforbuddet for visse typer varmepumper med fluorholdige drivhusgasser (F-gasser). Det skriver udenrigsminister Lars Løkke Rasmussen i en følgeskrivelse til Folketingets Europaudvalg den 29. september.
+Den danske regering agter ikke at støtte et forslag fra Europa-Kommissionen om en tidsbegrænset undtagelse fra eksportforbuddet for visse typer varmepumper med fluorholdige drivhusgasser (F-gasser). Det skriver udenrigsminister Lars Løkke Rasmussen i en [følgeskrivelse til Folketingets Europaudvalg](https://www.ft.dk/samling/20252/almdel/euu/bilag/267/3192499.pdf) den 29. september.
 
-Forslaget er en gennemførselsretsakt under F-gas-forordningen (EU) 2024/573. Ifølge følgeskrivelsen skulle det drøftes og sættes til afstemning i F-gas-forvaltningskomitéen den 6. oktober 2026.
+Forslaget er en gennemførselsretsakt under [F-gas-forordningen (EU) 2024/573](https://eur-lex.europa.eu/legal-content/DA/TXT/?uri=CELEX:32024R0573). Ifølge følgeskrivelsen skulle det drøftes og sættes til afstemning i F-gas-forvaltningskomitéen den 6. oktober 2026.
 
 ## Hvad betyder det for Danmark?
 

@@ -26,23 +26,23 @@ EU-kalenderen er tæt de næste ti dage. Her er fem ting, der er værd at følge
 
 ## 1. Europaudvalget mødes to gange denne uge
 
-Folketingets Europaudvalg er ifølge EU-Oplysningens kalender sat til møde onsdag den 7. oktober kl. 14.45 og igen fredag den 9. oktober kl. 08.30. Det er her, regeringen får sit mandat med til Bruxelles, og hvor partierne offentligt kan synliggøre uenigheder, også selv om selve mandatet er hemmeligt.
+Folketingets Europaudvalg er ifølge [EU-Oplysningens kalender](https://www.eu.dk/da/aktuelt/kalender) sat til møde onsdag den 7. oktober kl. 14.45 og igen fredag den 9. oktober kl. 08.30. Det er her, regeringen får sit mandat med til Bruxelles, og hvor partierne offentligt kan synliggøre uenigheder, også selv om selve mandatet er hemmeligt.
 
 ## 2. ECOFIN fredag: banker, Ukraine og klimafinansiering
 
-Fredag den 9. oktober mødes EU’s økonomi- og finansministre (ECOFIN). Ifølge Rådets mødeside skal ministrene blandt andet forsøge at blive enige om Rådets position på markedsintegrations- og tilsynspakken under spare- og investeringsunionen, drøfte banksektorens konkurrenceevne, Ruslands angrebskrig mod Ukraine, genopretnings- og resiliensfaciliteten, det europæiske semester 2026 og beslutninger under stabilitets- og vækstpagten.
+Fredag den 9. oktober mødes EU’s økonomi- og finansministre (ECOFIN). [Ifølge Rådets mødeside](https://www.consilium.europa.eu/en/meetings/ecofin/2026/10/09/) skal ministrene blandt andet forsøge at blive enige om Rådets position på markedsintegrations- og tilsynspakken under spare- og investeringsunionen, drøfte banksektorens konkurrenceevne, Ruslands angrebskrig mod Ukraine, genopretnings- og resiliensfaciliteten, det europæiske semester 2026 og beslutninger under stabilitets- og vækstpagten.
 
 På skat- og klimasiden skal Rådet ifølge samme side søge at godkende konklusioner om listen over ikke-samarbejdsvillige skattely og om klimafinansiering forud for COP31 i Antalya den 9.-20. november 2026. For Danmark er ECOFIN også rammen om den økonomiske del af forberedelsen til topmødet ugen efter.
 
 ## 3. Parlamentet har netop vedtaget AGILE – og debatterer budgettet
 
-Tirsdag vedtog Europa-Parlamentet AGILE-programmet til forsvarsinnovation på 115 millioner euro. Senere på ugen skal Parlamentet ifølge sin egen ugeoversigt blandt andet drøfte prioriteterne for Det Europæiske Råd med kommissionsformand Ursula von der Leyen og det irske formandskab, diskutere det langsigtede EU-budget for 2028-2034 og tage bolig- og leveomkostninger op.
+[Tirsdag vedtog Europa-Parlamentet AGILE-programmet](https://www.europarl.europa.eu/news/da/press-room/20261002IPR47892/new-agile-defence-innovation-programme-approved-by-parliament) til forsvarsinnovation på 115 millioner euro. Senere på ugen skal Parlamentet ifølge [sin egen ugeoversigt](https://www.europarl.europa.eu/news/da/agenda) blandt andet drøfte prioriteterne for Det Europæiske Råd med kommissionsformand Ursula von der Leyen og det irske formandskab, diskutere det langsigtede EU-budget for 2028-2034 og tage bolig- og leveomkostninger op.
 
-Det er relevant for Danmark, fordi regeringen allerede har fået Europaudvalget med på en linje om at presse udgiftsrammen i det næste langtidsbudget ned – med opbakning fra Venstre, Konservative og Liberal Alliance, oplyste Finansministeriet den 2. oktober.
+Det er relevant for Danmark, fordi regeringen allerede har fået Europaudvalget med på en linje om at presse udgiftsrammen i det næste langtidsbudget ned – med opbakning fra Venstre, Konservative og Liberal Alliance, [oplyste Finansministeriet den 2. oktober](https://fm.dk/nyheder/nyhedsarkiv/2026/oktober/bred-opbakning-bag-regeringens-linje-til-eu-s-naeste-fleraarige-budget/).
 
 ## 4. Topmødet 15.-16. oktober har både budget, forsvar og Ukraine på listen
 
-EU’s stats- og regeringschefer mødes i Bruxelles den 15.-16. oktober. Den foreløbige dagsorden, offentliggjort af Rådet, omfatter konkurrenceevne, Ukraine, den næste flerårige finansielle ramme, Mellemøsten, europæisk forsvar og sikkerhed, migration samt udvidelse og reformer. Rådets “kig frem” fra den 2. oktober gentager samme punkter.
+EU’s stats- og regeringschefer mødes i Bruxelles den 15.-16. oktober. [Den foreløbige dagsorden](https://data.consilium.europa.eu/doc/document/CM-6-2026-INIT/en/pdf), offentliggjort af Rådet, omfatter konkurrenceevne, Ukraine, den næste flerårige finansielle ramme, Mellemøsten, europæisk forsvar og sikkerhed, migration samt udvidelse og reformer. [Rådets “kig frem”](https://www.consilium.europa.eu/da/press/press-releases/2026/10/02/forward-look-2026/) fra den 2. oktober gentager samme punkter.
 
 For statsminister Mette Frederiksen er det mødet, hvor Danmarks mandat på budgettet og den øvrige dagsorden skal omsættes til konkrete formuleringer i konklusionerne.
 

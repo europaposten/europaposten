@@ -41,7 +41,7 @@ eu-nyheder/
    author: Europaposten-redaktionen
    featured: ja                   # valgfri – gør artiklen til forsidens tophistorie
    draft: ja                      # kladder bygges ikke; skriv nej, når artiklen skal udgives
-   sources:
+   sources:                       # internt kildearkiv; vises kun som liste i long reads
      - Kildens navn og titel | https://link-til-kilden
      - Endnu en kilde | https://...
    ---

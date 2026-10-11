@@ -23,11 +23,11 @@ sources:
 
 EU-landenes ambassadører mødes i dag, søndag, for at tage hul på det nye udspil til EU's næste langtidsbudget. Det irske formandskab sendte lørdag en revideret forhandlingsboks rundt, og den bliver grundlaget, når ministrene mødes i Rådet for Generelle Anliggender mandag 13. oktober, og når stats- og regeringscheferne mødes til topmøde 15.–16. oktober.
 
-Udspillet lander på 1.622 mia. euro i 2025-priser for perioden 2028–2034. Det er 141 mia. euro, eller 8 procent, under Kommissionens forslag, men ifølge det irske formandskab stadig 30 procent over det nuværende budget.
+Udspillet lander på 1.622 mia. euro i 2025-priser for perioden 2028–2034. Det er 141 mia. euro, eller 8 procent, under Kommissionens forslag, men [ifølge det irske formandskab](https://www.gov.ie/en/department-of-foreign-affairs/press-releases/irish-presidency-publishes-its-proposal-for-the-eus-long-term-budget/) stadig 30 procent over det nuværende budget.
 
 ## Hvor skæres der?
 
-Besparelserne er ikke fordelt ligeligt. Det fremgår af tabellen bag på Rådets dokument ST 13922/26:
+Besparelserne er ikke fordelt ligeligt. Det fremgår af tabellen bag på [Rådets dokument ST 13922/26](https://data.consilium.europa.eu/doc/document/ST-13922-2026-INIT/en/pdf):
 
 - **Samhørighed, landbrug og fiskeri** går fra 946 til 914 mia. euro, et fald på 3 procent. Den direkte landbrugsstøtte er reelt uændret på 261 mia. euro.
 - **Konkurrenceevne, forskning og forsvar** går fra 522 til 456 mia. euro, et fald på 13 procent. Horizon Europe, forskningsprogrammet, falder fra 155 til 140 mia. euro, og posten til forsvarsindustri, robusthed og rummet fra 116 til 101 mia. euro.
@@ -36,11 +36,11 @@ Besparelserne er ikke fordelt ligeligt. Det fremgår af tabellen bag på Rådets
 
 Posterne til Ukraine (89 mia. euro uden for loftet) og til de oversøiske lande og territorier, herunder Grønland (887 mio. euro), er ikke rørt.
 
-Tallene varierer i medierne, fordi de opgøres i forskellige priser. Politico skriver om en besparelse på 159 mia. euro, som er forskellen i løbende priser. I 2025-priser, som formandskabet selv bruger, er besparelsen 141 mia. euro.
+Tallene varierer i medierne, fordi de opgøres i forskellige priser. [Politico skriver](https://www.politico.eu/article/eu-budget-slashed-by-e159b-in-new-irish-proposal/) om en besparelse på 159 mia. euro, som er forskellen i løbende priser. I 2025-priser, som formandskabet selv bruger, er besparelsen 141 mia. euro.
 
 ## Den danske regning
 
-Regeringen gik ind i forhandlingerne med et klart mandat. Den 2. oktober fik den opbakning fra V, K og LA i Folketingets Europaudvalg til at arbejde for "en markant reduktion af det foreslåede udgiftsniveau" og "en fair byrdefordeling" mellem landene. Samtidig vil den prioritere forsvarsparathed, konkurrenceevne, støtte til Ukraine, migration og den grønne omstilling.
+Regeringen gik ind i forhandlingerne med et klart mandat. Den 2. oktober [fik den opbakning fra V, K og LA](https://fm.dk/nyheder/nyhedsarkiv/2026/oktober/bred-opbakning-bag-regeringens-linje-til-eu-s-naeste-fleraarige-budget/) i Folketingets Europaudvalg til at arbejde for "en markant reduktion af det foreslåede udgiftsniveau" og "en fair byrdefordeling" mellem landene. Samtidig vil den prioritere forsvarsparathed, konkurrenceevne, støtte til Ukraine, migration og den grønne omstilling.
 
 > Vi går nu til forhandlingerne med en klar ambition om at reducere det foreslåede udgiftsniveau og modernisere budgettet med fokus på de områder hvor EU skaber mest mulig merværdi for de europæiske og danske borgere.
 > — Finansminister Peter Hummelgaard, 2. oktober 2026
@@ -55,7 +55,7 @@ Det samme gælder de nye egne indtægter, som formandskabet anslår til 55 mia. 
 
 ## Parlamentet afviser
 
-Europa-Parlamentets forhandlere på budgettet, Siegfried Mureșan (EPP) og Carla Tavares (S&D), afviser udspillet i en fælles udtalelse. Parlamentet har selv krævet et budget, der er omkring 10 procent større end Kommissionens forslag, og budgettet kræver både enstemmighed i Rådet og et absolut flertal i Parlamentet.
+Europa-Parlamentets forhandlere på budgettet, Siegfried Mureșan (EPP) og Carla Tavares (S&D), [afviser udspillet i en fælles udtalelse](https://www.europarl.europa.eu/news/en/press-room/20261009IPR48078/lead-meps-on-eu-s-long-term-budget-react-to-irish-presidency-s-negotiating-box). Parlamentet har selv krævet et budget, der er omkring 10 procent større end Kommissionens forslag, og budgettet kræver både enstemmighed i Rådet og et absolut flertal i Parlamentet.
 
 Formandskabet understreger i dokumentet, at forhandlingsboksen ikke binder nogen lande, og at "intet er aftalt, før alt er aftalt". Formand for Det Europæiske Råd António Costa har bedt om en aftale inden udgangen af 2026.
 

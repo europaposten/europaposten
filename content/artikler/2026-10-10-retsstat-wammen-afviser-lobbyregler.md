@@ -25,13 +25,13 @@ sources:
   - Institut for Menneskerettigheder: EU-Kommissionen efterlyser fortsat styrket retshjælp i Danmark | https://menneskeret.dk/nyheder/eu-kommissionen-efterlyser-fortsat-styrket-retshjaelp-danmark
 ---
 
-Justitsminister Nicolai Wammen (S) afviser i et ministersvar 9. oktober, at Danmark skal indføre nye regler om lobbyvirksomhed, såkaldte svingdøre for ministre og skærpet kontrol med formueangivelser for topembedsmænd. Det er netop de områder, hvor Europa-Kommissionen i retsstatsrapporten 2026 konstaterede, at der ikke er gjort fremskridt – og at regeringen heller ikke har planer.
+Justitsminister Nicolai Wammen (S) afviser i [et ministersvar 9. oktober](https://www.ft.dk/samling/20261/kommissionsforslag/kom(2026)0900/spm/1/svar/2240735/3201530.pdf), at Danmark skal indføre nye regler om lobbyvirksomhed, såkaldte svingdøre for ministre og skærpet kontrol med formueangivelser for topembedsmænd. Det er netop de områder, hvor Europa-Kommissionen i retsstatsrapporten 2026 konstaterede, at der ikke er gjort fremskridt – og at regeringen heller ikke har planer.
 
-Svaret er en besvarelse af Europaudvalgets spørgsmål 1 ad KOM (2026) 0900, stillet efter ønske fra Emilie Schytte (UFG). Schytte bad ministeren kommentere landekapitlet om Danmark og forholde sig til, hvordan regeringen vil håndtere Kommissionens tre anbefalinger.
+Svaret er en besvarelse af [Europaudvalgets spørgsmål 1 ad KOM (2026) 0900](https://www.ft.dk/samling/20261/kommissionsforslag/kom(2026)0900/spm/1/svar/2240735/3201529.pdf), stillet efter ønske fra Emilie Schytte (UFG). Schytte bad ministeren kommentere landekapitlet om Danmark og forholde sig til, hvordan regeringen vil håndtere Kommissionens tre anbefalinger.
 
 ## Tre anbefalinger – tre forskellige svar
 
-I landekapitlet SWD(2026) 904, offentliggjort 17. juli, fremsatte Kommissionen tre henstillinger til Danmark:
+[I landekapitlet SWD(2026) 904](https://commission.europa.eu/document/download/9c3333e5-5ede-4917-8524-cbeea2f9f17d_da?filename=8_1_coun_chap_denmark_da.pdf), offentliggjort 17. juli, fremsatte Kommissionen tre henstillinger til Danmark:
 
 1. At intensivere indsatsen for at afslutte revisionen af retshjælpssystemet under hensyntagen til europæiske standarder for retshjælp.
 2. At indføre regler om svingdørssituationer for ministre og om lobbyvirksomhed og sikre tilstrækkelig kontrol med formueangivelser fra personer i øverste udøvende funktioner.
@@ -56,8 +56,8 @@ Landekapitlet tegner ikke et billede af et land i retsstatskrise. Opfattelsen af
 
 Kritikken – og anbefalingerne – handler derfor om konkrete huller, ikke om det samlede billede. Kommissionen noterer fortsat bekymring blandt interessenter over korruptionsrisici ved manglen på lovgivning om integritet for ministre og ledelsesfunktioner samt om lobbyvirksomhed og svingdøre. Ifølge GRECO fokuserer det danske system i høj grad på strafbar adfærd, uden tilstrækkelig opmærksomhed på integritetsrisici; GRECO har blandt andet konkluderet, at Danmark kun i tilfredsstillende grad har imødekommet to af 14 anbefalinger i Fifth Round Evaluation Report.
 
-Institut for Menneskerettigheder har i sin gennemgang af rapporten peget på, at Kommissionen for tredje år i træk anbefaler Danmark at styrke retshjælpsordningen.
+[Institut for Menneskerettigheder har i sin gennemgang](https://menneskeret.dk/nyheder/eu-kommissionen-efterlyser-fortsat-styrket-retshjaelp-danmark) af rapporten peget på, at Kommissionen for tredje år i træk anbefaler Danmark at styrke retshjælpsordningen.
 
 ## Hvor er sagen nu?
 
-Retsstatsrapporten er en årlig overvågning uden sanktioner i sig selv. Anbefalingerne følges op i næste års rapport. For Danmark betyder Wammens svar, at lobby- og svingdørsanbefalingen indtil videre mødes med et nej, at offentlighedslovsreformen afventer udvalgsrapporten i efteråret 2026, og at retshjælpsrevisionen tidligst lander sommeren 2027 – et år senere end den tidshorisont, Kommissionen lagde til grund i juli.
+[Retsstatsrapporten er en årlig overvågning](https://commission.europa.eu/strategy-and-policy/policies/justice-and-fundamental-rights/upholding-rule-law/rule-law/annual-rule-law-cycle/2026-rule-law-report_da) uden sanktioner i sig selv. Anbefalingerne følges op i næste års rapport. For Danmark betyder Wammens svar, at lobby- og svingdørsanbefalingen indtil videre mødes med et nej, at offentlighedslovsreformen afventer udvalgsrapporten i efteråret 2026, og at retshjælpsrevisionen tidligst lander sommeren 2027 – et år senere end den tidshorisont, Kommissionen lagde til grund i juli.

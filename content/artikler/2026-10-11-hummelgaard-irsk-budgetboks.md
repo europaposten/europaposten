@@ -25,12 +25,12 @@ sources:
   - Finansministeriet: Bred opbakning bag regeringens linje til EU's næste flerårige budget (2. oktober 2026) | https://fm.dk/nyheder/nyhedsarkiv/2026/oktober/bred-opbakning-bag-regeringens-linje-til-eu-s-naeste-fleraarige-budget/
 ---
 
-Finansminister Peter Hummelgaard (S) afviser søndag det irske EU-formandskabs nye forhandlingsboks for langtidsbudgettet 2028–2034. I en skriftlig kommentar, som Ritzau gengiver, kalder han udspillet utilstrækkeligt.
+Finansminister Peter Hummelgaard (S) afviser søndag det irske EU-formandskabs nye forhandlingsboks for langtidsbudgettet 2028–2034. I en skriftlig kommentar, [som Ritzau gengiver](https://politiken.dk/danmark/politik/art11018569/Danmark-kritiserer-irsk-EU-budget-for-at-prioritere-forkert), kalder han udspillet utilstrækkeligt.
 
 > Det irske forslag er ikke tæt på en landingsbane. Budgettet er fortsat for højt, og de foreslåede reduktioner har det forkerte fokus
 > — [Peter Hummelgaard (S), finansminister, skriftlig kommentar via Ritzau](https://politiken.dk/danmark/politik/art11018569/Danmark-kritiserer-irsk-EU-budget-for-at-prioritere-forkert) 11. oktober 2026
 
-Den irske forhandlingsboks skærer ifølge Rådets dokument ST 13922/26 otte procent – 141 mia. euro i 2025-priser – af Kommissionens forslag og lander på 1.622 mia. euro. Besparelsen rammer især konkurrenceevne, forskning og forsvarsindustri (−13 procent) og Globalt Europa (−17 procent), mens samhørighed, landbrug og fiskeri kun skæres tre procent. Europaposten har gennemgået tallene i en [separat analyse](/artikler/eu-budget-irsk-forhandlingsboks/).
+Den irske forhandlingsboks skærer ifølge [Rådets dokument ST 13922/26](https://data.consilium.europa.eu/doc/document/ST-13922-2026-INIT/en/pdf) otte procent – 141 mia. euro i 2025-priser – af Kommissionens forslag og lander på 1.622 mia. euro. Besparelsen rammer især konkurrenceevne, forskning og forsvarsindustri (−13 procent) og Globalt Europa (−17 procent), mens samhørighed, landbrug og fiskeri kun skæres tre procent. Europaposten har gennemgået tallene i en [separat analyse](/artikler/eu-budget-irsk-forhandlingsboks/).
 
 ## Mindre landbrug, mere fælles ambitioner
 
@@ -39,13 +39,13 @@ Hummelgaard siger, at Danmark sammen med andre lande vil fortsætte med at arbej
 > Sammen med andre lande vil Danmark blive ved med at arbejde for et økonomisk ansvarligt og moderne budget, herunder med mindre fokus på landbrug og strukturfonde og mere fokus på at levere på vores fælles ambitioner
 > — [Peter Hummelgaard (S), finansminister, skriftlig kommentar via Ritzau](https://politiken.dk/danmark/politik/art11018569/Danmark-kritiserer-irsk-EU-budget-for-at-prioritere-forkert) 11. oktober 2026
 
-Det er samme linje, som regeringen fik opbakning til i Folketingets Europaudvalg 2. oktober: markant lavere udgiftsniveau, fair byrdefordeling og prioritering af forsvarsparathed, konkurrenceevne, Ukraine, migration og grøn omstilling.
+Det er samme linje, som regeringen [fik opbakning til i Folketingets Europaudvalg 2. oktober](https://fm.dk/nyheder/nyhedsarkiv/2026/oktober/bred-opbakning-bag-regeringens-linje-til-eu-s-naeste-fleraarige-budget/): markant lavere udgiftsniveau, fair byrdefordeling og prioritering af forsvarsparathed, konkurrenceevne, Ukraine, migration og grøn omstilling.
 
 ## Merz: Ingen grundlag for en aftale
 
-Danmark står ikke alene. Tysklands kansler Friedrich Merz sagde lørdag ifølge ARD/tagesschau, at højden på det nye forslag ikke er grundlag for en aftale, og at EU-budgettet skal være til at betale for dem, der bærer hovedparten af finansieringen (Europapostens oversættelse). Tyskland leder en gruppe nettobidragydere – herunder Danmark, Sverige, Nederlandene, Finland og Østrig – der har krævet langt større besparelser.
+Danmark står ikke alene. Tysklands kansler Friedrich Merz sagde lørdag [ifølge ARD/tagesschau](https://www.tagesschau.de/ausland/europa/eu-haushalt-irischer-vorschlag-100.html), at højden på det nye forslag ikke er grundlag for en aftale, og at EU-budgettet skal være til at betale for dem, der bærer hovedparten af finansieringen (Europapostens oversættelse). Tyskland leder en gruppe nettobidragydere – herunder Danmark, Sverige, Nederlandene, Finland og Østrig – der har krævet langt større besparelser.
 
-Irlands europaminister Thomas Byrne kaldte lørdag udspillet for et balanceret og reduceret forslag, der giver plads til investeringer i konkurrenceevne og samtidig bevarer kerneprogrammer. Han afviste, at Irland har beskyttet egne interesser: Formandskabet fremsætter boksen som formandskab, ikke som Irland, skrev Politiken/Ritzau.
+[Irlands europaminister Thomas Byrne kaldte lørdag udspillet](https://www.gov.ie/en/department-of-foreign-affairs/press-releases/irish-presidency-publishes-its-proposal-for-the-eus-long-term-budget/) for et balanceret og reduceret forslag, der giver plads til investeringer i konkurrenceevne og samtidig bevarer kerneprogrammer. Han afviste, at Irland har beskyttet egne interesser: Formandskabet fremsætter boksen som formandskab, ikke som Irland, skrev Politiken/Ritzau.
 
 ## Næste skridt
 

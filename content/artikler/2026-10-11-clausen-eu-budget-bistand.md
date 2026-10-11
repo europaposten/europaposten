@@ -33,7 +33,7 @@ Det er Clausens politiske prioritering. Den står i kontrast til den linje, den 
 
 ## Regeringen: markant reduktion – forsvar først
 
-2. oktober fik regeringen ifølge Finansministeriet opbakning fra Venstre, Konservative og Liberal Alliance til forhandlingsoplægget for EU’s næste flerårige finansielle ramme (MFF) for 2028–2034. Linjen er et mere moderne budget rettet mod strategiske udfordringer, en markant reduktion af det foreslåede udgiftsniveau og en fair byrdefordeling.
+2. oktober fik regeringen [ifølge Finansministeriet](https://fm.dk/nyheder/nyhedsarkiv/2026/oktober/bred-opbakning-bag-regeringens-linje-til-eu-s-naeste-fleraarige-budget/) opbakning fra Venstre, Konservative og Liberal Alliance til forhandlingsoplægget for EU’s næste flerårige finansielle ramme (MFF) for 2028–2034. Linjen er et mere moderne budget rettet mod strategiske udfordringer, en markant reduktion af det foreslåede udgiftsniveau og en fair byrdefordeling.
 
 Prioriteterne, som ministeriet fremhæver, er blandt andet styrkelse af europæisk forsvarsparathed og konkurrenceevne, fortsat støtte til Ukraine, håndtering af irregulær migration og den grønne omstilling. Regeringen anerkender, at budgettet kan være større end i dag, men kalder stigningen for høj.
 
@@ -44,7 +44,7 @@ Finansminister Peter Hummelgaard (S) siger i pressemeddelelsen:
 
 ## Hvad foreslår Kommissionen?
 
-Europa-Kommissionen fremlagde 16. juli 2025 sit forslag til MFF 2028–2034 på næsten 2 billioner euro (1,26 procent af EU’s BNI i gennemsnit). På oversigtssiden fremgår blandt andet:
+Europa-Kommissionen fremlagde 16. juli 2025 sit forslag til MFF 2028–2034 på næsten 2 billioner euro (1,26 procent af EU’s BNI i gennemsnit). [På oversigtssiden](https://commission.europa.eu/strategy-and-policy/eu-budget/long-term-eu-budget/eu-budget-2028-2034_en) fremgår blandt andet:
 
 - Et Global Europe-instrument på 200 milliarder euro til eksterne partnerskaber, herunder kandidatlande, med en reserve på 15 milliarder euro til kriser.
 - Forsvars- og rumvinduet under den europæiske konkurrencefond på 131 milliarder euro – fem gange mere end i den forrige MFF.

@@ -192,3 +192,6 @@ main.wrap{padding-top:28px;padding-bottom:40px}
 .corrections h2{font-size:1rem;margin:0 0 6px}
 .topics-grid{display:grid;grid-template-columns:1fr 1fr;gap:32px}
 @media (max-width:700px){.topics-grid{grid-template-columns:1fr}}
+.factbox{background:var(--tint);border-top:3px solid var(--ink);padding:14px 18px;margin:24px 0}
+.factbox h2{font-size:.8rem;text-transform:uppercase;letter-spacing:.08em;margin:0 0 8px}
+.factbox p,.factbox ul{font-size:.95rem;margin:6px 0}

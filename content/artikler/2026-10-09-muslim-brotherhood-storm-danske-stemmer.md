@@ -22,7 +22,7 @@ sources:
   - X: ECR Group (@ecrgroup) om afstemningen (8. oktober 2026) | https://x.com/ecrgroup/status/2108213734564848108
 ---
 
-Europa-Parlamentet vedtog torsdag en resolution om behovet for en EU-strategi mod islamistisk "entryism" og indflydelsen fra Muslim Brotherhood-netværket. Teksten (B10-0424/2026) fik **381 stemmer for, 167 imod og 15 blanke**, ifølge HowTheyVote.eu, der bygger på Parlamentets officielle roll-call-data.
+Europa-Parlamentet vedtog torsdag en resolution om behovet for en EU-strategi mod islamistisk "entryism" og indflydelsen fra Muslim Brotherhood-netværket. [Teksten (B10-0424/2026)](https://www.europarl.europa.eu/doceo/document/B-10-2026-0424_EN.html) fik **381 stemmer for, 167 imod og 15 blanke**, [ifølge HowTheyVote.eu](https://howtheyvote.eu/votes/198051), der bygger på Parlamentets officielle roll-call-data.
 
 Kristoffer Storm (Danmarksdemokraterne/ECR) stemte for og kaldte resultatet en "rigtig god beslutning" – samtidig med at han rettede en skarp spørgsmålstegn mod SF.
 
@@ -33,7 +33,7 @@ Kristoffer Storm (Danmarksdemokraterne/ECR) stemte for og kaldte resultatet en "
 
 Resolutionen er en **politisk holdning** fra Parlamentet (RSP), ikke en lov. Den sætter ikke Muslim Brotherhood eller navngivne personer på EU's terrorliste. Det kan kun Rådet gøre efter kriterierne i den fælles holdning 2001/931/CFSP.
 
-Ifølge The National og Agence Europe beder teksten blandt andet om:
+[Ifølge The National](https://www.thenationalnews.com/news/mena/2026/10/08/eu-parliament-calls-for-muslim-brotherhood-terror-listings/) [og Agence Europe beder](https://agenceurope.eu/en/bulletin/article/13955/7/european-parliament-calls-for-european-strategy-to-counter-religious-entryism-particularly-islamist-entryism) teksten blandt andet om:
 
 - en **europæisk metode** til at spotte tegn på islamistisk entryism (blanding af religion og politik, økonomisk uigennemsigtighed og instrumentalisering af diskrimineringsbekæmpelse)
 - at Kommissionen og medlemslandene leverer materiale, så Rådet kan **vurdere**, om personer og enheder knyttet til Broderskabet – også frontorganisationer, finansnetværk og ideologiske platforme – opfylder listing-kriterierne
@@ -42,7 +42,7 @@ Ifølge The National og Agence Europe beder teksten blandt andet om:
 
 Den franske Nationalforsamling bad i januar 2026 om, at Broderskabet blev listet som terrororganisation. Europa-Parlamentet kan presse, men træffer ikke selv listing-beslutningen.
 
-ECR-gruppen skrev torsdag på X, at Parlamentet havde bedt om, at Muslim Brotherhood blev føjet til EU's terrorliste, og kaldte det en sejr. Formuleringen er skarpere end resolutionens juridiske indhold: Parlamentet opfordrer til **vurdering og mulig listing**, hvis kriterierne er opfyldt – det er ikke det samme som en listing.
+[ECR-gruppen skrev torsdag på X](https://x.com/ecrgroup/status/2108213734564848108), at Parlamentet havde bedt om, at Muslim Brotherhood blev føjet til EU's terrorliste, og kaldte det en sejr. Formuleringen er skarpere end resolutionens juridiske indhold: Parlamentet opfordrer til **vurdering og mulig listing**, hvis kriterierne er opfyldt – det er ikke det samme som en listing.
 
 ## Sådan stemte de danske MEP'er
 

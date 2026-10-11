@@ -23,19 +23,19 @@ sources:
   - Udenrigsministeriet: Rejsevejledning Saudi-Arabien | https://um.dk/rejse-og-ophold/rejse-til-udlandet/rejsevejledninger/saudi-arabien/
 ---
 
-Europa-Kommissionens formand Ursula von der Leyen kalder søndag det seneste angreb på King Khalid International Airport i Riyadh for en farlig eskalering. I et opslag på X skriver hun, at det er det dødeligste Houthi-angreb på lufthavnen hidtil, udtrykker solidaritet med Saudi-Arabien og advarer om, at angreb fra Irans stedfortrædere skubber regionen ind i en spiral af vold.
+Europa-Kommissionens formand Ursula von der Leyen kalder søndag det seneste angreb på King Khalid International Airport i Riyadh for en farlig eskalering. [I et opslag på X](https://x.com/vonderleyen/status/2109187896682918159) skriver hun, at det er det dødeligste Houthi-angreb på lufthavnen hidtil, udtrykker solidaritet med Saudi-Arabien og advarer om, at angreb fra Irans stedfortrædere skubber regionen ind i en spiral af vold.
 
 Hun fremhæver også, at angrebene destabiliserer afgørende globale knudepunkter for transport og energi med chokbølger ud i verden, og hun kræver, at de »mordiske angreb« mod civile stopper med det samme (Europapostens oversættelse af opslaget).
 
 ## Hvad skete der?
 
-Ifølge saudiske myndigheder, som DR gengiver via Reuters, kostede lørdagens angreb 12 mennesker livet og sårede mere end 300. Blandt de dræbte var ifølge myndighederne fire saudiere samt borgere fra Bangladesh, Palæstina, USA, Egypten, Jordan, Syrien og Sudan. Den saudisk-ledede koalition peger på houthibevægelsen. Houthierne har tidligere på ugen taget ansvar for andre angreb på samme lufthavn, men havde ifølge DR søndag morgen endnu ikke kommenteret det seneste.
+Ifølge saudiske myndigheder, [som DR gengiver via Reuters](https://www.dr.dk/nyheder/seneste/mindst-12-personer-draebt-og-mere-end-300-saaret-efter-angreb-paa-lufthavn-i-saudi-arabien), kostede lørdagens angreb 12 mennesker livet og sårede mere end 300. Blandt de dræbte var ifølge myndighederne fire saudiere samt borgere fra Bangladesh, Palæstina, USA, Egypten, Jordan, Syrien og Sudan. Den saudisk-ledede koalition peger på houthibevægelsen. Houthierne har tidligere på ugen taget ansvar for andre angreb på samme lufthavn, men havde ifølge DR søndag morgen endnu ikke kommenteret det seneste.
 
-Det er ifølge DR det tredje angreb på lufthavnen på en uge. Flere vestlige ambassader fraråder borgere at opholde sig i lufthavnen. Den danske ambassade i Riyadh beskriver i rejsevejledningen sikkerhedssituationen i Saudi-Arabien som ustabil og uforudsigelig og advarer blandt andet om, at lufthavne – også i Riyadh – fortsat kan være mål for angreb.
+Det er ifølge DR det tredje angreb på lufthavnen på en uge. Flere vestlige ambassader fraråder borgere at opholde sig i lufthavnen. Den danske ambassade i Riyadh beskriver [i rejsevejledningen](https://um.dk/rejse-og-ophold/rejse-til-udlandet/rejsevejledninger/saudi-arabien/) sikkerhedssituationen i Saudi-Arabien som ustabil og uforudsigelig og advarer blandt andet om, at lufthavne – også i Riyadh – fortsat kan være mål for angreb.
 
 ## På topmødets dagsorden
 
-Mellemøsten står allerede som punkt 5 på den foreløbige dagsorden for Det Europæiske Råd 15.–16. oktober (CM 6/26). Statsministeren og de øvrige stats- og regeringschefer skal også drøfte konkurrenceevne, Ukraine, det næste langtidsbudget, europæisk forsvar og sikkerhed, migration samt udvidelse og reformer.
+Mellemøsten står allerede som punkt 5 på [den foreløbige dagsorden for Det Europæiske Råd](https://data.consilium.europa.eu/doc/document/CM-6-2026-INIT/en/pdf) 15.–16. oktober (CM 6/26). Statsministeren og de øvrige stats- og regeringschefer skal også drøfte konkurrenceevne, Ukraine, det næste langtidsbudget, europæisk forsvar og sikkerhed, migration samt udvidelse og reformer.
 
 Von der Leyens udtalelse binder den akutte eskalering i Golfregionen sammen med EU's bredere bekymring for energiforsyning og søveje. Danske rederier og energipriser er blandt de kanaler, hvor uro i Mellemøsten traditionelt kan mærkes i Danmark – uden at der søndag foreligger en separat dansk ministerudtalelse om netop dette angreb.
 

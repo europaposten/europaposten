@@ -21,11 +21,11 @@ sources:
 
 Europa-Parlamentet godkendte tirsdag en skærpelse af EU's direktiv om beskyttelse af ansatte mod kræftfremkaldende, mutagene og reproduktionstoksiske stoffer på arbejdspladsen. Det er sjette gang, direktivet ændres. Ændringerne blev vedtaget med 499 stemmer for, 49 imod og 104, der undlod at stemme.
 
-Parlamentet og Rådet var på forhånd blevet enige om teksten i en foreløbig aftale. Sagen kører efter den almindelige lovgivningsprocedure, så teksten skal også formelt vedtages af Rådet, hvor den danske regering sidder med.
+[Parlamentet og Rådet var på forhånd blevet enige](https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2025/0232(COD)) om teksten i en foreløbig aftale. Sagen kører efter den almindelige lovgivningsprocedure, så teksten skal også formelt vedtages af Rådet, hvor den danske regering sidder med.
 
 ## Hvad er nyt?
 
-Ifølge Parlamentet indfører direktivet nye grænseværdier for:
+[Ifølge Parlamentet indfører](https://www.europarl.europa.eu/news/en/press-room/20261002IPR47899/updated-rules-to-protect-workers-from-exposure-to-dangerous-chemicals) direktivet nye grænseværdier for:
 
 - **kobolt og uorganiske koboltforbindelser**, som bruges i batteriproduktion,
 - **polycykliske aromatiske kulbrinter (PAH)**, som forekommer i stål-, jern- og aluminiumsproduktion,
@@ -40,11 +40,11 @@ Ifølge Kommissionens beregninger, som Parlamentet henviser til, kan reglerne fo
 
 Af de 15 danske medlemmer stemte 11 for: Stine Bosse (M), Asger Christensen (V), Per Clausen (EL), Henrik Dahl (LA), Sigrid Friis (R), Niels Fuglsang (S), Niels Flemming Hansen (K), Morten Løkkegaard (V), Rasmus Nordqvist (SF), Christel Schaldemose (S) og Villy Søvndal (SF).
 
-Majbritt Birkholm (DF) og Kristoffer Storm (DD) undlod at stemme. Kira Marie Peter-Hansen (SF) og Marianne Vind (S) stemte ikke. Ingen danske medlemmer stemte imod. Det viser den officielle afstemningsliste, som HowTheyVote.eu har samlet.
+Majbritt Birkholm (DF) og Kristoffer Storm (DD) undlod at stemme. Kira Marie Peter-Hansen (SF) og Marianne Vind (S) stemte ikke. Ingen danske medlemmer stemte imod. Det viser den officielle afstemningsliste, [som HowTheyVote.eu har samlet](https://howtheyvote.eu/votes/197460).
 
 ## Hvad betyder det i Danmark?
 
-Beskæftigelsesministeriet gennemgik Kommissionens oprindelige forslag i et samlenotat til Folketingets Europaudvalg i oktober 2025. Ifølge notatet skal den danske grænseværdi for 1,4-dioxan skærpes fem gange, og der skal indføres en biologisk grænseværdi målt i de ansattes urin. Der skal også indføres en ny dansk grænseværdi for PAH, fordi den nuværende bygger på en anden målemetode. Den danske grænseværdi for kobolt bliver ifølge notatet ikke ændret, men skal præciseres teknisk.
+Beskæftigelsesministeriet gennemgik Kommissionens oprindelige forslag i [et samlenotat til Folketingets Europaudvalg](https://www.eu.dk/samling/20241/kommissionsforslag/KOM(2025)0418/bilag/2/3074877.pdf) i oktober 2025. Ifølge notatet skal den danske grænseværdi for 1,4-dioxan skærpes fem gange, og der skal indføres en biologisk grænseværdi målt i de ansattes urin. Der skal også indføres en ny dansk grænseværdi for PAH, fordi den nuværende bygger på en anden målemetode. Den danske grænseværdi for kobolt bliver ifølge notatet ikke ændret, men skal præciseres teknisk.
 
 Notatet fremhæver, at kobolt kan forekomme på mange danske arbejdspladser, fx inden for metalforarbejdning og arbejde med bilbatterier. PAH kan blandt andre ramme asfaltarbejdere, mekanikere og fiskere. Brugen af 1,4-dioxan er derimod begrænset til få danske virksomheder.
 

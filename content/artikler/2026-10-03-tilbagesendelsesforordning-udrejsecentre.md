@@ -16,7 +16,7 @@ sources:
 
 EU's medlemslande har sat det sidste stempel på en ny fælles forordning om tilbagesendelse af personer, som ikke har lovligt ophold i EU. Beslutningen blev truffet torsdag i Luxembourg, og dermed er der skabt et juridisk grundlag for, at medlemslandene kan sende afviste asylansøgere til såkaldte udrejsecentre i lande uden for EU.
 
-Forordningen blev vedtaget med kvalificeret flertal. Kun Spanien stemte imod, oplyser Ritzau. Europa-Parlamentet havde allerede godkendt teksten.
+Forordningen blev vedtaget med [kvalificeret flertal](https://data.consilium.europa.eu/doc/document/ST-13916-2026-INIT/en/pdf). Kun Spanien stemte imod, [oplyser Ritzau](https://www.berlingske.dk/internationalt/eu-lande-vedtager-lovgrundlag-for-udrejsecentre-uden-for-eu). Europa-Parlamentet havde allerede godkendt teksten.
 
 ## En dansk mærkesag
 
@@ -28,7 +28,7 @@ Udlændinge- og integrationsminister Morten Bødskov (S) deltog torsdag morgen i
 
 ## Det indeholder reglerne
 
-Ifølge Rådets pressemeddelelse pålægger de nye regler personer uden opholdsret en pligt til at forlade landet og til at samarbejde med myndighederne. Hvis de ikke samarbejder, kan det udløse sanktioner som lavere ydelser, bortfald af støtte til frivillig hjemrejse, bøder eller – hvor national lov giver mulighed for det – straf.
+[Ifølge Rådets pressemeddelelse](https://www.consilium.europa.eu/en/press/press-releases/2026/10/01/council-adopts-new-rules-on-return-for-those-with-no-right-to-stay-in-the-eu/) pålægger de nye regler personer uden opholdsret en pligt til at forlade landet og til at samarbejde med myndighederne. Hvis de ikke samarbejder, kan det udløse sanktioner som lavere ydelser, bortfald af støtte til frivillig hjemrejse, bøder eller – hvor national lov giver mulighed for det – straf.
 
 Der indføres desuden en fælles europæisk udsendelsesordre, en standardformular med de centrale oplysninger fra en afgørelse om udsendelse. Det skal gøre det lettere for et land at anerkende et andet lands afgørelse. Den gensidige anerkendelse er foreløbig frivillig og skal vurderes igen tre år efter, at reglerne er trådt i kraft.
 

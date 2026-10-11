@@ -18,9 +18,9 @@ sources:
   - Folketingets EU-Oplysning: Sagen KOM (2025) 0995 | https://www.ft.dk/samling/20251/kommissionsforslag/KOM(2025)0995/index.htm
 ---
 
-Regeringen skal fredag den 9. oktober forelægge et nyt forhandlingsoplæg for Folketingets Europaudvalg om Europa-Kommissionens forslag til nye CO2-krav for personbiler og varebiler. Det fremgår af udvalgets dagsorden. Kommissionens forslag vil i praksis gøre det muligt at sælge nye biler med forbrændingsmotor efter 2035.
+Regeringen skal fredag den 9. oktober forelægge et nyt forhandlingsoplæg for Folketingets Europaudvalg om [Europa-Kommissionens forslag til nye CO2-krav](https://www.ft.dk/samling/20251/kommissionsforslag/KOM(2025)0995/index.htm) for personbiler og varebiler. Det fremgår af [udvalgets dagsorden](https://www.ft.dk/samling/20261/udvda/EUU/2214874/index.htm). Kommissionens forslag vil i praksis gøre det muligt at sælge nye biler med forbrændingsmotor efter 2035.
 
-Selve forhandlingsoplægget er et internt dokument. Regeringens offentlige linje står i Klima-, Energi- og Forsyningsministeriets samlenotat til Folketinget, dateret 29. september. Her skriver regeringen, at den ikke finder, at "en lempelse af den europæiske klimaregulering er den rette vej frem". Regeringen er derfor "umiddelbart skeptisk" over for at sænke kravene.
+Selve forhandlingsoplægget er et internt dokument. Regeringens offentlige linje står i [Klima-, Energi- og Forsyningsministeriets samlenotat](https://www.eu.dk/samling/20252/kommissionsforslag/KOM(2025)0995/bilag/2/3194583.pdf) til Folketinget, dateret 29. september. Her skriver regeringen, at den ikke finder, at "en lempelse af den europæiske klimaregulering er den rette vej frem". Regeringen er derfor "umiddelbart skeptisk" over for at sænke kravene.
 
 ## Hvad foreslår Kommissionen?
 

@@ -19,7 +19,7 @@ sources:
   - X: Opslag fra @BasilTheGreat om skulpturen (7. oktober 2026) | https://x.com/BasilTheGreat/status/2107872884932981197
 ---
 
-En 2,5 meter høj, forgyldt skulptur af en nøgen Donald Trump har i denne uge stået ved et af de travleste knudepunkter i Europa-Parlamentet i Strasbourg. Skulpturen hedder "The Orange Plague" eller "King of Injustice" og er lavet af den danske billedhugger Jens Galschiøt. Den blev afsløret tirsdag kl. 13 og står ifølge CNN frem til i dag, torsdag.
+En 2,5 meter høj, forgyldt skulptur af en nøgen Donald Trump har i denne uge stået ved et af de travleste knudepunkter i Europa-Parlamentet i Strasbourg. Skulpturen hedder "The Orange Plague" eller "King of Injustice" og er lavet af den danske billedhugger Jens Galschiøt. Den blev afsløret tirsdag kl. 13 og [står ifølge CNN](https://www.cnn.com/2026/10/07/style/golden-naked-trump-statue-european-parliament) frem til i dag, torsdag.
 
 Det er Enhedslistens medlem af Europa-Parlamentet, Per Clausen (The Left), der er vært for udstillingen.
 
@@ -44,10 +44,10 @@ Det er ikke første gang, en dansk MEP har inviteret Galschiøt indenfor. I 2024
 
 Til CNN siger Per Clausen, at han vil rejse en debat i Europa om, hvordan man kan føre en politik, der ikke er afhængig af Trump. Bortset fra "nogle folk fra den yderste højrefløj" har reaktionerne ifølge ham været positive (Europapostens oversættelse).
 
-Kritikken findes dog også. På X har et engelsksproget opslag fra brugeren @BasilTheGreat med et billede af skulpturen fået over en halv million visninger. "Hvorfor skulle Amerika nogensinde hjælpe disse mennesker igen?" skriver han og kalder det "ud over patetisk" (Europapostens oversættelse). Da skulpturen stod ved Rebildfesten i juli, blev den også kritiseret, skriver TV2 Nord.
+Kritikken findes dog også. På X har [et engelsksproget opslag fra brugeren @BasilTheGreat](https://x.com/BasilTheGreat/status/2107872884932981197) med et billede af skulpturen fået over en halv million visninger. "Hvorfor skulle Amerika nogensinde hjælpe disse mennesker igen?" skriver han og kalder det "ud over patetisk" (Europapostens oversættelse). Da skulpturen stod ved Rebildfesten i juli, blev den også kritiseret, [skriver TV2 Nord](https://www.tv2nord.dk/aalborg/nordjyde-tager-kontroversiel-trump-skulptur-med-til-eu-parlamentet-cca02).
 
 ## Hvorfor er det EU-stof?
 
-Udstillingen sker, mens EU's forhold til USA under Trump er et af de store emner i Parlamentet. Den viser også, hvordan et enkelt dansk medlem kan bruge Parlamentets regler til at sætte en dagsorden, som hele Europa taler om. Enhedslisten har samlet en liste med over 30 medier i og uden for Europa, der har skrevet om skulpturen, fra Der Spiegel og The Telegraph til ABC i Spanien.
+Udstillingen sker, mens EU's forhold til USA under Trump er et af de store emner i Parlamentet. Den viser også, hvordan et enkelt dansk medlem kan bruge Parlamentets regler til at sætte en dagsorden, som hele Europa taler om. [Enhedslisten har samlet en liste](https://enhedslisten.eu/nyheder/enhedslisten-arrangerer-udstilling-af-jens-galschioets-orange-plague-i-eu-parlamentet/) med over 30 medier i og uden for Europa, der har skrevet om skulpturen, fra Der Spiegel og The Telegraph til ABC i Spanien.
 
 Ved udstillingen deles der ifølge CNN over 1.000 3D-printede miniudgaver af skulpturen ud. Galschiøt vil ifølge CNN vise skulpturen igen ved FN's næste klimatopmøde, COP31 i Antalya i Tyrkiet, i november.
