@@ -1,7 +1,7 @@
 ---
 title: "Flyenes CO2-kvoter giver staten 2,8 mia. kr. frem mod 2035 – pengene går i statskassen, ikke til grønt flybrændstof"
 slug: ministersvar-fly-kvoter-provenu-esaf
-date: 2026-10-12 14:45
+date: 2026-10-12 14:10
 section: klima-miljoe
 type: Ministersvar
 kicker: Ministersvar

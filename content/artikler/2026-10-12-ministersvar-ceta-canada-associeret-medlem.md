@@ -1,7 +1,7 @@
 ---
 title: "Løkke om Canada som »associeret medlem« af EU: Ingen ved endnu, hvad det indebærer"
 slug: ministersvar-ceta-canada-associeret-medlem
-date: 2026-10-12 15:00
+date: 2026-10-12 14:15
 section: politik
 type: Ministersvar
 kicker: Ministersvar
