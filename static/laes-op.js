@@ -6,7 +6,18 @@
   var box = document.querySelector(".laes-op");
   if (!box) return;
   var synth = window.speechSynthesis;
-  if (!synth || typeof window.SpeechSynthesisUtterance !== "function") return; // knappen forbliver skjult
+  var inApp = /FBAN|FBAV|Instagram|Twitter|LinkedInApp|Line\/|GSA\//i.test(navigator.userAgent);
+  function note(msg) {
+    var n = box.querySelector(".laes-op-note");
+    if (!n) { n = document.createElement("span"); n.className = "laes-op-note"; box.appendChild(n); }
+    n.textContent = msg || ""; n.hidden = !msg;
+  }
+  if (!synth || typeof window.SpeechSynthesisUtterance !== "function") {
+    box.querySelector(".laes-op-knap").hidden = true;
+    note("Oplæsning virker ikke i denne browser" + (inApp ? " – åbn artiklen i Safari." : "."));
+    box.hidden = false;
+    return;
+  }
 
   var btn = box.querySelector(".laes-op-knap");
   var stopBtn = box.querySelector(".laes-op-stop");
@@ -17,7 +28,9 @@
   var voice = null;
   var keepAlive = null;
   var session = 0;
-  var MAX = 220; // tegn pr. ytring – holder Chrome stabil
+  var started = false;
+  var watchdog = null;
+  var MAX = 180; // tegn pr. ytring – holder Chrome stabil
 
   function pickVoice() {
     var voices = synth.getVoices() || [];
@@ -93,6 +106,7 @@
     u.lang = "da-DK";
     if (voice) u.voice = voice;
     u.rate = 1;
+    u.onstart = function () { started = true; note(""); };
     u.onend = function () { if (my !== session) return; idx++; speakNext(my); };
     u.onerror = function (e) {
       if (my !== session) return;
@@ -107,7 +121,11 @@
     if (!queue.length) return;
     idx = 0;
     session++;
-    synth.cancel();
+    pickVoice();
+    // iOS/WebKit kan sluge et speak() der kommer lige efter cancel(); kald kun cancel ved behov.
+    if (synth.speaking || synth.pending) synth.cancel();
+    if (synth.paused) synth.resume();
+    started = false;
     setState("playing");
     var my = session;
     // Chrome-desktop kan gå i stå efter ca. 15 sek.; et let skub holder den i gang.
@@ -117,14 +135,22 @@
         if (state === "playing" && synth.speaking && !synth.paused) { synth.pause(); synth.resume(); }
       }, 10000);
     }
-    speakNext(my);
+    speakNext(my); // skal ske synkront i klik-handleren (iOS)
+    clearTimeout(watchdog);
+    watchdog = setTimeout(function () {
+      if (my !== session || started || synth.speaking) return;
+      note(inApp ? "Ingen lyd? Åbn artiklen i Safari – oplæsning virker ofte ikke i appens browser."
+                 : "Ingen lyd? Tjek at telefonen ikke står på lydløs, og at lyden er skruet op.");
+    }, 2500);
   }
 
   function stop() {
     session++;
     stopKeepAlive();
+    clearTimeout(watchdog);
     synth.cancel();
     idx = 0;
+    note("");
     setState("idle");
   }
 
