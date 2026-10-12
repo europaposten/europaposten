@@ -1,5 +1,5 @@
 ---
-title: "EU vedtager næsten 1.600 nye sanktioner – mens Løkke advarer om, at USA's dieselaftale undergraver presset på Rusland"
+title: "EU vedtager næsten 1.600 nye sanktioner – Løkke ærgrer sig over USA's dieselaftale med Rusland"
 slug: eu-1600-sanktioner-loekke-diesel
 date: 2026-10-12 12:55
 section: politik
