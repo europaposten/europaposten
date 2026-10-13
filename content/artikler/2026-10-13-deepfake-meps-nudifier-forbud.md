@@ -47,7 +47,7 @@ Om syv uger, 2. december, begynder et nyt EU-forbud mod de såkaldte nudifier-ap
 - **Vi ved:** 8 MEP'er, alle kvinder, var afbildet i manipulerede seksuelle billeder, der stadig lå online. De øvrige var blandt andet koblet til sider, der lægger en nudifier-app ved siden af deres officielle portræt.
 - **Vi ved:** Forbuddet mod nudifier-AI står i forordning 2026/1744 og gælder fra 2. december 2026. 13 af 15 danske MEP'er stemte for den endelige tekst.
 - **Vi ved:** I Danmark har det siden 1. juli 2025 været strafbart at fremstille deepfake-pornografi uden samtykke, også selv om materialet ikke deles.
-- **Vi ved ikke:** Om det bliver Digitaliseringsstyrelsen eller Datatilsynet, der skal håndhæve det nye forbud i Danmark. Lovforslaget overlader udpegningen til en bekendtgørelse, som først kan udstedes, når loven er vedtaget.
+- **Vi ved ikke:** Hvilken myndighed der formelt skal håndhæve det nye forbud i Danmark. Lovforslaget overlader udpegningen til en bekendtgørelse, som først kan udstedes, når loven er vedtaget. Bemærkningerne lægger op til, at Digitaliseringsstyrelsen og Datatilsynet fortsætter som tilsyn med forbudte former for AI.
 - **Vi ved ikke:** Om danske MEP'er er blandt de 50. Undersøgelsen offentliggør ikke navne. Østrigske Lena Schilling er selv stået frem.
 :::
 
@@ -106,7 +106,7 @@ Parlamentet [vedtog den endelige tekst 16. juni](https://www.europarl.europa.eu/
 
 *Kilde: [HowTheyVote.eu](https://howtheyvote.eu/votes/193665), der bygger på Parlamentets officielle afstemningslister.*
 
-Afstemningen gjaldt hele pakken, også udskydelsen af reglerne for højrisiko-AI. Stemmerne siger derfor ikke nødvendigvis noget om holdningen til selve forbuddet. Per Clausen stemte også imod, da Parlamentet [vedtog sin forhandlingsposition 26. marts](https://howtheyvote.eu/votes/189384). Dengang stemte de 14 øvrige danske MEP'er for.
+Afstemningen gjaldt hele pakken, også udskydelsen af reglerne for højrisiko-AI. Stemmerne siger derfor ikke nødvendigvis noget om holdningen til selve forbuddet. Per Clausen stemte også imod, da Parlamentet [vedtog sin forhandlingsposition 26. marts](https://howtheyvote.eu/votes/189384). Dengang stemte de 14 øvrige danske MEP'er for. Majbritt Birkholm var dengang ikke medlem; i stedet stemte Anders Vistisen (DF) for.
 
 ## Hvad gælder i Danmark?
 
