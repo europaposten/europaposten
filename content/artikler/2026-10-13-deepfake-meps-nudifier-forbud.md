@@ -106,7 +106,7 @@ Parlamentet [vedtog den endelige tekst 16. juni](https://www.europarl.europa.eu/
 
 *Kilde: [HowTheyVote.eu](https://howtheyvote.eu/votes/193665), der bygger på Parlamentets officielle afstemningslister.*
 
-Afstemningen gjaldt hele pakken, også udskydelsen af reglerne for højrisiko-AI. Stemmerne siger derfor ikke nødvendigvis noget om holdningen til selve forbuddet. Per Clausen stemte også imod, da Parlamentet [vedtog sin forhandlingsposition 26. marts](https://howtheyvote.eu/votes/189384). Dengang stemte de 14 øvrige danske MEP'er for – blandt dem Anders Vistisen (DF), som Majbritt Birkholm siden har afløst.
+Afstemningen gjaldt hele pakken, også udskydelsen af reglerne for højrisiko-AI. Stemmerne siger derfor ikke nødvendigvis noget om holdningen til selve forbuddet. Per Clausen stemte også imod, da Parlamentet [vedtog sin forhandlingsposition 26. marts](https://howtheyvote.eu/votes/189384). Dengang stemte de 14 øvrige danske MEP'er for. Majbritt Birkholm var dengang ikke medlem; i stedet stemte Anders Vistisen (DF) for.
 
 ## Hvad gælder i Danmark?
 
