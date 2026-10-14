@@ -1,12 +1,13 @@
 ---
-title: "EU-landene ventes i dag at ophæve budgetstraffen mod Ungarn – 4,2 mia. euro kan flyde igen"
+title: "EU-landene har ophævet budgetstraffen mod Ungarn – 4,2 mia. euro kan flyde igen"
 slug: ungarn-budgetsanktion-loeftes-artikel-7
 date: 2026-10-13 06:35
+updated: 2026-10-14 18:30
 section: politik
 type: Nyhed
 kicker: Retsstat
 author: Europaposten-redaktionen
-summary: EU's europaministre ventes tirsdag uden debat at ophæve de budgetsanktioner, Ungarn fik i 2022 for brud på retsstatsprincipper. Samme møde gør status over artikel 7-sagen, der har kørt siden 2018. Polen slap ud af sin artikel 7-sag i 2024 – men for Ungarn var det Parlamentet, ikke Kommissionen, der satte sagen i gang.
+summary: EU's europaministre ophævede tirsdag uden debat de budgetsanktioner, Ungarn fik i 2022 for brud på retsstatsprincipper. Samme møde gjorde status over artikel 7-sagen, der har kørt siden 2018 og stadig er åben. Polen slap ud af sin artikel 7-sag i 2024 – men for Ungarn var det Parlamentet, ikke Kommissionen, der satte sagen i gang.
 draft: nej
 illustration: ungarns-parlament-budapest-2023.jpg
 illustration_alt: Det ungarske parlament i Budapest oplyst i aftenmørke, spejlet i Donau
@@ -17,6 +18,10 @@ illustration_license_url: https://creativecommons.org/publicdomain/zero/1.0/
 illustration_source: https://commons.wikimedia.org/wiki/File:Hungarian_Parliament_Building_2023-9.jpg
 illustration_credit: Foto: Pierre Blaché via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Hungarian_Parliament_Building_2023-9.jpg), [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). Nedskaleret af Europaposten.
 sources:
+  - Euronews: EU ends anti-corruption funding curbs on Hungary, freeing €4.2bn (13. oktober 2026) | https://www.euronews.com/2026/10/13/eu-ends-anti-corruption-funding-curbs-on-hungary-freeing-42bn
+  - Agence Europe: EU Council welcomes Hungary's progress as it repeals its 2021 anti-LGBTIQ legislation on same day (13. oktober 2026) | https://agenceurope.eu/en/bulletin/article/13959/5/eu-council-welcomes-hungarys-progress-as-it-repeals-its-2021-anti-lgbtiq-legislation-on-same-day
+  - Irlands EU-formandskab: Results of the General Affairs Council, 13 October 2026 | https://irish-presidency.consilium.europa.eu/en/news/results-of-the-general-affairs-council-13-october-2026/
+  - Rådet: Rettelse til gennemførelsesafgørelsen, ST 13568/26 COR 1 (12. oktober 2026) | https://data.consilium.europa.eu/doc/document/ST-13568-2026-COR-1/en/pdf
   - Rådet: Liste over A-punkter, Rådet (almindelige anliggender) 13. oktober 2026, ST 14091/1/26 REV 1 | https://data.consilium.europa.eu/doc/document/ST-14091-2026-REV-1/en/pdf
   - Rådet: I/A-punktsnote om Rådets gennemførelsesafgørelse vedrørende Ungarn, ST 13880/26 (2. oktober 2026) | https://data.consilium.europa.eu/doc/document/ST-13880-2026-INIT/en/pdf
   - Europa-Kommissionen: Commission proposes to unlock €4.2 billion in Cohesion funding for Hungary (IP/26/1941, 23. september 2026) | https://europa.eu/newsroom/ecpc-failover/pdf/ip-26-1941_en.pdf
@@ -32,15 +37,19 @@ sources:
   - Folketinget: Dagsorden for Europaudvalget 9. oktober 2026 | https://www.ft.dk/samling/20261/udvda/EUU/20261_EUU_M2214874.pdf
 ---
 
-Når EU's europaministre mødes i Luxembourg tirsdag, står en afgørelse om at ophæve de budgetsanktioner, Ungarn fik i december 2022, på listen over punkter, der vedtages uden debat. Det fremgår af [Rådets liste over A-punkter](https://data.consilium.europa.eu/doc/document/ST-14091-2026-REV-1/en/pdf) til mødet. Vedtages afgørelsen, får Ungarn adgang til 4,2 mia. euro fra EU's samhørighedsfonde, som har været sat på pause, og ungarske universiteter drevet af såkaldte offentlige fonde får igen adgang til Erasmus+ og Horizon Europe.
+*Opdateret onsdag 14. oktober kl. 18.30: Rådet vedtog afgørelsen tirsdag. Artiklen er opdateret med udfaldet af mødet.*
 
-Ifølge [Rådets dagsorden](https://data.consilium.europa.eu/doc/document/ST-14082-2026-REV-1/en/pdf) skal ministrene på samme møde gøre status over artikel 7-sagen mod Ungarn – traktatens procedure mod risiko for alvorlige brud på EU's grundværdier, som har kørt siden 2018.
+Rådet har tirsdag ophævet de budgetsanktioner, Ungarn fik i 2022, så 4,2 mia. euro fra EU's samhørighedsfonde kan frigives, og landet igen får adgang til Erasmus+ og Horizon Europe, [skriver Euronews](https://www.euronews.com/2026/10/13/eu-ends-anti-corruption-funding-curbs-on-hungary-freeing-42bn). På pressemødet efter ministermødet sagde budgetkommissær Piotr Serafin, at Rådet havde konkluderet, at foranstaltningerne kunne ophæves, [skriver Agence Europe](https://agenceurope.eu/en/bulletin/article/13959/5/eu-council-welcomes-hungarys-progress-as-it-repeals-its-2021-anti-lgbtiq-legislation-on-same-day).
+
+Ministrene hørte samtidig en status over artikel 7-sagen, [oplyser det irske formandskab](https://irish-presidency.consilium.europa.eu/en/news/results-of-the-general-affairs-council-13-october-2026/). Den sag er adskilt fra budgetsanktionen og er stadig åben. Samme dag stemte det ungarske parlament med 139 stemmer mod 51 for at ophæve Orbán-regeringens lov fra 2021, der blandt andet forbød at vise homoseksualitet og kønsskifte i indhold for mindreårige, ifølge Agence Europe.
+
+Afgørelsen stod på [Rådets liste over A-punkter](https://data.consilium.europa.eu/doc/document/ST-14091-2026-REV-1/en/pdf) – de punkter, ministrene vedtager uden debat – og artikel 7-sagen stod på [Rådets dagsorden](https://data.consilium.europa.eu/doc/document/ST-14082-2026-REV-1/en/pdf) som en status. Artikel 7 er traktatens procedure mod risiko for alvorlige brud på EU's grundværdier.
 
 :::fakta Det ved vi – og det ved vi ikke
-- **Vi ved:** Afgørelsen er punkt 7 på Rådets A-punktsliste og blev godkendt af EU-ambassadørerne i Coreper 7. oktober.
+- **Vi ved:** Rådet vedtog afgørelsen tirsdag 13. oktober som punkt 7 på A-punktslisten, efter at EU-ambassadørerne i Coreper havde godkendt den 7. oktober.
 - **Vi ved:** Rådets budgetudvalg accepterede Kommissionens forslag uden ændringer, ifølge Rådets note.
-- **Vi ved ikke:** Hvordan Danmark stemmer. Afgørelsen er ikke blandt de fire punkter, regeringen forelagde Europaudvalget 9. oktober, og Europaposten har ikke fundet regeringens holdning.
-- **Vi ved ikke:** Om artikel 7-sagen nærmer sig en afslutning. Dagsordenen lyder kun på »status«.
+- **Vi ved ikke:** Hvordan Danmark stemte. Afgørelsen er ikke blandt de fire punkter, regeringen forelagde Europaudvalget 9. oktober, og Europaposten har ikke fundet regeringens holdning.
+- **Vi ved ikke:** Om artikel 7-sagen nærmer sig en afslutning. Ministrene hørte kun en status, og sagen er fortsat åben.
 :::
 
 ## Hvad blev Ungarn straffet for?
@@ -63,4 +72,4 @@ Ungarske menneskeretsorganisationer med Helsinki-komitéen i spidsen skriver i [
 
 ## Næste skridt
 
-Bliver afgørelsen vedtaget, offentliggøres den i EU-Tidende. Ifølge [Rådets program](https://www.consilium.europa.eu/en/press/press-releases/2026/10/12/media-advisory-general-affairs-council-and-accession-conferences-with-albania-the-republic-of-moldova-and-ukraine-of-13-october-2026/) er artikel 7-punktet sat til omkring kl. 12, mens ministrene drøfter langtidsbudgettet 2028–2034 i offentlig session om eftermiddagen. Torsdag og fredag mødes stats- og regeringscheferne i Bruxelles.
+Afgørelsen skal offentliggøres i EU-Tidende. Artikel 7-sagen fortsætter i Rådet. Torsdag og fredag mødes stats- og regeringscheferne i Bruxelles, hvor blandt andet langtidsbudgettet 2028–2034 og udvidelsen står på dagsordenen.
