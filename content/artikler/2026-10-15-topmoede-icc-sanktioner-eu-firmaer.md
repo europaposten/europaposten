@@ -1,7 +1,7 @@
 ---
 title: "Topmødeudkast: Kommissionen skal skærme EU-firmaer, der arbejder for straffedomstolen"
 slug: topmoede-icc-sanktioner-eu-firmaer
-date: 2026-10-15 07:45
+date: 2026-10-15 06:17
 section: politik
 type: Nyhed
 kicker: Straffedomstolen

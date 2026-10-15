@@ -1,7 +1,7 @@
 ---
 title: "EU-topmødet begynder: Udkast lader lederne »beklage« USA's lempelse for russisk diesel"
 slug: topmoede-udkast-konklusioner-diesel-icc
-date: 2026-10-15 07:50
+date: 2026-10-15 06:20
 section: politik
 type: Nyhed
 kicker: Topmødet

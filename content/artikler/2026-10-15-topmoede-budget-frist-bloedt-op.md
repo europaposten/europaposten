@@ -1,7 +1,7 @@
 ---
 title: "Budgetfristen er blødt op i topmødets udkast – her er Danmarks målestok"
 slug: topmoede-budget-frist-bloedt-op
-date: 2026-10-15 07:40
+date: 2026-10-15 06:14
 section: politik
 type: Nyhed
 sag: eu-budget
