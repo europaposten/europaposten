@@ -1,7 +1,7 @@
 ---
 title: "EU-graf: Elafgiften væk – danskernes strøm faldt 28 procent og er nu midt i EU"
 slug: eu-graf-elpris-husholdninger-2026
-date: 2026-10-15 11:50
+date: 2026-10-15 11:35
 section: oekonomi
 type: Analyse
 kicker: EU i tal
