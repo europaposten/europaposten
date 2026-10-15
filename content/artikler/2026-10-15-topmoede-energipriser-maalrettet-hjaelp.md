@@ -1,7 +1,7 @@
 ---
 title: "Gassen er steget 140 procent: Topmødet vil have målrettet hjælp – ikke penge til alle"
 slug: topmoede-energipriser-maalrettet-hjaelp
-date: 2026-10-15 07:30
+date: 2026-10-15 06:10
 section: politik
 type: Nyhed
 kicker: Topmødet
