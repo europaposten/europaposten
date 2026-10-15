@@ -1,7 +1,7 @@
 ---
 title: "Lidegaard svarer ikke på, om vagthunden kan håndhæve EU's nye regler mod greenwashing"
 slug: ministersvar-greenwashing-forbrugerombudsmanden
-date: 2026-10-15 10:30
+date: 2026-10-15 09:50
 section: klima-miljoe
 type: Ministersvar
 kicker: Ministersvar
