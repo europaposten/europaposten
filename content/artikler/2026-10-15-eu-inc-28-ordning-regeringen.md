@@ -8,14 +8,14 @@ author: Europaposten-redaktionen
 summary: Kampagnen EU–INC beder EU's stats- og regeringschefer gribe ind, fordi det fælles register er skåret ud af et udkast til den nye europæiske selskabsform. Regeringens eget samlenotat viser, at Danmark har arbejdet for at fjerne den fælles EU-portal og for at stramme reglerne for medarbejderaktieoptioner.
 featured: nej
 draft: nej
-illustration: frederiksen-euco-2023.jpg
-illustration_alt: Statsminister Mette Frederiksen fotograferet tæt på ved ankomsten til et EU-topmøde i Bruxelles
-illustration_caption: Mette Frederiksen ved ankomsten til EU-topmødet i Bruxelles i juni 2023. Arkivfoto.
-illustration_photographer: Christophe Licoppe, Europa-Kommissionen
-illustration_license: CC BY 4.0
-illustration_license_url: https://creativecommons.org/licenses/by/4.0/
-illustration_source: https://commons.wikimedia.org/wiki/File:Mette_Frederiksen_at_European_Council_Summit_-_2023_-_P061521-185422.jpg
-illustration_credit: Foto: Christophe Licoppe / Europa-Kommissionen via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Mette_Frederiksen_at_European_Council_Summit_-_2023_-_P061521-185422.jpg), [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Nedskaleret af Europaposten.
+illustration: slush-helsinki-2019.jpg
+illustration_alt: Publikum foran scenen på startupkonferencen Slush i Helsinki
+illustration_caption: Startupkonferencen Slush i Helsinki, en af Europas største samlinger af iværksættere og investorer. Arkivfoto fra 2019.
+illustration_photographer: Lina Fredrika
+illustration_license: CC BY-SA 4.0
+illustration_license_url: https://creativecommons.org/licenses/by-sa/4.0/
+illustration_source: https://commons.wikimedia.org/wiki/File:Slush_2019.jpg
+illustration_credit: Foto: Lina Fredrika via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Slush_2019.jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Nedskaleret af Europaposten.
 sources:
   - EU–INC på X (15. oktober 2026) | https://x.com/euinc_petition/status/2110639430809891086
   - EU–INC: kampagnens hjemmeside | https://www.eu-inc.org/
