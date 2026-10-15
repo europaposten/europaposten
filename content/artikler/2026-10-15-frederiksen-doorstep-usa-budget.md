@@ -9,14 +9,14 @@ kicker: Topmødet
 author: Europaposten-redaktionen
 summary: På vej ind til EU-topmødet i Bruxelles siger statsminister Mette Frederiksen, at den vestlige alliance står et dårligere sted efter amerikanske signaler mod Ukraine – herunder dieselaftalen med Rusland og begrænset adgang til Starlink. Samtidig kalder hun det irske udspil til EU's langtidsbudget uacceptabelt. Endelige konklusioner ventes tidligst ved pressemødet omkring kl. 19.30.
 draft: nej
-illustration: frederiksen-euco-2023.jpg
-illustration_alt: Statsminister Mette Frederiksen i lys jakke fotograferet tæt på ved ankomsten til et EU-topmøde i Bruxelles
-illustration_caption: Mette Frederiksen ved ankomsten til EU-topmødet i Bruxelles i juni 2023. Arkivfoto.
-illustration_photographer: Christophe Licoppe, Europa-Kommissionen
-illustration_license: CC BY 4.0
-illustration_license_url: https://creativecommons.org/licenses/by/4.0/
-illustration_source: https://commons.wikimedia.org/wiki/File:Mette_Frederiksen_at_European_Council_Summit_-_2023_-_P061521-185422.jpg
-illustration_credit: Foto: Christophe Licoppe / Europa-Kommissionen via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Mette_Frederiksen_at_European_Council_Summit_-_2023_-_P061521-185422.jpg), [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Nedskaleret af Europaposten.
+illustration: frederiksen-euco-juni-2024.jpg
+illustration_alt: Statsminister Mette Frederiksen ankommer til et uformelt EU-ledermøde i Bruxelles
+illustration_caption: Mette Frederiksen ved ankomsten til et uformelt EU-ledermøde i Bruxelles i juni 2024. Arkivfoto.
+illustration_photographer: Rådet for Den Europæiske Union
+illustration_license: © Den Europæiske Union, genbrug med kildeangivelse
+illustration_license_url: https://www.consilium.europa.eu/en/about-site/copyright/
+illustration_source: https://commons.wikimedia.org/wiki/File:Mette_Frederiksen_-_Informal_leaders%27_meeting_-_June_2024.jpg
+illustration_credit: Foto: © Den Europæiske Union / Rådet via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Mette_Frederiksen_-_Informal_leaders%27_meeting_-_June_2024.jpg), [genbrug med kildeangivelse](https://www.consilium.europa.eu/en/about-site/copyright/). Nedskaleret af Europaposten.
 sources:
   - Ritzau via Kristeligt Dagblad: Mette Frederiksen ser USA gå imod Ukraine (15. oktober 2026, kl. 11:13) | https://www.kristeligt-dagblad.dk/udland/mette-frederiksen-ser-usa-gaa-imod-ukraine-det-er-meget-alvorligt
   - TV 2 Nyheder: Liveblog EU-topmøde i Bruxelles (15. oktober 2026) | https://nyheder.tv2.dk/live/udland/2026-10-15-eu-topmoede-i-bruxelles
