@@ -2,7 +2,7 @@
 title: "Trump lover »massiv« oliejagt i Grønland – men det er Nuuk, der bestemmer"
 slug: trump-groenland-olie-forklaring
 date: 2026-10-15 14:05
-section: udenrigs
+section: politik
 type: Forklaring
 kicker: Forklaring
 author: Europaposten-redaktionen
@@ -48,7 +48,7 @@ Ifølge DR har hverken danske eller grønlandske ministre kommenteret Trumps ops
 
 Den 24. juni 2021 besluttede Naalakkersuisut at [suspendere oliestrategien og stoppe fremtidig efterforskning efter olie](https://naalakkersuisut.gl/da/Naalakkersuisut/Nyheder/2021/07/1507_oliestop). Der gives ikke nye licenser, men de allerede udstedte kan stadig udnyttes. Det er dem, amerikanske investorer nu prøver at bruge. Det britiske selskab 80 Mile ejer gennem datterselskabet White Flame Energy tre licenser i Østgrønland, og det amerikanske Greenland Energy Company er gået ind som partner og operatør, [skriver DR](https://www.dr.dk/nyheder/udland/trump-puster-til-ambitioner-om-amerikansk-olie-eventyr-i-groenland).
 
-Naaja H. Nathanielsen var råstofminister, da stoppet blev vedtaget. I dag sidder hun i Folketinget for IA, og hun mener, at Trump taler til sine egne vælgere før midtvejsvalget i november: »Et af de store spørgsmål er prisen på brændstof i USA. Så jeg tror, at Trumps post mere er rettet mod et sit hjemmemarked, end den er rettet mod os her i kongeriget,« siger hun til [DR](https://www.dr.dk/nyheder/udland/trump-puster-til-ambitioner-om-amerikansk-olie-eventyr-i-groenland).
+Naaja H. Nathanielsen var råstofminister, da stoppet blev vedtaget. I dag sidder hun i Folketinget for IA, og hun mener, at Trump taler til sine egne vælgere før midtvejsvalget i november: »Et af de store spørgsmål er prisen på brændstof i USA. Så jeg tror, at Trumps post mere er rettet mod et [sic] sit hjemmemarked, end den er rettet mod os her i kongeriget,« siger hun til [DR](https://www.dr.dk/nyheder/udland/trump-puster-til-ambitioner-om-amerikansk-olie-eventyr-i-groenland).
 
 ## Hvor kommer EU ind?
 
