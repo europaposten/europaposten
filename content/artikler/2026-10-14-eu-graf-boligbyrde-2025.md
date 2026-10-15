@@ -18,13 +18,15 @@ sources:
   - Danmarks Statistik: Levevilkårsundersøgelsen (SILC), sammenlignelighed | https://www.dst.dk/da/Statistik/dokumentation/statistikdokumentation/levevilkaarsundersoegelsen--silc-/sammenlignelighed
 ---
 
+*Opdatering 15. oktober 2026: Det danske tal for 2025 bliver revideret. Grafen og artiklen opdateres, når Eurostat har offentliggjort de reviderede tal.*
+
 23,4 procent af danskerne boede i 2025 i en husstand, hvor boligudgifterne slugte mere end 40 procent af den disponible indkomst. Kun i Grækenland er andelen højere, med 26,4 procent. EU-gennemsnittet er 7,7 procent. Det viser de nyeste tal fra [Eurostat](https://ec.europa.eu/eurostat/databrowser/view/ilc_lvho07a/default/table).
 
 Efter Danmark følger Tyskland (11,2 procent) og Sverige (10,8). Lavest ligger Cypern med 2,4 procent og Kroatien med 3,2.
 
 ## Et brud i tidsserien
 
-Tallet skal læses med forsigtighed. I 2024 var den danske andel 14,6 procent, og den har ligget mellem 14 og 16 procent siden 2014. Eurostat har markeret 2025-tallet for Danmark med et brud i tidsserien. Det betyder, at noget i måden at måle på har ændret sig, så spring fra 2024 til 2025 ikke nødvendigvis afspejler, at flere har fået det sværere. Hvad bruddet skyldes, fremgår ikke af Eurostats tabel. Europaposten opdaterer artiklen, når forklaringen foreligger.
+Tallet skal læses med forsigtighed. I 2024 var den danske andel 14,6 procent, og den har ligget mellem 14 og 16 procent siden 2014. Eurostat har markeret 2025-tallet for Danmark med et brud i tidsserien. Det betyder, at noget i måden at måle på har ændret sig, så spring fra 2024 til 2025 ikke nødvendigvis afspejler, at flere har fået det sværere. Hvad bruddet skyldes, fremgår ikke af Eurostats tabel. Europaposten opdaterer artiklen, når de reviderede tal foreligger.
 
 Placeringen afhænger dog ikke af bruddet. Også i 2024 havde Danmark EU's næsthøjeste boligbyrde, kun overgået af Grækenland med 28,9 procent.
 
