@@ -93,4 +93,4 @@ EU-lederne drøftede migration ved frokosten fredag. De endelige konklusioner om
 
 *Opdateret fredag 16. oktober kl. 14.30: Artiklen er opdateret med Morten Bødskovs svar på § 20-spørgsmål S 364.*
 
-*Opdateret fredag 16. oktober kl. 16.20: Artiklen er opdateret med EUobservers oplysninger om, at omkring 16 lande støtter Kommissionens plan om en nødberedskabsramme, og med POLITICOs gengivelse af et udkast til topmødekonklusioner om migration.*
+*Opdateret fredag 16. oktober kl. 15.50: Artiklen er opdateret med EUobservers oplysninger om, at omkring 16 lande støtter Kommissionens plan om en nødberedskabsramme, og med POLITICOs gengivelse af et udkast til topmødekonklusioner om migration.*
