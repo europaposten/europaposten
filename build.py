@@ -465,7 +465,11 @@ def card(a: Article, root, size="normal"):
     extra = ""
     if size == "lead":
         extra = f'<p class="card-teaser">{esc(kort_tekst(a.summary))}</p>'
+    elif size == "list":
+        extra = f'<p class="card-teaser card-clamp">{esc(a.summary)}</p>'
     noimg = "" if a.illustration else " card-noimg"
+    if a.illustration and "graf" in a.illustration.lower():
+        noimg += " card-graf"
     return f"""<article class="card card-{size}{noimg}">
   <a class="card-link" href="{root}{a.url}">
     {card_media(a, root, lazy=(size != "lead"))}
@@ -634,9 +638,9 @@ def render_list(site, sections, root, title, intro, arts, active=None):
     for day, items in by_day.items():
         d = dt.datetime.combine(day, dt.time(), TZ)
         lis = "".join(
-            list_item(a, root)
+            card(a, root, "list")
             for a in items)
-        blocks += f'<section class="day"><h2 class="rubric">{dansk_dato(d, med_ugedag=True)}</h2><ul class="list">{lis}</ul></section>'
+        blocks += f'<section class="day"><h2 class="rubric">{dansk_dato(d, med_ugedag=True)}</h2><div class="cards">{lis}</div></section>'
     if not blocks:
         blocks = "<p>Der er endnu ingen artikler her.</p>"
     content = f'<header class="page-head"><h1>{esc(title)}</h1><p>{esc(intro)}</p></header>{blocks}'
@@ -680,9 +684,7 @@ def explainer_list(arts, root):
     ex = [a for a in arts if a.type in ("forklaring", "long-read", "faktatjek", "analyse")]
     if not ex:
         return "<p>Der er endnu ingen forklaringer.</p>"
-    return '<ul class="list">' + "".join(
-        list_item(a, root)
-        for a in ex) + "</ul>"
+    return '<div class="cards">' + "".join(card(a, root, "list") for a in ex) + "</div>"
 
 
 def render_sag(site, sections, slug, arts):
