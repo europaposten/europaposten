@@ -542,7 +542,9 @@ def render_article(site, sections, a: Article, arts):
     related += [x for x in others if x.section == a.section and x not in related][: 3 - len(related)]
     if len(related) < 3:
         related += [x for x in others if x not in related][: 3 - len(related)]
-    rel_html = "".join(teaser(x, root, "small") for x in related)
+    rel_html = "".join(card(x, root) for x in related)
+    more_arts = [x for x in others if x not in related][:12]
+    more_html = "".join(card(x, root) for x in more_arts)
     corr_html = ""
     if a.corrections:
         corr_html = ('<section class="corrections" id="rettelser"><h2>Rettelser</h2><ul>' + "".join(
@@ -612,7 +614,9 @@ def render_article(site, sections, a: Article, arts):
   </footer>
 </article>
 {ad_slot(site, "artikel-bund")}
-<section class="related"><h2 class="rubric">Læs også</h2><div class="grid grid-3">{rel_html}</div></section>
+<section class="related"><h2 class="rubric">Læs også</h2><div class="cards">{rel_html}</div></section>
+{f'<section class="front-more"><h2 class="rubric">Flere nyheder</h2><div class="cards">{more_html}</div></section>' if more_html else ''}
+<p class="front-archive"><a href="{root}arkiv/">Se alle artikler i arkivet →</a></p>
 """
     return layout(site, sections, root, a.title, content, description=a.summary, active=a.section, extra_head=head)
 
@@ -630,7 +634,7 @@ def render_list(site, sections, root, title, intro, arts, active=None):
     for day, items in by_day.items():
         d = dt.datetime.combine(day, dt.time(), TZ)
         lis = "".join(
-            f'<li><p class="kicker kicker-{a.section}">{type_label(a)}{esc(a.section_name)}</p><a href="{root}{a.url}"><h3>{esc(a.title)}</h3></a><p>{esc(a.summary)}</p></li>'
+            list_item(a, root)
             for a in items)
         blocks += f'<section class="day"><h2 class="rubric">{dansk_dato(d, med_ugedag=True)}</h2><ul class="list">{lis}</ul></section>'
     if not blocks:
@@ -660,12 +664,24 @@ def corrections_log(site, arts, root):
         for d, t, a in rows) + "</ul>"
 
 
+def list_item(a: Article, root):
+    """Listepunkt med thumbnail (sektion, arkiv, type, forklaringer)."""
+    if a.illustration:
+        thumb = (f'<a class="list-thumb" href="{root}{a.url}" tabindex="-1" aria-hidden="true"><img src="{root}billeder/{esc(a.illustration)}" '
+                 f'alt="{esc(a.illustration_alt or a.title)}" width="1280" height="720" loading="lazy" decoding="async"></a>')
+    else:
+        thumb = (f'<a class="list-thumb card-placeholder" href="{root}{a.url}" tabindex="-1" aria-hidden="true">'
+                 f'<span class="ph-logo">E</span></a>')
+    return (f'<li class="list-item">{thumb}<div class="list-body"><p class="kicker kicker-{a.section}">{type_label(a)}{esc(a.section_name)}</p>'
+            f'<a href="{root}{a.url}"><h3>{esc(a.title)}</h3></a><p>{esc(a.summary)}</p></div></li>')
+
+
 def explainer_list(arts, root):
     ex = [a for a in arts if a.type in ("forklaring", "long-read", "faktatjek", "analyse")]
     if not ex:
         return "<p>Der er endnu ingen forklaringer.</p>"
     return '<ul class="list">' + "".join(
-        f'<li><p class="kicker kicker-{a.section}">{type_label(a)}{esc(a.section_name)}</p><a href="{root}{a.url}"><h3>{esc(a.title)}</h3></a><p>{esc(a.summary)}</p></li>'
+        list_item(a, root)
         for a in ex) + "</ul>"
 
 
