@@ -21,7 +21,7 @@ sources:
   - Hybrid CoE: About us – 35 Participating States, etableret 2017 i Helsinki | https://www.hybridcoe.fi/about-us/
 ---
 
-Danmark har siden april 2018 været fuldgyldigt medlem af The European Centre of Excellence for Countering Hybrid Threats (Hybrid CoE) i Helsinki. Men Forsvarsministeriet har ikke sekunderet en eneste medarbejder til centret, og »der er ikke aktuelle planer herom«. Det skriver forsvarsminister Jeppe Bruus (S) i et svar til Folketinget 15. oktober.
+Danmark har siden april 2018 været fuldgyldigt medlem af The European Centre of Excellence for Countering Hybrid Threats (Hybrid CoE) i Helsinki. Men Forsvarsministeriet har ikke sekunderet en eneste medarbejder til centret, og »der er ikke aktuelle planer herom«. Det skriver forsvarsminister Jeppe Bruus (S) i [et svar på § 20-spørgsmål S 57](https://www.ft.dk/samling/20261/spoergsmaal/s57/svar/2242296/3204476.pdf) 15. oktober.
 
 Ifølge ministeren er det »primært et spørgsmål om prioritering af udsendelser af medarbejdere på Forsvarsministeriets område«. Hybrid CoE har oplyst over for ministeriet, at 15 af de 35 deltagerlande pr. 8. oktober havde sekunderet personale til centret.
 
