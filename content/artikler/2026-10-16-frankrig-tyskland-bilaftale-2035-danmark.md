@@ -1,7 +1,7 @@
 ---
 title: "Frankrig skifter side om fossilbiler efter 2035 – Danmark og fem andre lande kan ikke længere blokere alene"
 slug: frankrig-tyskland-bilaftale-2035-danmark
-date: 2026-10-16 18:00
+date: 2026-10-16 17:55
 section: klima-miljoe
 type: Nyhed
 kicker: CO2-krav til biler
