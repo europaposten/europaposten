@@ -17,7 +17,7 @@ illustration_license_url: https://creativecommons.org/licenses/by-sa/4.0/
 illustration_source: https://commons.wikimedia.org/wiki/File:Jeppe_Bruus_(54843806553).jpg
 illustration_credit: Foto: Christian Ursilva via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Jeppe_Bruus_(54843806553).jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Nedskaleret af Europaposten.
 sources:
-  - Forsvarsministeriet: Svar på § 20-spørgsmål S 57 fra Emilie Schytte (UFG), Jeppe Bruus (15. oktober 2026) | https://www.ft.dk/samling/20261/spoergsmaal/s57/index.htm
+  - Forsvarsministeriet: Svar på § 20-spørgsmål S 57 fra Emilie Schytte (UFG), Jeppe Bruus (15. oktober 2026) | https://www.ft.dk/samling/20261/spoergsmaal/s57/svar/2242296/3204476.pdf
   - Hybrid CoE: About us – 35 Participating States, etableret 2017 i Helsinki | https://www.hybridcoe.fi/about-us/
 ---
 
