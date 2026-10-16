@@ -210,3 +210,10 @@ main.wrap{padding-top:28px;padding-bottom:40px}
 .card-graf .card-media{background:#fff}
 .card-graf .card-media img{object-fit:contain}
 @media (max-width:700px){.day .cards{grid-template-columns:1fr;gap:28px}}
+/* Dagens tegning: blæk-rød, udfyldt mærke */
+.type-label.type-dagens-tegning{background:#5c0f14;color:#fff;border-color:#5c0f14;font-family:Georgia,serif;font-style:italic}
+.footer .type-label.type-dagens-tegning{background:transparent}
+.story:has(.type-dagens-tegning) .story-illustration img{width:100%;border:3px solid #1a1a1a}
+.story:has(.type-dagens-tegning) .story-body{font-family:Georgia,serif;font-style:italic}
+.tegning-relateret{border-top:2px solid #5c0f14;padding-top:.6em;font-style:normal;font-weight:600}
+.tegning-relateret a{color:#5c0f14}
