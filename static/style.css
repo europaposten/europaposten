@@ -198,3 +198,9 @@ main.wrap{padding-top:28px;padding-bottom:40px}
 .factbox p,.factbox ul{font-size:.95rem;margin:6px 0}
 .sag-link{font-size:.85rem;font-weight:700;text-transform:uppercase;letter-spacing:.05em;margin:0 0 18px;padding-left:10px;border-left:3px solid var(--accent)}
 .sag-link a{color:var(--accent);text-decoration:none}
+/* Listepunkter med billede (sektion, arkiv, typer) */
+.list-item{display:grid;grid-template-columns:200px minmax(0,1fr);gap:18px;align-items:start}
+.list-thumb{display:block;aspect-ratio:16/9;overflow:hidden;border:1px solid var(--line);background:#fff}
+.list-thumb img{display:block;width:100%;height:100%;object-fit:cover}
+.list-thumb.card-placeholder .ph-logo{font-size:1.6rem}
+@media (max-width:640px){.list-item{grid-template-columns:112px minmax(0,1fr);gap:12px}.list h3{font-size:1.1rem}.list-body>p:last-child{font-size:.9rem}}
