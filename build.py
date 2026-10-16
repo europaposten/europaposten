@@ -55,6 +55,7 @@ def load_config():
 ARTIKELTYPER = {
     "nyhed": "Nyhed", "analyse": "Analyse", "forklaring": "Forklaring",
     "faktatjek": "Faktatjek", "ministersvar": "Ministersvar", "long-read": "Long read",
+    "dagens-tegning": "Dagens tegning",
 }
 # Sager: løbende historier med egen side på /sag/<slug>/. Artikler knyttes til med 'sag: slug, slug' i front matter.
 SAGER = {
@@ -71,6 +72,7 @@ TYPE_BESKRIVELSE = {
     "faktatjek": "Faktatjek efterprøver konkrete påstande om EU mod primærkilderne.",
     "ministersvar": "Ministres svar til Folketinget om EU-sager – læst og forklaret med link til svaret på ft.dk.",
     "long-read": "Længere, gennemresearchede artikler om de store EU-sager.",
+    "dagens-tegning": "Dagens satiriske tegning om en aktuel EU-sag – med kort kommentar og link til artiklen bag. Tegningerne viser aldrig genkendelige virkelige personer.",
 }
 
 
@@ -283,6 +285,10 @@ class Article:
         if t not in ARTIKELTYPER:
             raise ValueError(f"{path.name}: ukendt type '{meta.get('type')}'. Gyldige: {', '.join(ARTIKELTYPER.values())}")
         self.type, self.type_name = t, ARTIKELTYPER[t]
+        # Dagens tegning: 'relateret: slug' peger på artiklen bag tegningen
+        self.relateret = (meta.get("relateret") or "").strip()
+        if t == "dagens-tegning" and not (meta.get("illustration") or "").strip():
+            raise ValueError(f"{path.name}: Dagens tegning kræver 'illustration'")
         # Rettelser: liste af 'ÅÅÅÅ-MM-DD | Hvad blev rettet'
         self.corrections = [tuple(x.strip() for x in c.split("|", 1)) for c in meta.get("rettelser", []) or [] if "|" in c]
         self.kicker = meta.get("kicker", "")
@@ -429,6 +435,16 @@ def teaser(a: Article, root, size="normal"):
   </a>
   <p class="meta">{byline(a, with_time=False)} · {a.minutes} min. læsning</p>
 </article>"""
+
+
+def tegning_link(a, arts, root):
+    """Link fra Dagens tegning til artiklen bag."""
+    if a.type != "dagens-tegning" or not a.relateret:
+        return ""
+    m = next((x for x in arts if x.slug == a.relateret), None)
+    if not m:
+        raise ValueError(f"Dagens tegning '{a.slug}': relateret artikel '{a.relateret}' findes ikke")
+    return f'<p class="tegning-relateret">Læs artiklen bag tegningen: <a href="{root}{m.url}">{esc(m.title)}</a></p>'
 
 
 def type_label(a: Article, root=None) -> str:
@@ -609,6 +625,7 @@ def render_article(site, sections, a: Article, arts):
   {('<p class="sag-link">Følg sagen: ' + " · ".join(f'<a href="{root}sag/{sg}/">{esc(SAGER[sg][0])}</a>' for sg in a.sager) + '</p>') if a.sager else ''}
   <div class="story-body">
     {a.body_html}
+    {tegning_link(a, arts, root)}
     {ad_slot(site, "artikel-midt")}
   </div>
   <footer class="story-foot">
