@@ -1,7 +1,7 @@
 ---
 title: "Novo Nordisk Fonden vil åbne supercomputeren Gefion for forskere i hele Europa"
 slug: gefion-raise-europaeiske-forskere
-date: 2026-10-16 16:15
+date: 2026-10-16 15:45
 section: oekonomi
 type: Forklaring
 kicker: Forskning og AI
