@@ -23,6 +23,7 @@ sources:
   - TV 2: Liveblog fra EU-topmødet, Frederiksen om udrejsecentre og opholdstilladelser (16. oktober 2026) | https://nyheder.tv2.dk/live/udland/2026-10-15-eu-topmoede-i-bruxelles
   - Euronews: Dinamarca pide a la UE revisar el plan español para regularizar a migrantes (16. oktober 2026) | https://es.euronews.com/2026/10/16/dinamarca-pide-a-la-ue-que-revise-el-plan-de-espana-para-regularizar-a-600000-migrantes
   - Folketingstidende: B 10 (2024-25), Danmarks tilslutning til screening- og grænseprocedureforordningerne, vedtaget 7. november 2024 | https://www.folketingstidende.dk/samling/20241/beslutningsforslag/B10/index.htm
+  - Folketinget: Svar på § 20-spørgsmål S 364 om udrejsecentre, Morten Bødskov (16. oktober 2026) | https://www.ft.dk/samling/20252/spoergsmaal/s364/svar/2242347/3204606.pdf
   - Folketinget: § 20-spørgsmål S 58 om EU's tilbagesendelsespakke, besvaret 24. juni 2026 | https://www.ft.dk/samling/20252/spoergsmaal/s58/index.htm
   - Europa-Parlamentet: New EU system for return of illegally staying third country nationals (17. juni 2026) | https://www.europarl.europa.eu/news/en/press-room/20260611IPR45214/new-eu-system-for-return-of-illegally-staying-third-country-nationals
   - HowTheyVote.eu: Afstemning om udsendelsesforordningen 17. juni 2026 (EP's roll-call) | https://howtheyvote.eu/votes/194134
@@ -53,6 +54,8 @@ Da Danmark i 2024 tilsluttede sig to forordninger fra EU's migrationspagt, skete
 
 Udlændinge- og integrationsminister Morten Bødskov (S) kaldte i juni udsendelsesforordningen »en kæmpe sejr for os, der har kæmpet for det«. Han tilføjede: »jeg glæder mig til, at den træder i kraft«, da han [svarede på et spørgsmål i Folketinget](https://www.ft.dk/samling/20252/spoergsmaal/s58/index.htm) 24. juni.
 
+I et svar til Folketinget fredag gentager Bødskov, at en ordning uden for EU er »helt afgørende«. Enhedslistens Peder Hvelplund havde spurgt, om ministeren er enig i de ti betingelser, som generalsekretæren for Dansk Flygtningehjælp og direktøren for Dignity har opstillet i et debatindlæg i Politiken. Ministeren tager ikke stilling til de ti punkter enkeltvis. Han skriver, at han er enig i, at »modellen skal være i fuld overensstemmelse med EU-retten og vores internationale forpligtelser, herunder menneskerettighederne«, [fremgår af svaret på S 364](https://www.ft.dk/samling/20252/spoergsmaal/s364/svar/2242347/3204606.pdf). Ved en aftale med et land uden for EU vil regeringen »sikre, at der løbende bliver fulgt op på« om aftalen overholdes. Svaret nævner hverken et land eller hvornår regeringen vil lægge op til, at Danmark tilslutter sig forordningen.
+
 ## Frederiksen vil have Kommissionen til at se på Spanien
 
 På vej ind til topmødets anden dag sagde Frederiksen, at hun håber, at »vi i det indeværende år kan bringe noget nyt på bordet« om udrejsecentre uden for EU, [skriver TV 2](https://nyheder.tv2.dk/live/udland/2026-10-15-eu-topmoede-i-bruxelles). Hun har også bedt Kommissionen se på, hvad der skal ske, når »ét land gør det modsatte af de andre« og giver lovligt ophold til personer, der er kommet ulovligt ind.
@@ -75,3 +78,5 @@ Europa-Parlamentet godkendte forordningen 17. juni med 418 stemmer for, 218 imod
 ## Næste skridt
 
 EU-lederne drøftede migration ved frokosten fredag. De endelige konklusioner var ikke offentliggjort, da denne artikel blev skrevet. I [udkastet fra 14. oktober](https://aeur.eu/f/nxh) glæder lederne sig over, at de irregulære grænsepassager er på det laveste niveau siden 2021, og opfordrer til at gøre »fuld brug af de nye EU-regler om tilbagesendelse« (Europapostens oversættelse). Europaposten har ikke fundet en udmelding fra regeringen om, hvornår den lægger op til en dansk beslutning. [Europaposten skrev om vedtagelsen i Rådet](/artikler/udrejsecentre-tilbagesendelsesforordning/) 3. oktober.
+
+*Opdateret fredag 16. oktober kl. 14.30: Artiklen er opdateret med Morten Bødskovs svar på § 20-spørgsmål S 364.*
