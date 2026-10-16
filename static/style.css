@@ -204,3 +204,9 @@ main.wrap{padding-top:28px;padding-bottom:40px}
 .list-thumb img{display:block;width:100%;height:100%;object-fit:cover}
 .list-thumb.card-placeholder .ph-logo{font-size:1.6rem}
 @media (max-width:640px){.list-item{grid-template-columns:112px minmax(0,1fr);gap:12px}.list h3{font-size:1.1rem}.list-body>p:last-child{font-size:.9rem}}
+/* Listekort (sektion, arkiv, typer) */
+.day .cards{margin-top:18px}
+.card-clamp{display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden;font-size:.98rem}
+.card-graf .card-media{background:#fff}
+.card-graf .card-media img{object-fit:contain}
+@media (max-width:700px){.day .cards{grid-template-columns:1fr;gap:28px}}
