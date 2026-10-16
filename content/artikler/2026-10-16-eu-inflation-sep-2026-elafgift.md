@@ -1,7 +1,7 @@
 ---
 title: "EU-inflationen er den højeste i tre år – den fjernede elafgift holder Danmark nede"
 slug: eu-inflation-sep-2026-elafgift
-date: 2026-10-16 13:30
+date: 2026-10-16 12:48
 section: oekonomi
 type: Nyhed
 kicker: Inflationen
