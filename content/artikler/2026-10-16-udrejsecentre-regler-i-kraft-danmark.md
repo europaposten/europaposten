@@ -29,6 +29,8 @@ sources:
   - HowTheyVote.eu: Afstemning om udsendelsesforordningen 17. juni 2026 (EP's roll-call) | https://howtheyvote.eu/votes/194134
   - Dansk Flygtningehjælp: EU's nye udsendelsesregler vedtaget (1. oktober 2026) | https://asyl.drc.ngo/nyheder/eu-s-nye-udsendelsesregler-vedtaget-sikker-og-vaerdig-tilbagevenden-sikres-ikke-gennem-sanktioner-og-tvang/
   - Rådet: Udkast til konklusioner, ST 11452/26 (14. oktober 2026), offentliggjort af Agence Europe | https://aeur.eu/f/nxh
+  - EUobserver: 16 EU states confirmed on board for plan to let countries close borders and freeze asylum (16. oktober 2026) | https://euobserver.com/243110/16-eu-states-confirmed-on-board-for-plan-to-let-countries-close-border-borders-and-freeze-asylum/
+  - POLITICO Europe: Denmark, Italy, Poland urge EU leaders to harden stance on irregular migration (16. oktober 2026) | https://www.politico.eu/article/denmark-italy-poland-push-eu-tougher-irregular-migration-crackdown/
   - Europaposten: EU vedtager nye udsendelsesregler (3. oktober 2026) | https://europaposten.dk/artikler/udrejsecentre-tilbagesendelsesforordning/
 ---
 
@@ -75,8 +77,20 @@ Dansk Flygtningehjælp kalder det [»meget bekymrende«](https://asyl.drc.ngo/ny
 
 Europa-Parlamentet godkendte forordningen 17. juni med 418 stemmer for, 218 imod og 30 hverken for eller imod. Ti af de 15 danske medlemmer stemte for: Christel Schaldemose, Niels Fuglsang og Marianne Vind (S), Stine Bosse (M), Morten Løkkegaard og Asger Christensen (V), Henrik Dahl (LA), Niels Flemming Hansen (K), Kristoffer Storm (DD) og Majbritt Birkholm (DF). Kira Marie Peter-Hansen, Rasmus Nordqvist og Villy Søvndal (SF), Sigrid Friis (R) og Per Clausen (EL) stemte imod, viser [afstemningslisten](https://howtheyvote.eu/votes/194134).
 
+## 16 lande bag plan om at lukke grænser og fryse asyl
+
+Ved morgenmødet fredag bakkede omkring 16 EU-lande varmt op om Kommissionens såkaldte europæiske nødberedskabsramme (European emergency response framework), [skriver EUobserver](https://euobserver.com/243110/16-eu-states-confirmed-on-board-for-plan-to-let-countries-close-border-borders-and-freeze-asylum/) med henvisning til en anonym EU-diplomat. Ifølge diplomaten var der blandt de 16 et klart ønske om at give medlemslandene mulighed for at lukke EU's grænser og midlertidigt og selektivt suspendere asylansøgninger. Kommissionens forslag kan ifølge EUobserver komme inden årets udgang. Ursula von der Leyen lancerede idéen i sin tale om Unionens tilstand i september, men hvad rammen præcist skal indeholde, er stadig uklart. Europaposten har ikke selv kunnet bekræfte, hvilke lande der støtter planen.
+
+## Udkast: Migration påvirker »kriminalitetsraterne negativt«
+
+Danmark, Italien og Polen presser samtidig på for en hårdere linje i topmødets konklusioner, [skriver POLITICO](https://www.politico.eu/article/denmark-italy-poland-push-eu-tougher-irregular-migration-crackdown/) med henvisning til tre EU-diplomater og et udkast, mediet har set. Ifølge POLITICO bakkes formuleringerne op af Giorgia Meloni, Mette Frederiksen og Polens premierminister, Donald Tusk. I udkastet står der, at migration »udgør en bekymring for mange europæiske borgere« og påvirker »kriminalitetsraterne negativt«. Det understreger også vigtigheden af »fuld kontrol med irregulære ankomster, herunder ved at undgå tiltag, der kan skabe incitamenter til ulovlig migration«, og beder Kommissionen undersøge en mulig konsultationsmekanisme for nationale tiltag, der kan påvirke andre medlemslande (Europapostens oversættelse).
+
+Ingen af formuleringerne nævner et land. En af diplomaterne siger til POLITICO, at det opdaterede udkast næppe får opbakning fra alle 27 ledere. Der er tale om et udkast, ikke vedtagne konklusioner.
+
 ## Næste skridt
 
-EU-lederne drøftede migration ved frokosten fredag. De endelige konklusioner var ikke offentliggjort, da denne artikel blev skrevet. I [udkastet fra 14. oktober](https://aeur.eu/f/nxh) glæder lederne sig over, at de irregulære grænsepassager er på det laveste niveau siden 2021, og opfordrer til at gøre »fuld brug af de nye EU-regler om tilbagesendelse« (Europapostens oversættelse). Europaposten har ikke fundet en udmelding fra regeringen om, hvornår den lægger op til en dansk beslutning. [Europaposten skrev om vedtagelsen i Rådet](/artikler/udrejsecentre-tilbagesendelsesforordning/) 3. oktober.
+EU-lederne drøftede migration ved frokosten fredag. De endelige konklusioner om migration var ikke offentliggjort på Det Europæiske Råds hjemmeside, da artiklen senest blev opdateret. I [udkastet fra 14. oktober](https://aeur.eu/f/nxh) glæder lederne sig over, at de irregulære grænsepassager er på det laveste niveau siden 2021, og opfordrer til at gøre »fuld brug af de nye EU-regler om tilbagesendelse« (Europapostens oversættelse). Europaposten har ikke fundet en udmelding fra regeringen om, hvornår den lægger op til en dansk beslutning. [Europaposten skrev om vedtagelsen i Rådet](/artikler/udrejsecentre-tilbagesendelsesforordning/) 3. oktober.
 
 *Opdateret fredag 16. oktober kl. 14.30: Artiklen er opdateret med Morten Bødskovs svar på § 20-spørgsmål S 364.*
+
+*Opdateret fredag 16. oktober kl. 16.20: Artiklen er opdateret med EUobservers oplysninger om, at omkring 16 lande støtter Kommissionens plan om en nødberedskabsramme, og med POLITICOs gengivelse af et udkast til topmødekonklusioner om migration.*
