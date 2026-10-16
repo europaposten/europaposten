@@ -1,7 +1,7 @@
 ---
 title: "EU's regler om udrejsecentre gælder fra i dag – men Danmark skal selv sige ja inden april"
 slug: udrejsecentre-regler-i-kraft-danmark
-date: 2026-10-16 14:13
+date: 2026-10-16 14:14
 section: migration
 type: Nyhed
 kicker: Migration
