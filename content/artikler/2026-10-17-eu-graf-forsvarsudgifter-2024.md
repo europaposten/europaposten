@@ -27,7 +27,7 @@ Fra 2020 til 2022 lå de danske forsvarsudgifter ifølge Eurostat stabilt på 1,
 
 Sverige ligger på 2,0 procent, Finland på 1,6. De baltiske lande og Polen trækker toppen op – en tydelig østlig forskel i EU-feltet.
 
-## Stor lande som Tyskland under snittet
+## Store lande som Tyskland under snittet
 
 Tyskland ligger på 1,4 procent (foreløbigt tal), Italien og Belgien på 1,3, Spanien på 0,9. Frankrig er tæt på Danmark med 1,9 procent (også foreløbigt). Belgien, Tyskland, Spanien, Frankrig, Portugal og Slovakiet er markeret som foreløbige tal i Eurostats 2024-udgave.
 
