@@ -1,7 +1,7 @@
 ---
 title: "Frederiksens hårde migrationslinje røg ud af topmødets konklusioner – kun to afsnit tilbage"
 slug: topmoede-migration-konklusioner-stroeget
-date: 2026-10-17 13:40
+date: 2026-10-17 12:53
 section: migration
 type: Nyhed
 kicker: Topmødet
