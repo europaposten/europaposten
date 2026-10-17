@@ -2,6 +2,7 @@
 title: "Topmødeudkast: Kommissionen skal skærme EU-firmaer, der arbejder for straffedomstolen"
 slug: topmoede-icc-sanktioner-eu-firmaer
 date: 2026-10-15 06:17
+updated: 2026-10-17 06:40
 section: politik
 type: Nyhed
 kicker: Straffedomstolen
@@ -17,6 +18,7 @@ illustration_license_url: https://creativecommons.org/licenses/by/2.0/
 illustration_source: https://commons.wikimedia.org/wiki/File:The_International_Criminal_Court_(ICC)_at_The_Hague_(53877987960).jpg
 illustration_credit: Foto: Tony Webster via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:The_International_Criminal_Court_(ICC)_at_The_Hague_(53877987960).jpg), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/). Nedskaleret af Europaposten.
 sources:
+  - Det Europæiske Råd: Endelige konklusioner, EUCO 14/26 (16. oktober 2026), punkt 77–78 | https://www.consilium.europa.eu/media/4tglqede/en-20261016-european-council-conclusions.pdf
   - Rådet: Udkast til konklusioner, ST 11452/26 (14. oktober 2026), punkt 81–82, offentliggjort af Agence Europe | https://aeur.eu/f/nxh
   - Rådet: Udkast til konklusioner, ST 11450/26 (9. oktober 2026), offentliggjort af Agence Europe | https://aeur.eu/f/nv5
   - OFAC: General License No. 13, International Criminal Court (9. oktober 2026) | https://ofac.treasury.gov/media/937186/download?inline=
@@ -28,6 +30,8 @@ sources:
   - Rådets forordning (EF) nr. 2271/96 (blokeringsforordningen), konsolideret | https://eur-lex.europa.eu/legal-content/DA/TXT/?uri=CELEX:01996R2271-20180807
   - Europaposten: USA's sanktioner mod straffedomstolen bider fra april (12. oktober 2026) | https://europaposten.dk/artikler/icc-sanktioner-usa-eu-blokering/
 ---
+
+**Opdatering 17. oktober:** Topmødet vedtog fredag afsnittet i de [endelige konklusioner](https://www.consilium.europa.eu/media/4tglqede/en-20261016-european-council-conclusions.pdf) (punkt 77–78). Kommissionen bliver fortsat bedt om at tage »alle passende initiativer« for at beskytte domstolen, »specifikt over for EU-virksomheder«. Lederne noterer desuden, at USA har udskudt den fulde virkning af sanktionerne og er klar til at drøfte sine bekymringer med landene bag domstolen, og at det »skaber plads til diplomati« (Europapostens oversættelse). Blokeringsforordningen nævnes ikke, men lederne gentager, at EU er klar til at træffe »alle nødvendige foranstaltninger«. Udenrigsministeriet har fortsat ikke svaret på Europapostens spørgsmål.
 
 EU's stats- og regeringschefer vil ifølge udkastet til topmødets konklusioner bede Kommissionen om at hjælpe de europæiske virksomheder, der arbejder for Den Internationale Straffedomstol (ICC) i Haag, efter at USA har sat hele domstolen på sin sanktionsliste.
 
