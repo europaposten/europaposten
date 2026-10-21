@@ -1,7 +1,7 @@
 ---
 title: "Færre cookiebannere, men ikke farvel: Rådet dropper browserløsning, som regeringen advarede imod"
 slug: digital-omnibus-cookiebannere-raadet
-date: 2026-10-21 21:20
+date: 2026-10-21 20:48
 section: oekonomi
 type: Nyhed
 kicker: Digitale regler
