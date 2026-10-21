@@ -1,7 +1,7 @@
 ---
 title: "EU-graf: København er nr. 27 af 30 hovedstæder på prisen for kollektiv trafik"
 slug: eu-graf-greenpeace-billetpriser-hovedstaeder
-date: 2026-10-21 15:40
+date: 2026-10-21 15:08
 section: klima-miljoe
 type: Analyse
 kicker: EU i tal
