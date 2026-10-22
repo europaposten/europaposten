@@ -4,6 +4,7 @@ slug: frankrig-tyskland-bilaftale-2035-danmark
 date: 2026-10-16 17:55
 section: klima-miljoe
 type: Nyhed
+sag: klimaregler
 kicker: CO2-krav til biler
 author: Europaposten-redaktionen
 summary: Frankrig og Tyskland vil lempe EU's CO2-krav til nye biler mere end Kommissionen, så de sidste ti procent af udledningen ikke skal opvejes. Det er præcis det modsatte af, hvad regeringen fik mandat til i Europaudvalget for en uge siden. I juni stod Frankrig sammen med Danmark og fem andre lande, som tilsammen kunne blokere. Uden Frankrig kan de seks andre lande ikke længere blokere alene.
