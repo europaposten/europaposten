@@ -1,7 +1,7 @@
 ---
 title: "EU-graf: Danmark har EU's næststørste overskud – men det skrumpede med 33 milliarder"
 slug: eu-graf-offentlig-saldo-2025
-date: 2026-10-22 11:45
+date: 2026-10-22 11:30
 section: oekonomi
 type: Analyse
 kicker: EU i tal
