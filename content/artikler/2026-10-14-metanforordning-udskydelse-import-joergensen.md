@@ -4,6 +4,7 @@ slug: metanforordning-udskydelse-import-joergensen
 date: 2026-10-14 21:15
 section: klima-miljoe
 type: Nyhed
+sag: klimaregler
 kicker: Energi
 author: Europaposten-redaktionen
 summary: Europa-Kommissionen foreslår at udskyde EU's krav om metandokumentation for importeret olie, gas og kul med et år. Kravet skulle have gjaldt fra 1. januar 2027. Forslaget kommer fra den danske energikommissær Dan Jørgensen, mens Danmark er et af de lande, der allerede har bøderegler for netop de krav. Industrien vil have tre år, og flere EU-lande ventes at tage sagen op på topmødet, der begynder i morgen.
