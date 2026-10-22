@@ -1,7 +1,7 @@
 ---
 title: "Parlamentet giver Sakharovprisen til straffedomstolen, som USA har sanktioneret – regeringen tier stadig om EU's skjold"
 slug: sakharovprisen-straffedomstolen-icc
-date: 2026-10-22 12:49
+date: 2026-10-22 12:50
 section: politik
 type: Nyhed
 kicker: Straffedomstolen
@@ -29,7 +29,7 @@ sources:
   - OFAC: General License No. 13, International Criminal Court (9.10.2026) | https://ofac.treasury.gov/media/937186/download?inline=
   - Fælles erklæring fra udenrigsministrene i Canada, Danmark, Tyskland, Frankrig, Italien, Japan, Nederlandene og Storbritannien (9.10.2026) | https://www.gov.uk/government/news/joint-statement-on-support-for-the-international-criminal-court
   - Rådets forordning (EF) nr. 2271/96 (blokeringsforordningen), konsolideret | https://eur-lex.europa.eu/legal-content/DA/TXT/?uri=CELEX:01996R2271-20180807
-  - Europaposten-mail til Udenrigsministeriets pressevagt, 12.10.2026 (intet svar pr. 22.10.2026 kl. 13)
+  - Europaposten-mail til Udenrigsministeriets pressevagt, 12.10.2026 (intet svar pr. 22.10.2026 kl. 12.50)
   - Europaposten: Topmødeudkast – Kommissionen skal skærme EU-firmaer, der arbejder for straffedomstolen (15.10.2026, opdateret 17.10.2026) | https://europaposten.dk/artikler/topmoede-icc-sanktioner-eu-firmaer/
   - Europaposten: USA's sanktioner mod straffedomstolen bider fra april (12.10.2026) | https://europaposten.dk/artikler/icc-sanktioner-usa-eu-blokering/
 ---
@@ -67,6 +67,6 @@ Udenrigsminister Lars Løkke Rasmussen (M) var 9. oktober med i en [fælles erkl
 
 Da EU's stats- og regeringschefer, herunder statsminister Mette Frederiksen (S), mødtes til topmøde 15.–16. oktober, bad de i [konklusionerne](https://www.consilium.europa.eu/media/4tglqede/en-20261016-european-council-conclusions.pdf) Kommissionen tage »alle passende initiativer« for at beskytte domstolen, »specifikt over for EU-virksomheder«. Blokeringsforordningen blev ikke nævnt, [som Europaposten har beskrevet](/artikler/topmoede-icc-sanktioner-eu-firmaer/).
 
-Europaposten spurgte 12. oktober Udenrigsministeriets pressevagt, om regeringen støtter at bruge blokeringsforordningen. Ministeriet har ti dage senere ikke svaret. Ingen af de danske medlemmer af Parlamentet havde torsdag kl. 13 kommenteret prisen på X.
+Europaposten spurgte 12. oktober Udenrigsministeriets pressevagt, om regeringen støtter at bruge blokeringsforordningen. Ministeriet har ti dage senere ikke svaret. Ingen af de danske medlemmer af Parlamentet havde torsdag ved udgivelsen kl. 12.50 kommenteret prisen på X.
 
 **Næste skridt:** Prisen overrækkes ved Parlamentets plenarmøde i Strasbourg i december. Samme måned holder landene bag domstolen deres årlige forsamling, og den amerikanske tilladelse til domstolens drift udløber 7. april 2027.
