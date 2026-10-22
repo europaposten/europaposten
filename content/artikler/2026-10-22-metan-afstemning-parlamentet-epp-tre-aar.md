@@ -2,6 +2,7 @@
 title: "I dag stemmer Parlamentet om EU's metanregler – EPP vil udskyde dem tre år i stedet for ét"
 slug: metan-afstemning-parlamentet-epp-tre-aar
 date: 2026-10-22 06:24
+updated: 2026-10-22 17:49
 section: klima-miljoe
 type: Nyhed
 sag: klimaregler
@@ -82,3 +83,5 @@ ETS2 skal sætte en pris på CO2 fra benzin, diesel og naturgas til opvarmning f
 Regeringen vil ikke have ETS2 genåbnet. Det skrev den i sit [samlenotat](https://www.eu.dk/samling/20252/raadsmoede/591298/bilag/2/3194573.pdf) til Folketingets Europaudvalg før miljøministrenes møde om kvotehandlen i oktober, [som Europaposten har beskrevet](https://europaposten.dk/artikler/kvotehandel-ets-revision-forklaret/).
 
 **Næste skridt:** Afstemningen om metanreglerne begynder klokken 12. Europaposten følger op på resultatet og på, hvordan de danske medlemmer stemte.
+
+**Opdatering kl. 17.49:** Parlamentet vedtog tre års udskydelse. [Læs, hvordan de danske medlemmer stemte](https://europaposten.dk/artikler/metan-tre-aar-parlamentet-danske-mep/).
