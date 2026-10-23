@@ -1,12 +1,12 @@
 ---
-title: "Coca-Cola, Nestlé og Danone dropper »genanvend mig igen« på plastflaskerne efter EU-dialog"
+title: "Danske Coca-Cola-flasker skal have ny tekst: »100 % genanvendt« gælder ikke låg og etiket"
 slug: flaskeetiketter-coca-cola-nestle-danone
 date: 2026-10-23 13:05
 section: klima-miljoe
 type: Nyhed
 kicker: Forbruger
 author: Europaposten-redaktionen
-summary: De tre store drikkevareselskaber har lovet Europa-Kommissionen og de nationale forbrugermyndigheder at gøre deres genanvendelsesudsagn på plastflasker mere præcise i hele EU og EØS, også i Danmark. Låg og etiket skal undtages tydeligt, og »igen« forsvinder. Til gengæld nævner løfterne ikke udsagnet »100 % genanvendelig«, som forbrugerorganisationerne også klagede over.
+summary: Coca-Cola, Fanta, Sprite og Kildevæld tappes på Carlsbergs bryggeri i Fredericia i flasker af 100 % genanvendt plast. Efter en EU-dialog skal genanvendelsesudsagnene på flaskerne nu gøres mere præcise i hele EØS, også i danske butikker. Danmark er et af de få lande, hvor »genanvend mig igen« faktisk passer for de fleste flasker. 92 % kommer retur, og næsten alt bliver til nye flasker og dåser.
 featured: nej
 draft: nej
 illustration: pet-flasker-baller-2019.jpg
@@ -32,18 +32,55 @@ sources:
   - Bryggeriforeningen, Returprocenter | https://bryggeriforeningen.dk/tal/miljoeogemballage/returprocenter/
   - Europa-Kommissionen, New EU rules on packaging set to enter into application (11.8.2026) | https://environment.ec.europa.eu/news/new-eu-rules-packaging-set-enter-application-2026-08-11_en
   - Forordning (EU) 2025/40 om emballage og emballageaffald, art. 7 | https://eur-lex.europa.eu/eli/reg/2025/40/oj
+  - Carlsberg Danmark, Carlsberg Danmark og Coca-Cola konverterer til 100% genanvendt plast (11.3.2020) | https://carlsbergdanmark.dk/newsroom/carlsberg-danmark-og-coca-cola-konverterer-til-100-genanvendt-plast-rundt-om-store-daaseforpakninger/
+  - Plastforum, Coca-Cola Danmark opskalerer til 100 procent rPET (2022) | https://www.plastforum.dk/article/view/828879/cocacola_danmark_opskalerer_til_100_procent_rpet
+  - Dansk Retursystem, Årsrapport 2025 | https://regnskaber.cvrapi.dk/04169452/amNsb3VkczovLzAzLzA0L2U0Lzc3LzgxL2ViNGUtNGYwYS1iMGI1LTY1NzY0YzVkZjE1Nw.pdf
+  - Dansk Retursystem, Flaske-til-flaske genanvendelse | https://danskretursystem.dk/klima-og-miljoe/flaske-til-flaske/
+  - Forbrugerombudsmanden, Virksomheders miljømarkedsføring – anbefalinger (2024) | https://forbrugerombudsmanden.dk/media/e4bdf1uo/historisk-20241024-virksomheders-miljoemarkedsfoering-forbrugerombudsmanden-anbefalinger.pdf
+  - Forbrugerombudsmanden, Indskærpelse: drikkevand på flaske markedsført med »genbrugsplast« | https://forbrugerombudsmanden.dk/find-sager/sager/markedsfoeringsloven/indskaerpelse-af-vildledningsforbuddet-for-markedsfoering-af-drikkevand-paa-flaske-med-miljoeudsagn-om-at-emballagen-bestod-af-genbrugsplast
+  - Forbrugerombudsmanden, Indskærpelse: drikkevand på karton markedsført som »100% genanvendelig« | https://forbrugerombudsmanden.dk/find-sager/sager/markedsfoeringsloven/sager-efter-markedsfoeringsloven/miljoeogetik/indskaerpelse-af-vildledningsforbuddet-for-brug-af-miljoeudsagn
+  - BEUC, Danone, Nestlé and Coca-Cola commit to address greenwashing (22.10.2026) | https://www.beuc.eu/press-releases/danone-nestle-and-coca-cola-commit-address-greenwashing-response-beuc-complaint
 ---
 
-Coca-Cola, Nestlé og Danone skal ændre de genanvendelsesudsagn, der står på deres plastflasker i hele EU og EØS. Det har de tre selskaber lovet efter en dialog med Europa-Kommissionen og netværket af nationale forbrugermyndigheder, [oplyser Kommissionen](https://ec.europa.eu/commission/presscorner/detail/en/IP_26_2238). Et udsagn som »Jeg er en flaske af 100 % genanvendt plast« skal fremover tydeligt undtage låg og etiket, og opfordringen »Recycle me again« (genanvend mig igen) bliver til »Recycle me« uden »igen« (Europapostens oversættelse).
+Når danskerne køber en halvliter Coca-Cola, Fanta, Sprite eller Kildevæld, er flasken tappet på Carlsbergs bryggeri i Fredericia og lavet af 100 % genanvendt plast. Det har den været siden 2022, [oplyste Coca-Cola Danmark](https://www.plastforum.dk/article/view/828879/cocacola_danmark_opskalerer_til_100_procent_rpet) ved omlægningen. Men »100 %« gælder kun selve flasken. Låget og etiketten er ikke genanvendt plast, og det skal nu stå tydeligt på flaskerne i hele EU og EØS, også i Danmark.
 
-Sagen begyndte med en klage fra den europæiske forbrugerorganisation BEUC og forbrugerorganisationer fra 13 lande i november 2023. De mente, at selskabernes udsagn om genanvendelse var vildledende. Den danske forbrugerorganisation, Forbrugerrådet Tænk, står ikke på [BEUC's liste over deltagerne](https://www.beuc.eu/press-releases/consumer-groups-launch-eu-wide-complaint-against-major-water-bottle-producers), men løfterne gælder for flasker, der sælges i hele EØS, og dermed også i Danmark.
+Det har Coca-Cola, Nestlé Waters og Danone lovet efter en dialog med Europa-Kommissionen og de nationale forbrugermyndigheder, [oplyser Kommissionen](https://ec.europa.eu/commission/presscorner/detail/en/IP_26_2238). Et udsagn som »Jeg er en flaske af 100 % genanvendt plast« skal fremover have tilføjelsen »undtagen låg og etiket« i samme skriftstørrelse lige ved siden af. Opfordringen »Recycle me again« (genanvend mig igen) bliver til »Recycle me« (Europapostens oversættelse).
 
 :::fakta Det ved vi – og det ved vi ikke
 - **Vi ved:** Coca-Cola, Nestlé Waters og Danone har lovet nye formuleringer på plastflasker i hele EØS, og de har op til 18 måneder til at skifte etiketterne.
+- **Vi ved:** Coca-Colas danske halvliterflasker er tappet i Fredericia og lavet af 100 % genanvendt plast, låg og etiket undtaget.
 - **Vi ved:** Løfterne er frivillige, og ingen af selskaberne erkender, at de har brudt loven.
 - **Vi ved ikke:** Europaposten har ikke undersøgt, hvilke formuleringer der i dag står på flaskerne i danske butikker.
 - **Vi ved ikke:** Løfterne nævner ikke udsagnet »100 % genanvendelig«, og Kommissionen har ikke oplyst, om det fortsat må bruges.
 :::
+
+## Danmark er undtagelsen, hvor »igen« passer
+
+Ordet »igen« fjernes, fordi det giver indtryk af, at flasken bliver til en ny flaske. I EU som helhed bliver kun omkring 55 % af PET-flaskerne genanvendt, og chancen for, at en flaske bliver til en ny flaske, er omkring 30 %, [anslår den europæiske forbrugerorganisation BEUC](https://www.beuc.eu/press-releases/danone-nestle-and-coca-cola-commit-address-greenwashing-response-beuc-complaint).
+
+I Danmark ser billedet helt anderledes ud. 92 % af de pantbelagte plastflasker kom retur i 2025, og tæt på 100 % af de indsamlede flasker og dåser blev genanvendt til nye flasker og dåser, fremgår det af [Dansk Retursystems årsrapport for 2025](https://regnskaber.cvrapi.dk/04169452/amNsb3VkczovLzAzLzA0L2U0Lzc3LzgxL2ViNGUtNGYwYS1iMGI1LTY1NzY0YzVkZjE1Nw.pdf). Ifølge [Dansk Retursystems egen opgørelse](https://danskretursystem.dk/klima-og-miljoe/flaske-til-flaske/) gælder det dog ikke låg og etiketter, som er af andre plasttyper (PP og PE) og ikke bliver til nye flasker. Selve flaskerne er langt overvejende PET.
+
+Løfterne gælder alligevel ens i hele EØS. En dansk flaske må altså heller ikke love at blive genanvendt »igen«, selv om det for de fleste pantflasker herhjemme er tæt på sandheden. Flaskerne må stadig opfordre til at aflevere dem.
+
+## Forbrugerombudsmanden har været her før
+
+De danske regler stiller allerede lignende krav. I [Forbrugerombudsmandens anbefalinger om miljømarkedsføring fra 2024](https://forbrugerombudsmanden.dk/media/e4bdf1uo/historisk-20241024-virksomheders-miljoemarkedsfoering-forbrugerombudsmanden-anbefalinger.pdf) står der, at et produkt kun må kaldes »genanvendt«, hvis det er lavet af mindst 95 % genanvendt materiale, og at det skal være plast fra forbrugeraffald.
+
+Forbrugerombudsmanden har også grebet ind over for flasker. I 2023 fik en virksomhed en indskærpelse for at sælge [drikkevand med påskriften »100 % genbrugsplast«](https://forbrugerombudsmanden.dk/find-sager/sager/markedsfoeringsloven/indskaerpelse-af-vildledningsforbuddet-for-markedsfoering-af-drikkevand-paa-flaske-med-miljoeudsagn-om-at-emballagen-bestod-af-genbrugsplast), fordi flasken var omsmeltet, genanvendt plast og ikke skyllet og genbrugt. Virksomheden måtte heller ikke sammenligne med flasker af helt ny plast, fordi en stor del af flaskerne på det danske marked indgår i retursystemet. Ifølge anbefalingerne var det også vildledende at markedsføre en sodavandsflaske som »100 pct. genanvendelig flaske« med billeder af natur, fordi alle flasker i retursystemet er genanvendelige. Og en producent af [vand i karton](https://forbrugerombudsmanden.dk/find-sager/sager/markedsfoeringsloven/sager-efter-markedsfoeringsloven/miljoeogetik/indskaerpelse-af-vildledningsforbuddet-for-brug-af-miljoeudsagn) kunne ikke dokumentere, at kartonen var »100% genanvendelig«, da langt fra alle kommuner kunne genanvende den.
+
+Udsagnet »100 % genanvendelig« er netop det, som EU-løfterne ikke nævner. I Danmark har Forbrugerombudsmanden altså allerede vist, at udsagnet kan være vildledende, når alle konkurrenternes flasker også kan genanvendes.
+
+## Nye danske regler fra 27. september
+
+Siden 27. september 2026 har [den ændrede markedsføringslov](https://www.retsinformation.dk/eli/lta/2025/558) desuden en liste over miljøudsagn, der altid er vildledende. Ifølge [Forbrugerombudsmanden](https://forbrugerombudsmanden.dk/pressemeddelelser/2026/20260701-nye-regler-om-miljoemarkedsfoering-fra-september-2026-forbrugerombudsmanden-reviderer-anbefalinger-til-virksomheders-markedsfoering) gælder det bl.a. et miljøudsagn om hele produktet, når det kun vedrører en del af det, og at fremhæve krav, som loven stiller til alle produkter i kategorien, som noget særligt. Reglerne gælder også for emballage, der er produceret før 27. september. Det er Forbrugerombudsmanden, der i Danmark skal holde øje med, at selskaberne lever op til løfterne.
+
+Europaposten har ikke selv undersøgt, hvilke formuleringer der står på flaskerne i danske butikker i dag. Coca-Cola har ifølge Kommissionen allerede ændret dele af sin digitale markedsføring. Etiketterne skal skiftes, når de nuværende er brugt op, og senest 18 måneder efter, at tilsagnet er accepteret. Det betyder, at danske forbrugere i en periode kan møde både gamle og nye etiketter på hylden.
+
+Pantflaskerne er en dansk succes, men det gælder ikke plastemballage generelt. Her ligger Danmark i bund i EU, viste Eurostats tal, som Europaposten skrev om i [første del af serien Plast-taberen](/artikler/plastemballage-danmark-sidst-eu-del1/).
+
+## Klagen kom fra 13 lande, men ikke fra Danmark
+
+Sagen begyndte med en klage fra BEUC og forbrugerorganisationer fra 13 lande i november 2023. Den danske forbrugerorganisation, Forbrugerrådet Tænk, står ikke på [BEUC's liste over deltagerne](https://www.beuc.eu/press-releases/consumer-groups-launch-eu-wide-complaint-against-major-water-bottle-producers). Hverken Forbrugerrådet Tænk, Dansk Retursystem eller Bryggeriforeningen har ved deadline udtalt sig offentligt om løfterne.
 
 ## Det skal ændres
 
@@ -63,16 +100,6 @@ Det er ikke en bøde, og det er ikke Kommissionen alene, der har afgjort sagen. 
 Ifølge [Kommissionens oversigt over sagen](https://commission.europa.eu/topics/consumers/consumer-rights-and-complaints/enforcement-consumer-protection/coordinated-actions/sustainable-consumption-actions_en) henvendte Coca-Cola og Nestlé Waters sig selv efter klagen, mens Kommissionen og myndighederne tog en dialog med Danone. Coca-Colas dialog blev afsluttet i juni 2025 og Nestlés i februar 2026, mens Danones tilsagn først er offentliggjort nu.
 
 Selskaberne skal skifte etiketterne, når de eksisterende etiketter er brugt op, og senest 18 måneder efter, at tilsagnene er accepteret. Ifølge Kommissionen har Coca-Cola og Nestlé allerede gennemført dele af løfterne, især i den digitale markedsføring. Alle tre understreger i deres tilsagn, at løfterne ikke er en indrømmelse af, at de har overtrådt EU's forbrugerregler.
-
-## Hvad betyder det i Danmark?
-
-De nationale forbrugermyndigheder skal nu holde øje med, at løfterne bliver overholdt, og de kan gribe ind, hvis selskaberne ikke lever op til dem. I Danmark håndhæves reglerne om vildledende markedsføring af Forbrugerombudsmanden.
-
-Sagen kommer kort tid efter, at de danske regler om grøn markedsføring er blevet strammet. Den 27. september 2026 trådte [ændringen af markedsføringsloven](https://www.retsinformation.dk/eli/lta/2025/558) i kraft, som gennemfører [EU's direktiv om forbrugernes rolle i den grønne omstilling](https://eur-lex.europa.eu/eli/dir/2024/825/oj). Ifølge [Forbrugerombudsmanden](https://forbrugerombudsmanden.dk/pressemeddelelser/2026/20260701-nye-regler-om-miljoemarkedsfoering-fra-september-2026-forbrugerombudsmanden-reviderer-anbefalinger-til-virksomheders-markedsfoering) er det nu altid vildledende at bruge generelle udsagn som »miljøvenlig« eller »grøn« uden en anerkendt fremragende miljøpræstation, fx et EU-miljømærke eller Svanemærket.
-
-Der er også en dansk særlig omstændighed ved udsagnet om at blive genanvendt »igen«. I det danske pantsystem kom 92 procent af de pantbelagte plastflasker retur i 2025, [viser Bryggeriforeningens opgørelse](https://bryggeriforeningen.dk/tal/miljoeogemballage/returprocenter/), og ifølge [Miljøstyrelsen](https://mst.dk/erhverv/groen-produktion-og-affald/producentansvar/pant-og-retursystem) bliver næsten alle de emballager, der kommer retur, genanvendt til nye flasker og dåser i et lukket kredsløb. I EU som helhed bliver kun omkring 55 procent af PET-flaskerne genanvendt, og chancen for, at en flaske bliver til en ny flaske, er omkring 30 procent, anslog BEUC i sin klage. Løfterne gælder alligevel ens i hele EØS, også hvor pantsystemet gør »igen« mere realistisk.
-
-Danmark ligger til gengæld i bund, når det gælder genanvendelse af plastemballage generelt. Det viste Eurostats tal, som Europaposten skrev om i [første del af serien Plast-taberen](/artikler/plastemballage-danmark-sidst-eu-del1/).
 
 ## Forbrugerorganisationerne: Kun delvist
 
