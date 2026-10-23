@@ -1,7 +1,7 @@
 ---
 title: "Parlamentet vil give Erasmus+ 47 mia. euro – tre danskere stemte imod"
 slug: erasmus-2028-parlamentet-danske-mep
-date: 2026-10-23 07:30
+date: 2026-10-23 06:20
 section: politik
 type: Nyhed
 kicker: Hvem stemte hvordan
