@@ -45,4 +45,4 @@ På listen står bl.a. landsbyen Schengen i Luxembourg, Maastricht-traktaten i H
 
 Danmark deltager ellers i ordningen. Ifølge [Kommissionens oversigt](https://culture.ec.europa.eu/cultural-heritage/initiatives-and-success-stories/european-heritage-label/national-coordinators) er Slots- og Kulturstyrelsen national koordinator og kontaktpunkt. Det er de deltagende lande, der forhåndsudvælger kandidater, før et europæisk ekspertpanel vurderer dem.
 
-Europaposten har ikke kunnet finde offentlige oplysninger på Slots- og Kulturstyrelsens hjemmeside om, at Danmark har forhåndsudvalgt eller indstillet danske steder. Europaposten spørger styrelsen, om Danmark har forhåndsudvalgt steder, og hvorfor ingen danske steder har fået mærket. Vi bringer svaret, når det kommer.
+Europaposten har ikke kunnet finde offentlige oplysninger på Slots- og Kulturstyrelsens hjemmeside om, at Danmark har forhåndsudvalgt eller indstillet danske steder. Europaposten spurgte 23. oktober styrelsen, om Danmark har forhåndsudvalgt steder, og hvorfor ingen danske steder har fået mærket. Vi afventer svar, og artiklen bliver opdateret, når det kommer.
