@@ -1,7 +1,7 @@
 ---
 title: "Ny EU-rapport: Europa skal holde op med kun at tåle hybride angreb og begynde at slå igen"
 slug: hybrid-rapport-afskraekkelse-gengaeldelse
-date: 2026-10-23 18:00
+date: 2026-10-23 17:45
 section: forsvar
 type: Nyhed
 kicker: Forsvar
