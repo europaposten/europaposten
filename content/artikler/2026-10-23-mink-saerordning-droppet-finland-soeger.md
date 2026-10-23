@@ -1,7 +1,7 @@
 ---
 title: "Regeringen dropper EU-særordning for mink – mens Finland søger om at fortsætte på 134 farme"
 slug: mink-saerordning-droppet-finland-soeger
-date: 2026-10-23 10:10
+date: 2026-10-23 09:45
 section: politik
 type: Nyhed
 kicker: Dyrevelfærd
