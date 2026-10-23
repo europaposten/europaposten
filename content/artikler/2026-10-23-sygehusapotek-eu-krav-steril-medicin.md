@@ -1,7 +1,7 @@
 ---
 title: "Sygehusapotekerne lever ikke op til EU's krav til steril medicin – løsning kan først komme i 2028-forhandlingerne"
 slug: sygehusapotek-eu-krav-steril-medicin
-date: 2026-10-23 07:45
+date: 2026-10-23 06:21
 section: politik
 type: Ministersvar
 kicker: Medicinberedskab

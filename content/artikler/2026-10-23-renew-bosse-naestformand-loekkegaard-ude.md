@@ -1,7 +1,7 @@
 ---
 title: "Stine Bosse ind i toppen af Renew – Løkkegaard ude efter næsten ti år i gruppens ledelse"
 slug: renew-bosse-naestformand-loekkegaard-ude
-date: 2026-10-23 08:00
+date: 2026-10-23 06:22
 section: politik
 type: Nyhed
 kicker: Europa-Parlamentet
