@@ -1,7 +1,7 @@
 ---
 title: "EU-aftale om CO2-kvoter: Reserven må vokse til 700 mio., før kvoter slettes"
 slug: ets-kvotereserve-700-mio-sletning-aftale
-date: 2026-10-24 10:05
+date: 2026-10-24 09:45
 section: klima-miljoe
 type: Nyhed
 sag: klimaregler
