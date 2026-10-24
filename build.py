@@ -358,6 +358,7 @@ def layout(site, sections, root, title, content, description=None, active=None, 
     nav = "".join(
         f'<li><a href="{root}sektion/{slug}/"{cur if slug == active else ""}>{esc(name)}</a></li>'
         for slug, name in sections.items())
+    nav += f'<li><a href="{root}type/ministersvar/"{cur if active == "type-ministersvar" else ""}>Ministersvar</a></li>'
     page_title = f"{title} | {site['navn']}" if title != site["navn"] else f"{site['navn']} – {site['undertitel']}"
     return f"""<!doctype html>
 <html lang="{site.get('sprog', 'da')}">
@@ -814,7 +815,7 @@ def build():
     for t, name in ARTIKELTYPER.items():
         ta = [a for a in arts if a.type == t]
         write(OUT / "type" / t / "index.html",
-              render_list(site, sections, "../../", name, TYPE_BESKRIVELSE[t], ta))
+              render_list(site, sections, "../../", name, TYPE_BESKRIVELSE[t], ta, active=f"type-{t}"))
     write(OUT / "emner" / "index.html", render_topics(site, sections, arts))
     for sg in SAGER:
         write(OUT / "sag" / sg / "index.html", render_sag(site, sections, sg, arts))
