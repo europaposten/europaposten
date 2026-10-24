@@ -1,7 +1,7 @@
 ---
 title: "EU-forslag kan tvinge Danmark til mere end at halvere elafgiften – men de fleste lande vil have reglen ud"
 slug: elafgift-gas-eu-forslag-halvering
-date: 2026-10-24 09:20
+date: 2026-10-24 06:18
 section: oekonomi
 type: Nyhed
 kicker: Elafgift

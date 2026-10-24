@@ -1,7 +1,7 @@
 ---
 title: "EU-Domstolen: Danmark har indre vandveje – og skal betale over 150.000 kr. om dagen, hvis reglerne ikke er på plads i april"
 slug: eu-domstolen-danmark-indre-vandveje-dagboede
-date: 2026-10-24 09:40
+date: 2026-10-24 06:17
 section: politik
 type: Forklaring
 kicker: EU-Domstolen
