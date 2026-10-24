@@ -9,7 +9,7 @@ author: Europaposten-redaktionen
 summary: Danmark har sagt siden 2021, at landet ikke har indre vandveje. EU-Domstolen afviste det 15. oktober. Er skipperreglerne ikke på plads om seks måneder, koster det 20.542,80 euro om dagen, godt 150.000 kr.
 draft: nej
 relateret: eu-domstolen-danmark-indre-vandveje-dagboede
-illustration: 2026-10-24-indre-vandvej.jpg
+illustration: 2026-10-24-indre-vandvej-v2.jpg
 illustration_alt: Satirisk tegning. En ansigtsløs embedsmand i jakkesæt ror en lille træbåd med Dannebrog ned ad en smal å. Et skilt på bredden siger »INDRE VANDVEJ«. Fra en stor domstolsbygning med EU-flag på taget rækker en arm i dommerkappe et kæmpe rødt stempel ud over båden. Ved siden af båden flyder et taxameter på en bøje, der viser »€ 20.542,80 / DAG«.
 illustration_credit: Tegning: Europaposten (AI-genereret satire)
 ---
