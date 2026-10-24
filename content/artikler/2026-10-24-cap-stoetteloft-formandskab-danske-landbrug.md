@@ -1,7 +1,7 @@
 ---
 title: "Formandskabet vil tredoble loftet over landbrugsstøtten – og først skære ved 745.000 kroner"
 slug: cap-stoetteloft-formandskab-danske-landbrug
-date: 2026-10-24 09:00
+date: 2026-10-24 06:19
 section: oekonomi
 type: Nyhed
 sag: eu-budget

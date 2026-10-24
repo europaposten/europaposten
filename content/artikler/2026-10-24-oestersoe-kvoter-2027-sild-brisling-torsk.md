@@ -1,7 +1,7 @@
 ---
 title: "Mandag fastsætter EU-ministrene Østersø-kvoterne: Meget mere sild og brisling, men næsten ingen torsk"
 slug: oestersoe-kvoter-2027-sild-brisling-torsk
-date: 2026-10-24 08:40
+date: 2026-10-24 06:20
 section: klima-miljoe
 type: Nyhed
 kicker: Østersøen
