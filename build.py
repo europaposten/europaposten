@@ -55,7 +55,7 @@ def load_config():
 ARTIKELTYPER = {
     "nyhed": "Nyhed", "analyse": "Analyse", "forklaring": "Forklaring",
     "faktatjek": "Faktatjek", "ministersvar": "Ministersvar", "long-read": "Long read",
-    "dagens-tegning": "Dagens tegning",
+    "dagens-tegning": "Dagens tegning", "ugen-i-eu": "Ugen i EU",
 }
 # Sager: løbende historier med egen side på /sag/<slug>/. Artikler knyttes til med 'sag: slug, slug' i front matter.
 SAGER = {
@@ -73,6 +73,7 @@ TYPE_BESKRIVELSE = {
     "faktatjek": "Faktatjek efterprøver konkrete påstande om EU mod primærkilderne.",
     "ministersvar": "Ministres svar til Folketinget om EU-sager – læst og forklaret med link til svaret på ft.dk.",
     "long-read": "Længere, gennemresearchede artikler om de store EU-sager.",
+    "ugen-i-eu": "Ugen i EU er søndagens overblik over den kommende uges ministermøder, topmøder, afstemninger og danske EU-sager – med link til Rådets, Parlamentets og Folketingets egne sider.",
     "dagens-tegning": "Dagens satiriske tegning om en aktuel EU-sag – med kort kommentar og link til artiklen bag. Tegningerne viser aldrig genkendelige virkelige personer.",
 }
 
@@ -358,6 +359,7 @@ def layout(site, sections, root, title, content, description=None, active=None, 
     nav = "".join(
         f'<li><a href="{root}sektion/{slug}/"{cur if slug == active else ""}>{esc(name)}</a></li>'
         for slug, name in sections.items())
+    nav += f'<li><a href="{root}type/ugen-i-eu/"{cur if active == "type-ugen-i-eu" else ""}>Ugen i EU</a></li>'
     nav += f'<li><a href="{root}type/ministersvar/"{cur if active == "type-ministersvar" else ""}>Ministersvar</a></li>'
     page_title = f"{title} | {site['navn']}" if title != site["navn"] else f"{site['navn']} – {site['undertitel']}"
     return f"""<!doctype html>
