@@ -41,4 +41,4 @@ Den løsning, flest støtter, er et tættere forhold til EU uden medlemskab, ind
 
 ## Konklusion
 
-Bosse har ret i, at et klart flertal af briterne fortryder Brexit. Målingerne understøtter ikke, at de savner »alt«. Undtagelserne betyder noget for dem. Til sammenligning har Danmark har stadig sit euroforbehold og sit [retsforbehold](https://www.eu.dk/da/faq/alle-faqs/hvilke-konsekvenser-har-det-danske-retsforbehold). Som Europaposten har beskrevet, er retsforbeholdet også grunden til, at danske unge står uden for den [ungdomsordning](/artikler/burnham-fri-bevaegelighed-ungdomsordning-danmark/), EU forhandler med briterne om.
+Bosse har ret i, at et klart flertal af briterne fortryder Brexit. Målingerne understøtter ikke, at de savner »alt«. Undtagelserne betyder noget for dem. Til sammenligning har Danmark stadig sit euroforbehold og sit [retsforbehold](https://www.eu.dk/da/faq/alle-faqs/hvilke-konsekvenser-har-det-danske-retsforbehold). Som Europaposten har beskrevet, er retsforbeholdet også grunden til, at danske unge står uden for den [ungdomsordning](/artikler/burnham-fri-bevaegelighed-ungdomsordning-danmark/), EU forhandler med briterne om.
