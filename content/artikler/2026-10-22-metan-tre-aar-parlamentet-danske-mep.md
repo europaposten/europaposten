@@ -32,6 +32,8 @@ sources:
   - Agence Europe, Council of EU fails to agree at first attempt on amendment to Methane Regulation (21.10.2026) | https://agenceurope.eu/en/bulletin/article/118882/3
 ---
 
+**Opdateret 28. oktober 2026:** Regeringen har i et notat til Folketingets Europaudvalg, dateret 20. oktober, oplyst, at den kan støtte Kommissionens forslag om at udskyde metankravene til importører med ét år – og ikke mere. Artiklen nedenfor skriver, at der ikke fandtes en offentlig udmelding fra regeringen. Læs mere i [Regeringen vil kun give gasimportører ét års udsættelse med metankravene](https://europaposten.dk/artikler/metan-regeringen-et-aar-raadet-udskyder/).
+
 Europa-Parlamentet vil udskyde EU's krav om metandokumentation for importeret olie, gas og kul i tre år. Det er to år mere, end Europa-Kommissionen med den danske energikommissær Dan Jørgensen foreslog i sidste uge. Parlamentet vedtog torsdag sin holdning med 341 stemmer for, 225 imod og 6, der undlod at stemme, [oplyser Parlamentet](https://www.europarl.europa.eu/news/en/press-room/20261021IPR48321).
 
 Den afgørende afstemning var om et ændringsforslag fra den borgerlige EPP-gruppe om tre års udskydelse af importkravet. Det gik igennem med 326 stemmer mod 244, [viser afstemningsdata](https://howtheyvote.eu/votes/199573). Ifølge [Politico](https://www.politico.eu/article/parliament-votes-to-delay-eu-methane-rules-for-three-years/) fik EPP flertal sammen med de nationalkonservative i ECR og de to grupper længst til højre, Patrioter for Europa og Europa af Suveræne Nationer.

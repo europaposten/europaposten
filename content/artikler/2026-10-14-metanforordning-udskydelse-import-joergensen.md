@@ -36,6 +36,8 @@ sources:
   - Rådet for Grøn Omstilling: EU-metanregulering under fornyet pres (26. juni 2026) | https://rgo.dk/eu-metanregulering-under-fornyet-pres-danmark-boer-cementere-vores-ambitioese-position/
 ---
 
+**Opdateret 28. oktober 2026:** Regeringen har i et notat til Folketingets Europaudvalg, dateret 20. oktober, oplyst, at den kan støtte Kommissionens forslag om at udskyde metankravene til importører med ét år – og ikke mere. Artiklen nedenfor skriver, at der ikke fandtes en offentlig udmelding fra regeringen. Læs mere i [Regeringen vil kun give gasimportører ét års udsættelse med metankravene](https://europaposten.dk/artikler/metan-regeringen-et-aar-raadet-udskyder/).
+
 Europa-Kommissionen har i dag foreslået at udskyde en central del af EU's metanforordning med et år. Forslaget kommer fra den danske energikommissær, Dan Jørgensen. Fra 1. januar 2027 skulle importører af olie, gas og kul kunne dokumentere, at deres leverandører uden for EU måler, rapporterer og får verificeret udledningen af metan efter regler, der svarer til EU's. Med [Kommissionens forslag](https://energy.ec.europa.eu/publications/proposal-amending-regulation-eu-20241787-reduction-methane-emissions-energy-sector_en) skal den første dokumentation i stedet ligge klar senest 31. maj 2029 og dække leverancerne i 2028.
 
 Begrundelsen er energikrisen. Strædet ved Hormuz har ifølge forslaget været ramt af alvorlige forstyrrelser og lukning siden 27. februar, og det har påvirket omkring 20 procent af verdens LNG-forsyning og 25 procent af den olie, der handles ad søvejen. Importørerne har ifølge Kommissionen meldt, at de måske ikke kan skaffe nok energi, der lever op til kravene, fra 1. januar.
