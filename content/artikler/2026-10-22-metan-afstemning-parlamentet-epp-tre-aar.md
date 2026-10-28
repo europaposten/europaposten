@@ -33,6 +33,8 @@ sources:
   - HowTheyVote.eu, Methane emissions reduction in the energy sector, slutafstemning 10.4.2024 | https://howtheyvote.eu/votes/166804
 ---
 
+**Opdateret 28. oktober 2026:** Regeringen har i et notat til Folketingets Europaudvalg, dateret 20. oktober, oplyst, at den kan støtte Kommissionens forslag om at udskyde metankravene til importører med ét år – og ikke mere. Artiklen nedenfor skriver, at der ikke fandtes en offentlig udmelding fra regeringen. Læs mere i [Regeringen vil kun give gasimportører ét års udsættelse med metankravene](https://europaposten.dk/artikler/metan-regeringen-et-aar-raadet-udskyder/).
+
 Europa-Parlamentet stemmer i dag ved middagstid om at udskyde en central del af EU's metanforordning. Sagen står øverst på [afstemningslisten](https://www.europarl.europa.eu/sedcms/pubfile/VOTING_SCHEDULE/5_TIMING_STR_OCT_II_2026.docx), der begynder klokken 12 i Strasbourg.
 
 Det handler om de krav, der fra 1. januar skulle gælde for virksomheder, der importerer olie, gas og kul til EU: De skal kunne dokumentere, at deres leverandører uden for EU måler og rapporterer udledningen af den kraftige drivhusgas metan efter regler, der svarer til EU's. Europa-Kommissionen, hvor danske Dan Jørgensen er energikommissær, [foreslog sidste uge](https://europaposten.dk/artikler/metanforordning-udskydelse-import-joergensen/) at udskyde kravene ét år.
