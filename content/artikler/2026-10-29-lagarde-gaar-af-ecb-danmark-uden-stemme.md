@@ -25,7 +25,7 @@ Costa skriver i [en udtalelse](https://www.consilium.europa.eu/en/press/press-re
 
 ## Sådan vælges den nye ECB-chef
 
-Ifølge [Rådets beskrivelse af proceduren](https://www.consilium.europa.eu/en/policies/appointment-of-the-european-central-bank-executive-board/) foreslår eurolandene kandidater, og Eurogruppen enes om én. Rådet sender en anbefaling til stats- og regeringscheferne, som hører Europa-Parlamentet og ECB's styrelsesråd. Til sidst udnævner Det Europæiske Råd i eurolandenes sammensætning formanden med et forstærket kvalificeret flertal. Med 21 eurolande skal mindst 16 stemme for, og de skal repræsentere mindst 65 procent af euroområdets befolkning. Kandidaten skal være statsborger i et euroland.
+Ifølge [Rådets beskrivelse af proceduren](https://www.consilium.europa.eu/en/policies/appointment-of-the-european-central-bank-executive-board/) foreslår eurolandene kandidater, og Eurogruppen enes om én. Rådet sender en anbefaling til stats- og regeringscheferne, som hører Europa-Parlamentet og ECB's styrelsesråd. Til sidst udnævner Det Europæiske Råd i eurolandenes sammensætning formanden med et forstærket kvalificeret flertal. Med 21 eurolande skal mindst 16 stemme for, og de skal repræsentere mindst 65 procent af euroområdets befolkning. Kandidaten skal være statsborger i et EU-land og have anerkendt erfaring med penge- eller bankforhold ([ECB-statutten art. 11.2](https://eur-lex.europa.eu/legal-content/DA/TXT/?uri=CELEX:12016E/PRO/04), [TEUF art. 283, stk. 2](https://eur-lex.europa.eu/legal-content/DA/TXT/?uri=CELEX:12016E283)).
 
 :::fakta Det ved vi – og det ved vi ikke
 - **Vi ved:** Lagarde stopper 7. februar 2027, og efterfølgeren vælges af de 21 eurolande.
@@ -40,3 +40,5 @@ Statsminister Mette Frederiksen (S) sidder ikke med, når eurolandenes ledere ud
 Danmark fører fastkurspolitik over for euroen. Kronen ligger i det europæiske valutasamarbejde ERM II med en centralkurs på 746,038 kroner pr. 100 euro og må efter en aftale med ECB højst svinge 2,25 procent til hver side, [forklarer Nationalbanken](https://www.nationalbanken.dk/da/ofte-stillede-spoergsmaal/spoergsmaal-om-fastkurspolitik). Nationalbankens rente er derfor »reserveret til at styre valutakursen og kan ikke samtidigt bruges til at påvirke den økonomiske aktivitet«. I praksis betyder det, at når ECB hæver eller sænker renten, følger dansk rente med.
 
 Den nye ECB-chef kommer dermed til at sætte rammen for renten på danske lån, uden at Danmark har haft indflydelse på, hvem det bliver.
+
+*Rettelse 29. oktober 2026: Artiklen skrev oprindeligt, at kandidaten skal være statsborger i et euroland. Ifølge ECB-statuttens artikel 11.2 er kravet statsborgerskab i et EU-land.*
