@@ -55,7 +55,7 @@ Ti lande har indtil videre godkendt systemet nationalt: Nederlandene, Litauen, E
 
 Tyskland og Italien har ikke godkendt systemet, men vil begge have en hurtig EU-godkendelse. Tysklands transportministerium meldte det ud 6. oktober efter en aftale med Tesla om blandt andet, hvor meget bilen må køre over fartgrænsen, [skriver tad-tracker.eu med henvisning til ministeriet](https://tad-tracker.eu/en/). Lægger man de to største lande oven i de ti, når man op på 12 lande og 45,9 procent af befolkningen. Der mangler stadig tre lande og omkring 19 procentpoint.
 
-Frankrig, som har 15,3 procent af EU's befolkning, tester stadig systemet på vejene. Og ikke alle er positive. Den svenske trafikmyndighed Trafikverket har ifølge [tad-tracker.eu](https://tad-tracker.eu/en/) anbefalet, at EU siger nej, så længe systemet bevidst kan køre over fartgrænsen. En national godkendelse er heller ikke det samme som en løfte om at stemme ja.
+Frankrig, som har 15,3 procent af EU's befolkning, tester stadig systemet på vejene. Og ikke alle er positive. Den svenske trafikmyndighed Trafikverket har ifølge [tad-tracker.eu](https://tad-tracker.eu/en/) anbefalet, at EU siger nej, så længe systemet bevidst kan køre over fartgrænsen. En national godkendelse er heller ikke det samme som et løfte om at stemme ja.
 
 ## Danskerne får ikke at vide, hvordan Danmark stemmer
 
