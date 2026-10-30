@@ -14,31 +14,31 @@ illustration_alt: Tegning af en embedsmand med stor næse, der balancerer på en
 illustration_caption: En EU-kommissær skal tjene hele EU, men bliver udpeget af sin egen regering.
 illustration_credit: "Illustration: Europaposten (hurtig aviskarikatur)"
 sources:
-  - "Traktaten om Den Europæiske Union, artikel 17 (eu.dk) | https://www.eu.dk/da/dokumenter/traktater/traktaten-eu/afsnit-lll/artikel-17"
-  - "Det Europæiske Råds afgørelse 2013/272/EU om antallet af medlemmer af Kommissionen | https://eur-lex.europa.eu/eli/dec/2013/272/oj/eng"
-  - "Europa-Kommissionen: Meddelelse om reformer og politikrevisioner før udvidelsen, COM(2024) 146 | https://commission.europa.eu/document/download/926b3cb2-f027-40b6-ac7b-2c198a164c94_en?filename=COM_2024_146_1_EN.pdf"
-  - "Europa-Parlamentets tænketank: Appointment of the Commission – Parliament's role before 1995 | https://www.europarl.europa.eu/thinktank/en/document/EPRS_BRI(2014)538878"
-  - "Europa-Parlamentets tænketank: Plenary round-up, november 2024 | https://epthinktank.eu/2024/11/29/plenary-round-up-november-iii-2024/"
-  - "Lex: EU-kommissær | https://lex.dk/EU-kommiss%C3%A6r"
-  - "Dansk Biografisk Leksikon: Finn Gundelach | https://biografiskleksikon.lex.dk/Finn_Gundelach"
-  - "Gaston Thorn, tale i Europa-Parlamentet 11. februar 1981 | https://www.europarl.europa.eu/EPRS/PE1_AP_DE!1980_DE19810211-020010EN.pdf"
-  - "Lex: Poul Dalsager | https://lex.dk/Poul_Dalsager"
-  - "Lex: Henning Christophersen | https://lex.dk/Henning_Christophersen"
-  - "Lex: Ritt Bjerregaard | https://lex.dk/Ritt_Bjerregaard"
-  - "Komitéen af uafhængige eksperter: Første rapport, 15. marts 1999 | https://www.europarl.europa.eu/experts/report1_en.htm"
-  - "CORDIS: President Santer defends Commissioners over resignation | https://cordis.europa.eu/article/id/12487-president-santer-defends-commissioners-over-resignation"
-  - "Lex: Poul Nielson | https://lex.dk/Poul_Nielson"
-  - "Lex: Mariann Fischer Boel | https://lex.dk/Mariann_Fischer_Boel"
-  - "Lex: Connie Hedegaard | https://lex.dk/Connie_Hedegaard"
-  - "Europa-Kommissionen: Biografi for Connie Hedegaard | https://ec.europa.eu/archives/commission_2010-2014/hedegaard/about/biography/index_en.htm"
-  - "Europa-Kommissionen: Pressemeddelelse IP/10/164 om nye generaldirektorater | https://ec.europa.eu/commission/presscorner/detail/en/IP_10_164"
-  - "Lex: Margrethe Vestager | https://lex.dk/Margrethe_Vestager"
-  - "EU-Domstolen: Pressemeddelelse om Apple-sagen, C-465/20 P | https://curia.europa.eu/site/upload/docs/application/pdf/2024-09/cp240133en.pdf"
-  - "EU-Domstolen: Pressemeddelelse om Google Shopping-sagen, C-48/22 P | https://curia.europa.eu/site/upload/docs/application/pdf/2024-09/cp240135en.pdf"
-  - "DR: EU-Domstolen uddeler milliardbøder til Google og Apple | https://www.dr.dk/nyheder/seneste/eu-domstolen-uddeler-milliardboeder-til-google-og-apple"
-  - "TV 2/Ritzau: Dan Jørgensen udpeges som kandidat til EU-kommissærpost | https://nyheder.tv2.dk/politik/2024-08-28-dan-joergensen-udpeges-som-kandidat-til-eu-kommissaerpost"
-  - "DR: Dan Jørgensen bestod sin EU-eksamen | https://www.dr.dk/nyheder/udland/eu/dan-joergensen-bestod-sin-eu-eksamen-det-er-vist-paa-sin-plads-sige-stort-tillykke"
-  - "Europa-Parlamentet: Ordret referat af høringen af Dan Jørgensen | https://hearings.elections.europa.eu/documents/jorgensen/jorgensen_verbatimreporthearing-original.pdf"
+  - Traktaten om Den Europæiske Union, artikel 17 (eu.dk) | https://www.eu.dk/da/dokumenter/traktater/traktaten-eu/afsnit-lll/artikel-17
+  - Det Europæiske Råds afgørelse 2013/272/EU om antallet af medlemmer af Kommissionen | https://eur-lex.europa.eu/eli/dec/2013/272/oj/eng
+  - Europa-Kommissionen: Meddelelse om reformer og politikrevisioner før udvidelsen, COM(2024) 146 | https://commission.europa.eu/document/download/926b3cb2-f027-40b6-ac7b-2c198a164c94_en?filename=COM_2024_146_1_EN.pdf
+  - Europa-Parlamentets tænketank: Appointment of the Commission – Parliament's role before 1995 | https://www.europarl.europa.eu/thinktank/en/document/EPRS_BRI(2014)538878
+  - Europa-Parlamentets tænketank: Plenary round-up, november 2024 | https://epthinktank.eu/2024/11/29/plenary-round-up-november-iii-2024/
+  - Lex: EU-kommissær | https://lex.dk/EU-kommiss%C3%A6r
+  - Dansk Biografisk Leksikon: Finn Gundelach | https://biografiskleksikon.lex.dk/Finn_Gundelach
+  - Gaston Thorn, tale i Europa-Parlamentet 11. februar 1981 | https://www.europarl.europa.eu/EPRS/PE1_AP_DE!1980_DE19810211-020010EN.pdf
+  - Lex: Poul Dalsager | https://lex.dk/Poul_Dalsager
+  - Lex: Henning Christophersen | https://lex.dk/Henning_Christophersen
+  - Lex: Ritt Bjerregaard | https://lex.dk/Ritt_Bjerregaard
+  - Komitéen af uafhængige eksperter: Første rapport, 15. marts 1999 | https://www.europarl.europa.eu/experts/report1_en.htm
+  - CORDIS: President Santer defends Commissioners over resignation | https://cordis.europa.eu/article/id/12487-president-santer-defends-commissioners-over-resignation
+  - Lex: Poul Nielson | https://lex.dk/Poul_Nielson
+  - Lex: Mariann Fischer Boel | https://lex.dk/Mariann_Fischer_Boel
+  - Lex: Connie Hedegaard | https://lex.dk/Connie_Hedegaard
+  - Europa-Kommissionen: Biografi for Connie Hedegaard | https://ec.europa.eu/archives/commission_2010-2014/hedegaard/about/biography/index_en.htm
+  - Europa-Kommissionen: Pressemeddelelse IP/10/164 om nye generaldirektorater | https://ec.europa.eu/commission/presscorner/detail/en/IP_10_164
+  - Lex: Margrethe Vestager | https://lex.dk/Margrethe_Vestager
+  - EU-Domstolen: Pressemeddelelse om Apple-sagen, C-465/20 P | https://curia.europa.eu/site/upload/docs/application/pdf/2024-09/cp240133en.pdf
+  - EU-Domstolen: Pressemeddelelse om Google Shopping-sagen, C-48/22 P | https://curia.europa.eu/site/upload/docs/application/pdf/2024-09/cp240135en.pdf
+  - DR: EU-Domstolen uddeler milliardbøder til Google og Apple | https://www.dr.dk/nyheder/seneste/eu-domstolen-uddeler-milliardboeder-til-google-og-apple
+  - TV 2/Ritzau: Dan Jørgensen udpeges som kandidat til EU-kommissærpost | https://nyheder.tv2.dk/politik/2024-08-28-dan-joergensen-udpeges-som-kandidat-til-eu-kommissaerpost
+  - DR: Dan Jørgensen bestod sin EU-eksamen | https://www.dr.dk/nyheder/udland/eu/dan-joergensen-bestod-sin-eu-eksamen-det-er-vist-paa-sin-plads-sige-stort-tillykke
+  - Europa-Parlamentet: Ordret referat af høringen af Dan Jørgensen | https://hearings.elections.europa.eu/documents/jorgensen/jorgensen_verbatimreporthearing-original.pdf
 ---
 
 Den 14. oktober foreslog Europa-Kommissionen at udskyde et af de centrale krav i EU's metanforordning med et år. Importører af olie, gas og kul skulle fra 1. januar 2027 kunne dokumentere, at deres leverandører måler og rapporterer udslippet af metan efter EU-standard. Forslaget kom fra energikommissær Dan Jørgensen, og det betyder, at en dansk socialdemokrat nu har lagt navn til en lempelse af regler, som Danmark allerede har [indført bøder for at overtræde](/artikler/metanforordning-udskydelse-import-joergensen/). I denne uge gik Europa-Parlamentet endnu længere og [stemte for tre års udsættelse](/artikler/metan-tre-aar-parlamentet-danske-mep/).
