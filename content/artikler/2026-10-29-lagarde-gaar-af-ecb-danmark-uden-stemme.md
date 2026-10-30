@@ -25,7 +25,7 @@ Costa skriver i [en udtalelse](https://www.consilium.europa.eu/en/press/press-re
 
 ## Sådan vælges den nye ECB-chef
 
-Ifølge [Rådets beskrivelse af proceduren](https://www.consilium.europa.eu/en/policies/appointment-of-the-european-central-bank-executive-board/) foreslår eurolandene kandidater, og Eurogruppen enes om én. Rådet sender en anbefaling til stats- og regeringscheferne, som hører Europa-Parlamentet og ECB's styrelsesråd. Til sidst udnævner Det Europæiske Råd i eurolandenes sammensætning formanden med et forstærket kvalificeret flertal. Med 21 eurolande skal mindst 16 stemme for, og de skal repræsentere mindst 65 procent af euroområdets befolkning. Kandidaten skal være statsborger i et EU-land og have anerkendt erfaring med penge- eller bankforhold ([ECB-statutten art. 11.2](https://eur-lex.europa.eu/legal-content/DA/TXT/?uri=CELEX:12016E/PRO/04), [TEUF art. 283, stk. 2](https://eur-lex.europa.eu/legal-content/DA/TXT/?uri=CELEX:12016E283)).
+Ifølge [Rådets beskrivelse af proceduren](https://www.consilium.europa.eu/en/policies/appointment-of-the-european-central-bank-executive-board/) foreslår eurolandene kandidater, og Eurogruppen enes om én. Rådet sender en anbefaling til stats- og regeringscheferne, som hører Europa-Parlamentet og ECB's styrelsesråd. Til sidst udnævner Det Europæiske Råd i eurolandenes sammensætning formanden med et forstærket kvalificeret flertal. Med 21 eurolande skal mindst 16 stemme for, og de skal repræsentere mindst 65 procent af euroområdets befolkning. Kandidaten skal have anerkendt erfaring med penge- eller bankforhold ([TEUF art. 283, stk. 2](https://eur-lex.europa.eu/legal-content/DA/TXT/?uri=CELEX:12016E283)) og være statsborger i et euroland. Det følger af [TEUF art. 139, stk. 2, litra h)](https://eur-lex.europa.eu/eli/treaty/tfeu_2016/art_139/oj), som gør art. 283, stk. 2, ugældende for lande uden euroen – derfor kan en dansker ikke udnævnes.
 
 :::fakta Det ved vi – og det ved vi ikke
 - **Vi ved:** Lagarde stopper 7. februar 2027, og efterfølgeren vælges af de 21 eurolande.
@@ -42,3 +42,5 @@ Danmark fører fastkurspolitik over for euroen. Kronen ligger i det europæiske 
 Den nye ECB-chef kommer dermed til at sætte rammen for renten på danske lån, uden at Danmark har haft indflydelse på, hvem det bliver.
 
 *Rettelse 29. oktober 2026: Artiklen skrev oprindeligt, at kandidaten skal være statsborger i et euroland. Ifølge ECB-statuttens artikel 11.2 er kravet statsborgerskab i et EU-land.*
+
+*Rettelse 30. oktober 2026: Rettelsen af 29. oktober var selv forkert. Artiklens oprindelige formulering var rigtig: Efter TEUF art. 139, stk. 2, litra h), sammenholdt med art. 283, stk. 2, kan kun statsborgere i eurolande udnævnes til ECB's direktion. Tak til @AlexanderMatzen for at påpege fejlen.*
