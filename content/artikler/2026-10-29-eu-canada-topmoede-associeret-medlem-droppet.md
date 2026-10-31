@@ -6,9 +6,10 @@ section: politik
 type: Nyhed
 kicker: EU-Canada-topmøde
 author: Europaposten-redaktionen
-summary: Ved topmødet i Montréal torsdag og fredag lover EU og Canada ifølge et udkast til erklæringen en »stadig tættere tilknytning«, men ikke det associerede medlemskab, som Ursula von der Leyen tilbød i september. Danske virksomheder eksporterede sidste år varer for 9,1 mia. kr. til Canada, og halvdelen var medicin.
+summary: Ved topmødet i Montréal lovede EU og Canada en »stadig tættere tilknytning«, men ikke det associerede medlemskab, som Ursula von der Leyen tilbød i september. Danske virksomheder eksporterede sidste år varer for 9,1 mia. kr. til Canada, og halvdelen var medicin.
 featured: ja
 draft: nej
+updated: 2026-10-31 07:30
 illustration: ceta-underskrivelse-2016.jpg
 illustration_alt: Seks politikere står bag et bord med de underskrevne aftaletekster foran et banner for EU-Canada-topmødet i Bruxelles
 illustration_caption: Underskrivelsen af CETA ved EU-Canada-topmødet i Bruxelles 30. oktober 2016. Arkivfoto fra 2016.
@@ -18,6 +19,8 @@ illustration_license_url: https://creativecommons.org/licenses/by/4.0/
 illustration_source: https://commons.wikimedia.org/wiki/File:P-032764_00-23_01-ORIGINAL-788014.jpg
 illustration_credit: Foto: Jennifer Jacquemart / European Union via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:P-032764_00-23_01-ORIGINAL-788014.jpg), [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Beskåret af Europaposten.
 sources:
+  - Rådet, Joint statement EU-Canada summit, 30. oktober 2026 | https://www.consilium.europa.eu/en/press/press-releases/2026/10/30/joint-statement-eu-canada-summit-30-october-2026/
+  - Canadas premierminister, Joint Statement: Canada and the European Union building together an Alliance for the Future, 30. oktober 2026 | https://www.pm.gc.ca/en/news/statements/2026/10/30/joint-statement-canada-and-european-union-building-together-alliance
   - Rådet: EU-Canada summit, Montréal, 29-30 October 2026 | https://www.consilium.europa.eu/en/meetings/international-summit/2026/10/29-30/
   - Canadas premierministerkontor: Prime Minister Carney to host Canada-European Union Summit in Montréal (25.10.2026) | https://www.pm.gc.ca/en/news/news-releases/2026/10/25/prime-minister-carney-host-canada-european-union-summit-montreal
   - France 24/Reuters: Canada and EU drop associate membership plan in bid to deepen ties (29.10.2026) | https://www.france24.com/en/europe/20261029-canada-and-eu-drop-associate-membership-plan-in-bid-to-deepen-ties
@@ -35,7 +38,9 @@ Ifølge [Reuters](https://www.france24.com/en/europe/20261029-canada-and-eu-drop
 > work to define by the 2027 EU-Canada Summit the concept of an ever closer association of Canada to the EU, short of full membership itself.
 > — [Udkast til fælleserklæring, gengivet af Politico Europe](https://www.politico.eu/article/eu-set-to-scrap-associate-member-status-offer-for-canada/)
 
-Indholdet skal altså først defineres ved topmødet i 2027. Ifølge Politico var det Tyskland, Grækenland og Frankrig, der havde forbehold over for begrebet associeret medlemskab. Erklæringen ventes offentliggjort fredag.
+Indholdet skal altså først defineres ved topmødet i 2027. Ifølge Politico var det Tyskland, Grækenland og Frankrig, der havde forbehold over for begrebet associeret medlemskab.
+
+**Opdateret lørdag 31. oktober:** Den [endelige fælleserklæring](https://www.consilium.europa.eu/en/press/press-releases/2026/10/30/joint-statement-eu-canada-summit-30-october-2026/) blev offentliggjort af Rådet fredag kl. 17.40. Den bekræfter udkastet: EU og Canada vil »work to define by the 2027 EU-Canada Summit the concept of an ever-closer association of Canada to the EU, short of full membership itself«. Ordet associeret medlemskab står der ikke.
 
 Det er 21. gang, EU og Canada holder topmøde. EU er repræsenteret ved formanden for Det Europæiske Råd, António Costa, og von der Leyen, mens Canadas premierminister Mark Carney er vært.
 
@@ -43,7 +48,7 @@ Det er 21. gang, EU og Canada holder topmøde. EU er repræsenteret ved formande
 - **Vi ved:** Topmødet finder sted i Montréal 29.–30. oktober. Ifølge Rådet skal det lancere en »alliance for fremtiden« mellem EU og Canada.
 - **Vi ved:** Ifølge udkastet, som Reuters og Politico har set, er ordet »associeret medlemskab« erstattet af en »stadig tættere tilknytning«, som skal defineres inden topmødet i 2027.
 - **Vi ved:** Udenrigsminister Lars Løkke Rasmussen skrev 9. oktober til Folketinget, at associeret medlemskab var »et nyt begreb og ikke noget, der indtil videre er konkretiseret nærmere«.
-- **Vi ved ikke:** Den endelige ordlyd. Fælleserklæringen er ikke offentliggjort endnu.
+- **Vi ved:** Den endelige fælleserklæring fra 30. oktober bekræfter formuleringen: tilknytningen skal defineres inden topmødet i 2027, »short of full membership itself«.
 - **Vi ved ikke:** Hvad regeringen har ment om at droppe begrebet. Det fremgår ikke af offentlige dokumenter.
 :::
 
@@ -67,6 +72,14 @@ Væksten fortsætter i år. I årets første otte måneder eksporterede Danmark 
 
 Ni år efter er CETA stadig kun midlertidigt i kraft. Ifølge Løkkes svar har 18 EU-lande ratificeret aftalen, mens ni mangler: Belgien, Bulgarien, Cypern, Frankrig, Grækenland, Ungarn, Irland, Italien og Polen. Danmark ratificerede i 2017. Investeringsbeskyttelsen træder først i kraft, når alle har sagt ja. To af de lande, der ifølge Politico havde forbehold over for associeret medlemskab, Frankrig og Grækenland, har heller ikke ratificeret CETA.
 
-## Næste skridt
+## Det står i den endelige erklæring
 
-Fælleserklæringen ventes fredag 30. oktober. Europaposten følger op, når den endelige tekst er offentliggjort.
+Lederne lancerede en »Alliance for the Future« med seks spor: handel og regler, digital teknologi og forskning, kritiske råstoffer og energi, finansielle tjenester, sikkerhed og beredskab samt mellemfolkelige forbindelser. Ifølge [teksten på Carneys hjemmeside](https://www.pm.gc.ca/en/news/statements/2026/10/30/joint-statement-canada-and-european-union-building-together-alliance) indeholder den blandt andet:
+
+- **LNG:** En fælles, langsigtet forundersøgelse af canadisk eksport af flydende naturgas til Europa – »på en måde, der er forenelig med« begge parters klimaneutralitetsmål.
+- **Arktis:** Et nyt, særskilt dialogforum om Arktis og tættere samarbejde i regionen, også med de oprindelige folk. Grønland er ikke nævnt ved navn.
+- **Forsvar:** Erklæringen nævner Canadas deltagelse i SAFE og lover at accelerere sikkerheds- og forsvarspartnerskabet »i fuld komplementaritet med« NATO. Erklæringen byder også Canadas hensigt om at deltage i EU's støttelån til Ukraine (Ukraine Support Loan) velkommen.
+- **Unge og forskning:** Forhandlinger om dybere canadisk deltagelse i Erasmus+, arbejde hen imod deltagelse i fremtidige forskningsprogrammer som Horizon Europe og et »Youth Mobility Partnership«.
+- **Kabler og digital handel:** Nye undersøiske kabler mellem Canada, Europa og Asien og en digital handelsaftale, der skal supplere CETA.
+
+Om CETA skriver lederne, at de respekterer de ratifikationsprocesser, der stadig er i gang i medlemslandene. Næste skridt er topmødet i 2027, hvor indholdet af den »stadig tættere tilknytning« skal være defineret.
