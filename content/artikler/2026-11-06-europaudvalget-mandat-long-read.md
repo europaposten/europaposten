@@ -9,6 +9,9 @@ author: Europaposten-redaktionen
 summary: Hver fredag mødes Folketingets Europaudvalg for at give danske ministre forhandlingsmandat til Rådet i Bruxelles. Møderne er åbne og transmitteres, mens selve mandaterne ikke kan downloades. Europaposten forklarer historien, specialudvalgene, EU-noter og det demokratiske paradoks i negativ mandatgivning.
 featured: ja
 draft: nej
+illustration: europaudvalget-mandat-2026.jpg
+illustration_alt: Karikatur af anonym folketingspolitiker med stor næse, der holder en rød mappe mærket MANDAT
+illustration_credit: Illustration: Europaposten (hurtig aviskarikatur)
 sources:
   - Folketingets EU-Oplysning: Folketingets Europaudvalg | https://www.eu.dk/da/danmark-i-eu/indflydelse-i-eu/euu
   - Folketingets EU-Oplysning: Europaudvalgets sammensætning | https://www.eu.dk/da/danmark-i-eu/indflydelse-i-eu/euu/medlemsoversigt
