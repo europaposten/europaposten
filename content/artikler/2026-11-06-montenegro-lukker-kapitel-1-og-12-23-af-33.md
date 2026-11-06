@@ -5,7 +5,6 @@ date: 2026-11-06 07:10
 section: politik
 type: Nyhed
 kicker: Udvidelse
-sag: udvidelse
 author: Europaposten-redaktionen
 summary: På den 30. tiltrædelseskonference i Bruxelles lukker Montenegro ifølge det irske EU-formandskab midlertidigt kapitel 1 om fri bevægelighed for varer og kapitel 12 om fødevaresikkerhed. Dermed er 23 af 33 forhandlingskapitler midlertidigt lukket – to tredjedele. Målet er stadig medlemskab i 2028.
 featured: nej

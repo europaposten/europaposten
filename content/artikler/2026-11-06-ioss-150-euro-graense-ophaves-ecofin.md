@@ -5,7 +5,6 @@ date: 2026-11-06 07:20
 section: oekonomi
 type: Nyhed
 kicker: E-handel og moms
-sag: told-moms
 author: Europaposten-redaktionen
 summary: Finansministrene ventes mandag at ophæve 150 euro-grænsen i EU's momsordning Import One Stop Shop, så platforme kan afregne moms også på dyrere pakker fra tredjelande. Regeringen støtter forslaget. Skønnet merprovenu er 15–16 mio. kr. om året. Europaudvalget behandler sagen i dag.
 featured: nej
