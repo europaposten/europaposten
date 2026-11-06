@@ -5,7 +5,6 @@ date: 2026-11-06 07:30
 section: politik
 type: Nyhed
 kicker: Børn online
-sag: digitale-regler
 author: Europaposten-redaktionen
 summary: LEGO og Games Denmark møder fredag Folketingets Europaudvalg om EU's KIDS Act. Spilbranchen støtter børnebeskyttelse, men vil have computerspil taget ud af forslaget – eller kun reguleret på risikable funktioner. Regeringen bakker om en 15-års-grænse og vil have loot boxes forbudt for mindreårige.
 featured: nej

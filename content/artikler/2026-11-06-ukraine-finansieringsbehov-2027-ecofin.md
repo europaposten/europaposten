@@ -5,7 +5,7 @@ date: 2026-11-06 07:40
 section: politik
 type: Nyhed
 kicker: Ukraine-støtte
-sag: ukraine
+sag: rusland
 author: Europaposten-redaktionen
 summary: Den planlagte EU-støtte under eksisterende instrumenter er ikke nok til at dække Ukraines finansieringsbehov gennem 2027, skriver regeringen i samlenotatet til ECOFIN mandag. Når skønnene er på plads, ventes konkrete forhandlinger om ny støtte. Danmark hæfter via EU-budgettet for ca. 15,6 mia. kr. af det eksisterende 90 mia. euro-støttelån.
 featured: nej
