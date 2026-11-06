@@ -7,7 +7,7 @@ type: Long read
 kicker: Long read
 author: Europaposten-redaktionen
 summary: Danmark har tabt og vundet ved EU-Domstolen i over 50 år, fra pantflasker og Storebæltsbroen til mindsteløn og parallelsamfundsloven. Og i 2016 nægtede Højesteret at følge et svar fra Luxembourg. Europaposten gennemgår de store danske sager og spørgsmålet om, hvem der har det sidste ord.
-featured: ja
+featured: nej
 draft: nej
 illustration: eu-domstolen-storsal-2009.jpg
 illustration_alt: Den store retssal i EU-Domstolens Palais-bygning i Luxembourg med rækker af træstole, dommerbordet forrest og et loft af gyldne metalstrimler
