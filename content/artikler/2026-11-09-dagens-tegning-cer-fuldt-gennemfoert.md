@@ -1,5 +1,5 @@
 ---
-title: "Dagens tegning: Fuldt gennemført – men listen over kritiske enheder er tom"
+title: "Dagens tegning: Fuldt gennemført – men de kritiske enheder er ikke udpeget"
 slug: dagens-tegning-cer-fuldt-gennemfoert
 date: 2026-11-09 07:45
 section: forsvar
