@@ -1,7 +1,8 @@
 ---
-title: "Parlamentet skal tirsdag-torsdag sige ja eller nej til 999 mio. euro til Grønland og oversøiske områder"
+title: "Parlamentet skal torsdag tage stilling til 999 mio. euro til Grønland og oversøiske områder"
 slug: groenland-oct-association-plenar-999-mio
 date: 2026-11-07 06:50
+updated: 2026-11-09 06:30
 section: politik
 type: Nyhed
 kicker: Grønland og EU
@@ -18,6 +19,8 @@ illustration_license: CC BY 4.0
 illustration_license_url: https://creativecommons.org/licenses/by/4.0/
 illustration_source: https://commons.wikimedia.org/wiki/File:Ilulissat_Icefjord.jpg
 illustration_credit: Foto: Quintin Soloviev via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Ilulissat_Icefjord.jpg), [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Beskåret af Europaposten.
+rettelser:
+  - 9. november 2026, 06.30 | I rubrikken stod der, at Parlamentet skulle tage stilling »tirsdag-torsdag«. Plenarmødet i Bruxelles holdes onsdag og torsdag, og afstemningen er torsdag 12. november. Rubrikken er rettet, og »sige ja eller nej« er ændret til »tage stilling«, fordi Parlamentet i en høringsprocedure afgiver en udtalelse, mens Rådet træffer beslutningen.
 sources:
   - Europa-Kommissionen, COM(2025) 599 final, forslag til Rådets afgørelse om ændring af afgørelse (EU) 2021/1764 (DOAG), 3. september 2025 | https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52025PC0599
   - EP Votes / Europa-Parlamentets open data, plenaruge 46 2026 (11.–12. november) | https://epvotes.com/week/2026-W46
