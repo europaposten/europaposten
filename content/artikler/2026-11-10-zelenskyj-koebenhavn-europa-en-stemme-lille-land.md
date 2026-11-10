@@ -1,7 +1,7 @@
 ---
 title: "Zelenskyj i København: Europa bør tale med én stemme – men et lille land, der har givet meget, vil også spørge, hvorfor det ikke sidder med"
 slug: zelenskyj-koebenhavn-europa-en-stemme-lille-land
-date: 2026-11-10 11:50
+date: 2026-11-10 11:30
 section: politik
 type: Nyhed
 kicker: Ukraine-forhandlinger
