@@ -2,7 +2,7 @@
 title: "EU er i Abu Dhabi, men ikke ved bordet: Kreml holder Europa ude – USA vil have det med i næste runde"
 slug: abu-dhabi-forhandlinger-eu-uden-for-schaldemose
 date: 2026-11-10 08:47
-updated: 2026-11-10 16:05
+updated: 2026-11-10 15:56
 section: politik
 type: Nyhed
 kicker: Ukraine-forhandlinger
