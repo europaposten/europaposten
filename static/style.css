@@ -193,9 +193,35 @@ main.wrap{padding-top:28px;padding-bottom:40px}
 .corrections h2{font-size:1rem;margin:0 0 6px}
 .topics-grid{display:grid;grid-template-columns:1fr 1fr;gap:32px}
 @media (max-width:700px){.topics-grid{grid-template-columns:1fr}}
-.factbox{background:var(--tint);border-top:3px solid var(--ink);padding:14px 18px;margin:24px 0}
+.factbox{background:var(--tint);border-top:3px solid var(--ink);padding:14px 18px;margin:24px 0;overflow-wrap:break-word}
 .factbox h2{font-size:.8rem;text-transform:uppercase;letter-spacing:.08em;margin:0 0 8px}
 .factbox p,.factbox ul{font-size:.95rem;margin:6px 0}
+.factbox a{overflow-wrap:anywhere}
+.story-body .factbox a:focus-visible{outline:2px solid var(--navy);outline-offset:2px}
+/* Det ved vi: kendt og ukendt hver for sig, stadig i den samme faktaboks. */
+.story-body .factbox-viden{padding:0;margin:1.7em 0;border:1px solid #d9d4cb;border-top:3px solid var(--ink)}
+.story-body .factbox-viden > h2{margin:0;padding:15px 20px 12px;border-bottom:1px solid #d9d4cb}
+.story-body .viden-grid{display:grid;grid-template-columns:minmax(0,1fr)}
+.story-body .viden-group{min-width:0;padding:14px 20px 16px}
+.story-body .viden-ikke{background:#fff;border-top:1px solid #d9d4cb}
+.story-body .viden-note{grid-column:1 / -1;background:#fff;border-top:1px solid #d9d4cb}
+.story-body .viden-group h3{display:flex;align-items:center;gap:8px;margin:0 0 11px;font-family:var(--sans);font-size:.72rem;font-weight:700;letter-spacing:.11em;text-transform:uppercase;line-height:1.2;color:var(--ink)}
+.story-body .viden-group h3::before{content:"";width:7px;height:7px;flex:none}
+.story-body .viden-ved h3::before{background:var(--navy)}
+.story-body .viden-ikke h3::before{box-sizing:border-box;border:1.5px solid var(--ink);background:transparent}
+.story-body .viden-note h3::before{height:2px;background:var(--accent)}
+.story-body .factbox-viden ul{list-style:none;margin:0;padding:0}
+.story-body .factbox-viden li{margin:0 0 .8em;padding:0 0 .8em;border-bottom:1px solid rgba(20,20,20,.08);font-family:var(--serif);font-size:1.02rem;line-height:1.55}
+.story-body .factbox-viden li:last-child{margin-bottom:0;padding-bottom:0;border-bottom:0}
+.story-body .factbox-viden p{margin:0;font-family:var(--serif);font-size:1.02rem;line-height:1.55}
+.story-body .factbox-viden p + p{margin-top:.75em}
+@media (max-width:600px){
+  .story-body .factbox-viden > h2,.story-body .viden-group{padding-left:16px;padding-right:16px}
+}
+@media (min-width:760px){
+  .story-body .viden-pair{grid-template-columns:minmax(0,1fr) minmax(0,1fr)}
+  .story-body .viden-pair > .viden-ikke{border-top:0;border-left:1px solid #d9d4cb}
+}
 .sag-link{font-size:.85rem;font-weight:700;text-transform:uppercase;letter-spacing:.05em;margin:0 0 18px;padding-left:10px;border-left:3px solid var(--accent)}
 .sag-link a{color:var(--accent);text-decoration:none}
 /* Listepunkter med billede (sektion, arkiv, typer) */
