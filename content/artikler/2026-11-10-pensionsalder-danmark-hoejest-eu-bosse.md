@@ -1,7 +1,7 @@
 ---
 title: "74 år i 2070: Danmark er på vej mod EU's højeste pensionsalder, viser Kommissionens tal"
 slug: pensionsalder-danmark-hoejest-eu-bosse
-date: 2026-11-10 07:05
+date: 2026-11-10 06:16
 section: oekonomi
 type: Nyhed
 kicker: Pension

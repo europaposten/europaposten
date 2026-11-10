@@ -2,7 +2,7 @@
 title: "Malta blokerede EU's tobaksaftale: Grænsehandlens 800 cigaretter står ved magt – foreløbig"
 slug: tobaksafgift-graensehandel-cigaretter-ecofin
 date: 2026-10-30 07:00
-updated: 2026-11-10 07:00
+updated: 2026-11-10 06:15
 section: oekonomi
 type: Nyhed
 kicker: Skat og afgifter

@@ -2,7 +2,7 @@
 title: "Finansministrene er enige: 150 euro-grænsen for moms på netkøb uden for EU forsvinder i 2028"
 slug: ioss-150-euro-graense-ophaves-ecofin
 date: 2026-11-06 07:20
-updated: 2026-11-10 07:00
+updated: 2026-11-10 06:15
 section: oekonomi
 type: Nyhed
 kicker: E-handel og moms

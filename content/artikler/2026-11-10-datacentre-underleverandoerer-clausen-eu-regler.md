@@ -1,7 +1,7 @@
 ---
 title: "Udnyttelse på datacenter-byggepladser: Kommissionen ventes i år at foreslå nye regler – 10 af 15 danske MEP'er har bedt om strammere krav"
 slug: datacentre-underleverandoerer-clausen-eu-regler
-date: 2026-11-10 07:20
+date: 2026-11-10 06:17
 section: politik
 type: Nyhed
 kicker: Arbejdsmarked
