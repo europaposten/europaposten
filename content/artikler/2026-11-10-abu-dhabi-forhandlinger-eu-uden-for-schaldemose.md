@@ -2,12 +2,13 @@
 title: "EU er i Abu Dhabi, men ikke ved bordet: Kreml holder Europa ude – USA vil have det med i næste runde"
 slug: abu-dhabi-forhandlinger-eu-uden-for-schaldemose
 date: 2026-11-10 08:47
+updated: 2026-11-10 16:05
 section: politik
 type: Nyhed
 kicker: Ukraine-forhandlinger
 sag: rusland
 author: Europaposten-redaktionen
-summary: USA, Rusland og Ukraine forhandler tirsdag og onsdag i Abu Dhabi. EU, NATO, Frankrig, Tyskland, Storbritannien og Italien har sendt topembedsmænd, men de sidder ikke med ved selve forhandlingsbordet, fordi Kreml modsætter sig. Danmark deltager ikke. MEP Christel Schaldemose (S) kalder det »helt uacceptabelt«, at Rusland vil forhandle om Europas sikkerhed uden EU. Ifølge POLITICO vil USA's udsendinge have Europa med i næste runde.
+summary: USA, Rusland og Ukraine forhandler tirsdag og onsdag i Abu Dhabi. EU, NATO, Frankrig, Tyskland, Storbritannien og Italien har sendt topembedsmænd, men de sidder ikke med ved selve forhandlingsbordet, fordi Kreml modsætter sig. Danmark deltager ikke. MEP Christel Schaldemose (S) kalder det »helt uacceptabelt«, at Rusland vil forhandle om Europas sikkerhed uden EU. Ifølge POLITICO vil USA's udsendinge have Europa med i næste runde. Tirsdag holdt EU, NATO, de fire lande, Ukraine og USA et særskilt koordineringsmøde forud for drøftelserne med Rusland.
 featured: nej
 draft: nej
 sources:
@@ -23,6 +24,8 @@ sources:
   - Berlingske/Ritzau, Danmark deltager ikke ved Ukraine-samtaler i Abu Dhabi, 8.11.2026 | https://www.berlingske.dk/politik/danmark-deltager-ikke-ved-ukraine-samtaler-i-abu-dhabi
   - TV 2, Danmark deltager ikke i fredsforhandlinger om Ukraine, 9.11.2026 | https://nyheder.tv2.dk/live/kort-nyt/danmark-deltager-ikke-i-fredsforhandlinger-om-ukraine?entry=573ecdd1-5ed4-47d0-9f56-321da8af05f8
   - Ukraines Center for Strategisk Kommunikation (@StratcomCentre) på X, 10.11.2026 | https://x.com/StratcomCentre/status/2120049726254923778
+  - Det Europæiske Råd/Europa-Kommissionen, Statement on today's meeting in Abu Dhabi between the EU, France, Germany, Italy, United Kingdom, Ukraine, United States and NATO, 10.11.2026 | https://ec.europa.eu/commission/presscorner/detail/en/statement_26_2390
+  - EU Council Press (@EUCouncilPress) på X, 10.11.2026 | https://x.com/EUCouncilPress/status/2120089086249566499
   - Europaposten, Meloni kræver én EU-forhandler om Ukraine, 6.11.2026 | https://europaposten.dk/artikler/meloni-eu-forhandler-ukraine-dublin/
   - Europaposten, Merz vil have alle 27 lande til at betale for Ukraine, 10.11.2026 | https://europaposten.dk/artikler/merz-brev-costa-ukraine-eu-budget-alle-27/
 ---
@@ -37,6 +40,7 @@ Schaldemose har ret i, at Moskva ikke vil have EU ved bordet. Men Europa er ikke
 - **Vi ved:** Kreml-talsmand Dmitrij Peskov siger, at forhandlingerne i Abu Dhabi er »trilaterale« mellem Rusland, Ukraine og USA.
 - **Vi ved:** EU er repræsenteret af Bjoern Seibert fra Ursula von der Leyens kabinet og Anna-Maria Boura fra António Costas kontor. Også NATO og sikkerhedsrådgivere fra Frankrig, Tyskland, Storbritannien og Italien er der.
 - **Vi ved:** Udenrigsministeriet oplyser, at der ikke er dansk deltagelse.
+- **Vi ved:** EU, NATO, Frankrig, Tyskland, Italien, Storbritannien, Ukraine og USA holdt tirsdag et fælles møde forud for de trilaterale drøftelser med Rusland. Det fremgår af en fælles erklæring.
 - **Vi ved ikke:** Om europæerne får et direkte møde med den russiske delegation. Det er ifølge Euronews uafklaret.
 - **Vi ved ikke:** Om Rusland vil acceptere USA's ønske om at have Europa med i næste runde. Europaposten har ikke fundet en russisk reaktion på det.
 :::
@@ -54,6 +58,12 @@ Kommissionens formand, Ursula von der Leyen, [skrev mandag på X](https://x.com/
 Med er også de nationale sikkerhedsrådgivere fra Frankrig, Tyskland og Storbritannien, Melonis diplomatiske rådgiver Fabrizio Saggio og NATO-generalsekretær Mark Ruttes stabschef, Geoffrey van Leeuwen, skriver [POLITICO](https://www.politico.eu/article/whos-who-europe-ukraine-talks-abu-dhabi-russia-war/). Italien kom med, efter at premierminister Giorgia Meloni [klagede til Costa](/artikler/meloni-eu-forhandler-ukraine-dublin/) over, at Europa taler med for mange stemmer.
 
 Europæerne ventes ikke at sidde med i selve forhandlingerne, fordi Kreml modsætter sig, skriver POLITICO. Kushner og Witkoff ventes at rådføre sig med dem, og de bliver formentlig orienteret separat. Ukraines delegationsleder Rustem Umerov har ifølge [Euronews' nyhedsbrev tirsdag](https://www.euronews.com/2026/11/10/merzs-budget-gamble-no-ukraine-funding-no-eu-budget) bekræftet, at Kyiv holder egne koordineringsmøder med de europæiske partnere i Abu Dhabi.
+
+## Europæerne mødtes med USA og Ukraine først
+
+Tirsdag mødtes europæerne, Ukraine og USA »forud for de kommende trilaterale drøftelser med Rusland«. Det står i en [fælles erklæring](https://ec.europa.eu/commission/presscorner/detail/en/statement_26_2390), som Det Europæiske Råd og Kommissionen [offentliggjorde tirsdag formiddag](https://x.com/EUCouncilPress/status/2120089086249566499) (Europapostens oversættelse).
+
+Ifølge erklæringen skal enhver fremtidig ordning respektere suverænitet, territorial integritet og selvstændig beslutningsret og give Ukraine »troværdige sikkerhedsgarantier«. Deltagerne drøftede også Europas sikkerhed efter krigen og var enige om, at et stærkt NATO fortsat skal være kernen i det euroatlantiske forsvar. Målet er at bevæge sig mod »bredere multilaterale drøftelser med de europæiske partnere«, står der. Erklæringen siger ikke, om europæerne kommer med ved bordet med Rusland i denne omgang.
 
 ## Danmark er ikke med
 
