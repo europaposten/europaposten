@@ -18,4 +18,4 @@ EU's finansministre blev ikke enige om de nye tobaksafgifter på mødet i Bruxel
 
 Skatteregler i EU kræver enstemmighed, så ét nej er nok. Dermed gælder den vejledende grænse på 800 cigaretter fra et andet EU-land stadig, og Skatteministeriets skøn på op mod 1 mia. kr. om året lader vente på sig. Formandskabet prøver igen i december.
 
-26 stemmer var ikke nok. Det var én.
+Sådan virker enstemmighed: 26 ja vejer ingenting mod ét nej.
