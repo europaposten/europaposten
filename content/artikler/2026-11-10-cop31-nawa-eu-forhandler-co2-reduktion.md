@@ -1,7 +1,7 @@
 ---
 title: "Samira Nawa skal kæmpe for EU's spor om CO2-reduktioner på COP31 – Kina tvivler på, at det skal fortsætte"
 slug: cop31-nawa-eu-forhandler-co2-reduktion
-date: 2026-11-10 06:50
+date: 2026-11-10 06:15
 section: klima-miljoe
 type: Nyhed
 kicker: Klimatopmødet
