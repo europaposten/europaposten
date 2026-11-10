@@ -27,7 +27,7 @@ Tallene kommer samme dag, som Ukraines præsident Volodymyr Zelenskyj [besøger 
 
 Trods stigningen ligger Danmark lidt under EU-gennemsnittet, når tallet ses i forhold til befolkningen. Der er 8,9 ukrainere med midlertidig beskyttelse pr. 1.000 indbyggere i Danmark mod 9,5 i EU. Dermed ligger Danmark som nr. 14 af de 27 lande.
 
-Tjekkiet ligger højest med 35,8 pr. 1.000 indbyggere, foran Slovakiet (27,8) og Cypern (27,2). Polen, som tog imod flest i krigens første måneder, ligger på 23,6. Tyskland har det største antal i alt med 1.264.690 personer, svarende til 15,2 pr. 1.000 indbyggere. Sverige ligger på 4,8.
+Tjekkiet ligger højest med 35,8 pr. 1.000 indbyggere, foran Slovakiet (27,8) og Cypern (27,2). Polen ligger på 23,6. Tyskland har det største antal i alt med 1.264.690 personer, svarende til 15,2 pr. 1.000 indbyggere. Sverige ligger på 4,8.
 
 ## Springet kom i efteråret 2025
 
