@@ -181,6 +181,69 @@ def render_quote(lines) -> str:
 
 
 FAKTA_RE = re.compile(r"^:::fakta[ \t]*(.*?)[ \t]*\n(.*?)\n:::[ \t]*$", re.M | re.S)
+# "Det ved vi – og det ved vi ikke" og "Det ved vi / Det ved vi ikke".
+VIDEN_TITLE_RE = re.compile(r"^det ved vi\b", re.I)
+VIDEN_ITEM_RE = re.compile(
+    r"^(?:(?P<bullet>[-*])[ \t]+)?\*\*(?P<label>[^*\n:]+):\*\*[ \t]*(?P<rest>\S.*)$"
+)
+
+
+def _viden_kind(label: str) -> str:
+    key = label.casefold().strip()
+    if key in ("vi ved ikke", "det ved vi ikke"):
+        return "viden-ikke"
+    if key in ("vi ved", "det ved vi"):
+        return "viden-ved"
+    return "viden-note"
+
+
+def render_viden_factbox(title: str, body: str, n: int) -> str | None:
+    """Gruppér Vi ved / Vi ved ikke én gang, når boksen følger det faste mønster.
+
+    Falder tilbage til den almindelige faktaboks, hvis en linje ikke er et
+    mærket punkt eller afsnit. Selve sætningerne og linkene ændres ikke.
+    """
+    if not VIDEN_TITLE_RE.match(title.strip()):
+        return None
+    parsed = []
+    for raw in body.splitlines():
+        line = raw.strip()
+        if not line:
+            continue
+        m = VIDEN_ITEM_RE.match(line)
+        if not m:
+            return None
+        parsed.append((m.group("label").strip(), m.group("rest").strip(), bool(m.group("bullet"))))
+    if not parsed or not any(_viden_kind(label) != "viden-note" for label, _, _ in parsed):
+        return None
+    groups: list[dict] = []
+    index: dict[str, int] = {}
+    for label, rest, bullet in parsed:
+        key = label.casefold()
+        if key not in index:
+            index[key] = len(groups)
+            groups.append({"label": label, "kind": _viden_kind(label), "items": [], "bullets": True})
+        group = groups[index[key]]
+        group["items"].append(rest)
+        group["bullets"] = group["bullets"] and bullet
+    blocks = []
+    for i, group in enumerate(groups):
+        hid = f"fakta-{n}-g{i}"
+        if group["bullets"]:
+            inner = "<ul>" + "".join(f"<li>{inline_md(item)}</li>" for item in group["items"]) + "</ul>"
+        else:
+            inner = "".join(f"<p>{inline_md(item)}</p>" for item in group["items"])
+        blocks.append(
+            f'<section class="viden-group {group["kind"]}" aria-labelledby="{hid}">'
+            f'<h3 id="{hid}">{inline_md(group["label"])}</h3>{inner}</section>'
+        )
+    pair = any(g["kind"] == "viden-ved" for g in groups) and any(g["kind"] == "viden-ikke" for g in groups)
+    grid = "viden-grid viden-pair" if pair else "viden-grid"
+    return (
+        f'<aside class="factbox factbox-viden" aria-labelledby="fakta-{n}">'
+        f'<h2 id="fakta-{n}">{inline_md(title)}</h2>'
+        f'<div class="{grid}">{"".join(blocks)}</div></aside>'
+    )
 
 
 def markdown(md: str) -> str:
@@ -189,8 +252,10 @@ def markdown(md: str) -> str:
 
     def _box(m):
         title = m.group(1).strip() or "Fakta"
-        boxes.append(f'<aside class="factbox"><h2>{inline_md(title)}</h2>{markdown(m.group(2))}</aside>')
-        return f"\n\n@@FAKTABOKS{len(boxes) - 1}@@\n\n"
+        n = len(boxes)
+        viden = render_viden_factbox(title, m.group(2), n)
+        boxes.append(viden or f'<aside class="factbox"><h2>{inline_md(title)}</h2>{markdown(m.group(2))}</aside>')
+        return f"\n\n@@FAKTABOKS{n}@@\n\n"
     md = FAKTA_RE.sub(_box, md)
     out, para, listbuf, quote, table = [], [], [], [], []
 
