@@ -1,7 +1,7 @@
 ---
 title: "Frankrig peger på Iran bag hackerangrebet på Danfoss-køl – EU arbejder på nye cybersanktioner"
 slug: iran-hackerangreb-danfoss-koel-eu-sanktioner
-date: 2026-11-10 16:05
+date: 2026-11-10 15:56
 section: forsvar
 type: Nyhed
 kicker: Cybersikkerhed
