@@ -2,7 +2,7 @@
 title: "Finansministrene er enige: 150 euro-grænsen for moms på netkøb uden for EU forsvinder i 2028"
 slug: ioss-150-euro-graense-ophaves-ecofin
 date: 2026-11-06 07:20
-updated: 2026-11-09 19:35
+updated: 2026-11-10 07:00
 section: oekonomi
 type: Nyhed
 kicker: E-handel og moms
@@ -66,6 +66,6 @@ Regeringen ser positivt på forslaget, fordi det giver »mere retvisende afregni
 
 Skatteregler kræver enstemmighed blandt EU-landene (artikel 113 i traktaten om Den Europæiske Unions funktionsmåde). Europa-Parlamentet har kun ret til at blive hørt. Ifølge Rådet skal Parlamentet nu høres, før Rådet vedtager reglerne formelt. Herefter har landene frist til 30. juni 2028 til at skrive reglerne ind i national lov. I Danmark skal momsloven ændres, skrev ministeriet i samlenotatet.
 
-## Tobak: ingen aftale meldt ud
+## Tobak: Malta blokerede
 
-Samme møde skulle også tage stilling til [tobaksafgifterne og grænsehandlen](/artikler/tobaksafgift-graensehandel-cigaretter-ecofin/), hvor det seneste kompromis skærer den vejledende mængde cigaretter fra 800 til 200 styk. Finland, Estland og Malta afviste på mødet kompromiset, [skriver Uutissuomalainen](https://www.sss.fi/2026/11/suomi-ja-ruotsi-nuuskasodassa-eussa/) med henvisning til det svenske nyhedsbureau TT. Da artiklen blev opdateret mandag kl. 19.35, havde Rådet ikke meldt om en aftale om tobak på [mødesiden](https://www.consilium.europa.eu/en/meetings/ecofin/2026/11/09/). Europaposten følger op, når der er et officielt resultat.
+Samme møde skulle også tage stilling til [tobaksafgifterne og grænsehandlen](/artikler/tobaksafgift-graensehandel-cigaretter-ecofin/). Her kom der ingen aftale. Rådet kunne ikke nå en endelig aftale, oplyser [Rådets opsummering af mødet](https://www.consilium.europa.eu/en/meetings/ecofin/2026/11/09/). Ifølge formandskabet var 26 af 27 lande klar, men Malta sagde nej, og formandskabet vil prøve igen i december.
