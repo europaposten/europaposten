@@ -8,7 +8,7 @@ kicker: EU-budgettet 2027
 sag: eu-budget
 author: Europaposten-redaktionen
 summary: Finansministrene holder tirsdag 10. november et særligt ECOFIN Budget-møde i Bruxelles for at forberede forligsudvalget med Europa-Parlamentet om EU's årsbudget for 2027. Rådet ligger ca. 1 mia. euro under Kommissionens forslag i forpligtelser; Parlamentet vil den anden vej. Fristen for enighed er midnat mandag 16. november.
-updated: 2026-11-11 06:17
+updated: 2026-11-11 08:48
 rettelser:
   - 11. november 2026, 06.17 | I den første version skrev vi, at Kommissionens forslag »falder tilbage« efter TEUF artikel 314, hvis Rådet og Parlamentet ikke bliver enige, og at fristen var »midt i november«. Det er upræcist. Ifølge artikel 314, stk. 8, skal Kommissionen fremlægge et nyt budgetforslag, hvis forligsudvalget ikke når til enighed, og fristen er midnat mandag 16. november. Manchet og afsnittet om fristen er rettet.
 featured: nej
@@ -34,7 +34,7 @@ sources:
 
 Tirsdag morgen mødes EU's finansministre i Bruxelles til et [ECOFIN Budget-møde](https://data.consilium.europa.eu/doc/document/CM-4756-2026-INIT/en/pdf) med ét hovedpunkt: forberedelse af forligsudvalget med Europa-Parlamentet om EU's årsbudget for 2027. Kl. 10.45 samme dag er der ifølge Rådets dagsorden møde i selve forligsudvalget.
 
-**Opdatering onsdag 11. november:** Forligsudvalget mødtes tirsdag. Europaposten har onsdag morgen ikke fundet en meddelelse om en aftale fra hverken Rådet eller Parlamentet. Forhandlingerne kan fortsætte frem til fristen ved midnat mandag 16. november, [skriver Agence Europe](https://agenceurope.eu/en/bulletin/article/13978/18/european-parliament-and-council-to-attempt-to-reach-agreement-on-tuesday-10-november-on-eu-annual-budget-for-2027).
+**Opdatering onsdag 11. november kl. 08.48:** Rådet og Parlamentet nåede onsdag morgen til enighed om budgettet for 2027: 199,7 mia. euro i forpligtelser og 211,5 mia. euro i betalinger, inklusive særlige instrumenter. [Læs om aftalen her](/artikler/eu-budget-2027-aftale-199-mia/).
 
 Det er den afsluttende fase af budgetproceduren i traktaten. Forligsproceduren blev sat i gang 27. oktober og løber i 21 dage. Hvis Rådet og Parlamentet ikke bliver enige inden fristen, skal Kommissionen efter TEUF artikel 314, stk. 8, fremlægge et nyt forslag til budget – med andre ord: tidspresset er reelt.
 
@@ -43,7 +43,7 @@ Det er den afsluttende fase af budgetproceduren i traktaten. Forligsproceduren b
 - **Vi ved:** Rådets holdning af 4. september ligger på 191,88 mia. euro i forpligtelser og 202,07 mia. euro i betalinger (uden særlige instrumenter uden for MFF). Det er ca. 1,00 mia. euro under Kommissionens udkast i forpligtelser.
 - **Vi ved:** Parlamentet vedtog i oktober en holdning, der ifølge EPRS vil vende Rådets nedskæringer og lægge ca. 1,17 mia. euro oven i Kommissionens forslag.
 - **Vi ved:** Ukraine-støttelånet og andre særlige instrumenter regnes uden for MFF-lofterne i Rådets opstilling.
-- **Vi ved ikke:** Om tirsdagens forlig lander en kompromisaftale, eller om sagen trækker til den absolutte deadline.
+- **Vi ved nu:** Forliget endte med en aftale onsdag morgen 11. november, fem dage før fristen.
 :::
 
 ## Tallene, der skiller dem
