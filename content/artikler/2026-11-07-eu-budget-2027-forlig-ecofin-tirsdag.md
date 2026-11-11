@@ -7,7 +7,10 @@ type: Nyhed
 kicker: EU-budgettet 2027
 sag: eu-budget
 author: Europaposten-redaktionen
-summary: Finansministrene holder tirsdag 10. november et særligt ECOFIN Budget-møde i Bruxelles for at forberede forligsudvalget med Europa-Parlamentet om EU's årsbudget for 2027. Rådet ligger ca. 1 mia. euro under Kommissionens forslag i forpligtelser; Parlamentet vil den anden vej. Fristen for enighed er midten af november.
+summary: Finansministrene holder tirsdag 10. november et særligt ECOFIN Budget-møde i Bruxelles for at forberede forligsudvalget med Europa-Parlamentet om EU's årsbudget for 2027. Rådet ligger ca. 1 mia. euro under Kommissionens forslag i forpligtelser; Parlamentet vil den anden vej. Fristen for enighed er midnat mandag 16. november.
+updated: 2026-11-11 06:17
+rettelser:
+  - 11. november 2026, 06.17 | I den første version skrev vi, at Kommissionens forslag »falder tilbage« efter TEUF artikel 314, hvis Rådet og Parlamentet ikke bliver enige, og at fristen var »midt i november«. Det er upræcist. Ifølge artikel 314, stk. 8, skal Kommissionen fremlægge et nyt budgetforslag, hvis forligsudvalget ikke når til enighed, og fristen er midnat mandag 16. november. Manchet og afsnittet om fristen er rettet.
 featured: nej
 draft: nej
 illustration: europa-bygning.jpg
@@ -19,6 +22,8 @@ illustration_license_url: https://creativecommons.org/licenses/by-sa/4.0/
 illustration_source: https://commons.wikimedia.org/wiki/File:Europa_Building_in_Brussels.jpg
 illustration_credit: Foto: PPEscientist via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Europa_Building_in_Brussels.jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Beskåret af Europaposten.
 sources:
+  - Agence Europe, European Parliament and Council to attempt to reach agreement on Tuesday 10 November on EU annual budget for 2027, 9.11.2026 | https://agenceurope.eu/en/bulletin/article/13978/18/european-parliament-and-council-to-attempt-to-reach-agreement-on-tuesday-10-november-on-eu-annual-budget-for-2027
+  - TEUF artikel 314 (EU's årlige budgetprocedure), EUR-Lex | https://eur-lex.europa.eu/legal-content/DA/TXT/?uri=CELEX:12016E314
   - Rådet, CM 4756/26, dagsorden ECOFIN/Budget 10. november 2026 | https://data.consilium.europa.eu/doc/document/CM-4756-2026-INIT/en/pdf
   - Rådet, ST 11547/26, Rådets holdning til forslaget til EU-budget 2027, 4. september 2026 | https://data.consilium.europa.eu/doc/document/ST-11547-2026-INIT/en/pdf
   - Rådet, mødeside Economic and Financial Affairs Council (Budget), 10. november 2026 | https://www.consilium.europa.eu/en/meetings/ecofin/2026/11/10/budget/
@@ -29,7 +34,9 @@ sources:
 
 Tirsdag morgen mødes EU's finansministre i Bruxelles til et [ECOFIN Budget-møde](https://data.consilium.europa.eu/doc/document/CM-4756-2026-INIT/en/pdf) med ét hovedpunkt: forberedelse af forligsudvalget med Europa-Parlamentet om EU's årsbudget for 2027. Kl. 10.45 samme dag er der ifølge Rådets dagsorden møde i selve forligsudvalget.
 
-Det er den afsluttende fase af budgetproceduren i traktaten. Hvis Rådet og Parlamentet ikke bliver enige inden fristen midt i november, falder Kommissionens forslag tilbage efter reglerne i TEUF artikel 314 – med andre ord: tidspresset er reelt.
+**Opdatering onsdag 11. november:** Forligsudvalget mødtes tirsdag. Europaposten har onsdag morgen ikke fundet en meddelelse om en aftale fra hverken Rådet eller Parlamentet. Forhandlingerne kan fortsætte frem til fristen ved midnat mandag 16. november, [skriver Agence Europe](https://agenceurope.eu/en/bulletin/article/13978/18/european-parliament-and-council-to-attempt-to-reach-agreement-on-tuesday-10-november-on-eu-annual-budget-for-2027).
+
+Det er den afsluttende fase af budgetproceduren i traktaten. Forligsproceduren blev sat i gang 27. oktober og løber i 21 dage. Hvis Rådet og Parlamentet ikke bliver enige inden fristen, skal Kommissionen efter TEUF artikel 314, stk. 8, fremlægge et nyt forslag til budget – med andre ord: tidspresset er reelt.
 
 :::fakta Det ved vi – og det ved vi ikke
 - **Vi ved:** ECOFIN Budget 10. november har »Union budget for 2027: Preparation of the meeting of the Conciliation Committee« som eneste lovgivningspunkt; forligsudvalget er sat til kl. 10.45.
