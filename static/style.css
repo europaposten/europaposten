@@ -36,7 +36,7 @@ main.wrap{padding-top:28px;padding-bottom:40px}
 .rubric a{text-decoration:none}
 .kicker{font-size:.75rem;font-weight:700;text-transform:uppercase;letter-spacing:.06em;color:var(--accent);margin:0 0 6px}
 .kicker a{text-decoration:none}
-.kicker-oekonomi{color:#8a5a00}.kicker-migration{color:#6b2a8a}.kicker-klima-miljoe{color:#1f6b3a}.kicker-forsvar{color:#2c4a6b}
+.kicker-oekonomi{color:#8a5a00}.kicker-migration{color:#6b2a8a}.kicker-klima-miljoe{color:#1f6b3a}.kicker-forsvar{color:#2c4a6b}.kicker-bag-facaden{color:#C8102E;text-transform:uppercase;letter-spacing:.04em}
 .meta{font-size:.8rem;color:var(--muted);margin:8px 0 0}
 .byline{font-weight:600;color:var(--ink)}
 
