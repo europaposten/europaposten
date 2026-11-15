@@ -66,6 +66,10 @@ SAGER = {
     "klimaregler": ("Klimaregler under pres", "Udskydelser og lempelser af EU's klimalove – metan, kvotehandel, ETS2 og CO2-krav til biler – og hvor Danmark og de danske MEP'er står."),
     "rusland": ("Rusland og hybride trusler", "Russisk påvirkning, valg og hybride angreb – og hvordan Danmark og EU svarer igen."),
 }
+# Introtekst på sektionssider (valgfri). Sektioner uden tekst får standardteksten.
+SEKTION_BESKRIVELSE = {
+    "bag-facaden": "Bag facaden graver i EU-maskinens kroge: lobbymøder, MEP'ernes løn og tillæg, interesseerklæringer, gaver, rejser og dyre projekter. Skarp i tonen, præcis i fakta: Alt bygger på offentlige registre, regnskaber og afstemninger, som vi linker til. Vi omtaler kun folks offentlige virke – aldrig deres privatliv – og den, historien handler om, får sin side med.",
+}
 TYPE_BESKRIVELSE = {
     "nyhed": "Nyheder om beslutninger, afstemninger og forslag i EU – med dansk vinkel og link til primærkilderne.",
     "analyse": "Analyser sætter en sag i perspektiv. De er tydeligt markeret og adskilt fra nyhedsstoffet.",
@@ -876,7 +880,7 @@ def build():
     for slug, name in sections.items():
         sa = [a for a in arts if a.section == slug]
         write(OUT / "sektion" / slug / "index.html",
-              render_list(site, sections, "../../", name, f"Alle artikler i sektionen {name}.", sa, active=slug))
+              render_list(site, sections, "../../", name, SEKTION_BESKRIVELSE.get(slug, f"Alle artikler i sektionen {name}."), sa, active=slug))
     write(OUT / "arkiv" / "index.html",
           render_list(site, sections, "../", "Arkiv", "Alle artikler, nyeste først.", arts))
     for t, name in ARTIKELTYPER.items():
