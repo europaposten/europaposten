@@ -64,6 +64,7 @@ SAGER = {
     "groenland": ("Grønland og EU", "EU's voksende engagement i Grønland – fra Kommissionens udspil og beredskabssamarbejde til påvirkningsforsøg og stormagtspres."),
     "forsvar-droner": ("Forsvar og droner", "Droneobservationerne over Danmark, Borris-sagen og EU's nye forsvarsprojekter og -programmer – og hvor Danmark er med."),
     "klimaregler": ("Klimaregler under pres", "Udskydelser og lempelser af EU's klimalove – metan, kvotehandel, ETS2 og CO2-krav til biler – og hvor Danmark og de danske MEP'er står."),
+    "udrejsecentre": ("Udrejsecentre og Rwanda", "EU's nye udsendelsesregler, udrejsecentre uden for EU og Danmarks forhandlinger med Rwanda – og hvad retsforbeholdet betyder."),
     "rusland": ("Rusland og hybride trusler", "Russisk påvirkning, valg og hybride angreb – og hvordan Danmark og EU svarer igen."),
 }
 # Introtekst på sektionssider (valgfri). Sektioner uden tekst får standardteksten.

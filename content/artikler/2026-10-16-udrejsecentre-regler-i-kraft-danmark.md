@@ -4,6 +4,7 @@ slug: udrejsecentre-regler-i-kraft-danmark
 date: 2026-10-16 14:14
 section: migration
 type: Nyhed
+sag: udrejsecentre
 kicker: Migration
 author: Europaposten-redaktionen
 summary: EU's nye udsendelsesforordning trådte i kraft fredag, og reglerne om udrejsecentre uden for EU gælder fra i dag. Samme morgen samlede Mette Frederiksen, Giorgia Meloni og Rob Jetten 18 EU-lande om »innovative løsninger«. På grund af retsforbeholdet er Danmark dog ikke bundet. Regeringen skal inden for seks måneder beslutte, om reglerne skal gælde her.

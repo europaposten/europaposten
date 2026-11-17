@@ -4,6 +4,7 @@ slug: rwanda-udrejsecenter-danmark-forhandlinger
 date: 2026-11-05 12:00
 section: migration
 type: Nyhed
+sag: udrejsecentre
 kicker: Migration
 author: Europaposten-redaktionen
 summary: For første gang bekræfter Rwandas udenrigsminister, at landet forhandler med Danmark og fire andre EU-lande om et center for afviste asylansøgere. Et pilotprojekt med omkring 100 personer kan blive aftalt på en migrationskonference i Wien 16.–17. november. Men Danmark har stadig ikke sagt ja til de EU-regler, der giver hjemmel til centrene.
