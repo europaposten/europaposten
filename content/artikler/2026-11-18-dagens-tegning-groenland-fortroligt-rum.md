@@ -10,7 +10,7 @@ summary: Torsdag stemmer Folketinget om den nye forsvarsaftale mellem Danmark, G
 draft: nej
 relateret: ministersvar-loekke-usa-aftale-groenland-fortroligt-rum
 illustration: 2026-11-18-groenland-fortroligt-rum.jpg
-illustration_alt: Satirisk tegning. En embedsmand med stor næse holder en lang papirrulle med teksten »22 SPØRGSMÅL« og en række spørgsmålstegn. Over for ham presser en svedende embedsmand med stor næse låget ned på en stor kasse mærket »FORTROLIGT RUM«. Under låget stikker en rød raket ud. I en taleboble siger han »Kan ikke oplyse nærmere!«.
+illustration_alt: Satirisk tegning. En embedsmand med stor næse holder en lang papirrulle med teksten »22 SPØRGSMÅL« og tre spørgsmålstegn. Ved siden af sidder en svedende embedsmand med stor næse på en trækasse mærket »FORTROLIGT RUM«. Ud af kassen stikker spidsen af en rød raket. I en taleboble siger han »Kan ikke oplyse nærmere!«.
 illustration_credit: Tegning: Europaposten (AI-genereret satire)
 ---
 
