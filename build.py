@@ -656,6 +656,11 @@ def render_article(site, sections, a: Article, arts):
         img_abs = f"{site['base_url']}/billeder/{a.illustration}"
         og_image = f'\n<meta property="og:image" content="{esc(img_abs)}">'
         ld_image = f',"image":{json_str(img_abs)}'
+    else:
+        # Fallback: artikler uden illustration får sitets standardkort, så Facebook/X ikke gætter et forkert billede
+        img_abs = f"{site['base_url']}/static/og-default.png"
+        og_image = (f'\n<meta property="og:image" content="{esc(img_abs)}">'
+                    '\n<meta property="og:image:width" content="1200">\n<meta property="og:image:height" content="630">')
     import json as _json
     pub = {"@type": "NewsMediaOrganization", "name": site["navn"], "url": site["base_url"] + "/",
            "logo": {"@type": "ImageObject", "url": site["base_url"] + "/static/favicon.svg"},
