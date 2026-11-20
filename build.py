@@ -66,6 +66,7 @@ SAGER = {
     "klimaregler": ("Klimaregler under pres", "Udskydelser og lempelser af EU's klimalove – metan, kvotehandel, ETS2 og CO2-krav til biler – og hvor Danmark og de danske MEP'er står."),
     "udrejsecentre": ("Udrejsecentre og Rwanda", "EU's nye udsendelsesregler, udrejsecentre uden for EU og Danmarks forhandlinger med Rwanda – og hvad retsforbeholdet betyder."),
     "rusland": ("Rusland og hybride trusler", "Russisk påvirkning, valg og hybride angreb – og hvordan Danmark og EU svarer igen."),
+    "inflation": ("Inflation", "Forbrugerpriserne i EU og Danmark, målt med det harmoniserede forbrugerprisindeks (HICP)."),
 }
 # Introtekst på sektionssider (valgfri). Sektioner uden tekst får standardteksten.
 SEKTION_BESKRIVELSE = {
