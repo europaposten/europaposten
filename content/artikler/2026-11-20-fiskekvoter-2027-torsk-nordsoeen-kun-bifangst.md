@@ -1,7 +1,7 @@
 ---
 title: "Regeringen vil kun tillade bifangst af torsk i Nordsøen næste år – fiskerne vil have 8.041 tons"
 slug: fiskekvoter-2027-torsk-nordsoeen-kun-bifangst
-date: 2026-11-20 07:00
+date: 2026-11-20 06:29
 section: klima-miljoe
 type: Nyhed
 kicker: Fiskekvoter
