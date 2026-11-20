@@ -1,7 +1,7 @@
 ---
 title: "EU's kemikalieagentur siger ja til PFAS-forbud – men med undtagelser i op til 12 år. Har Per Clausen ret i, at industrien vinder?"
 slug: pfas-forbud-echa-undtagelser-per-clausen
-date: 2026-11-20 07:05
+date: 2026-11-20 06:29
 section: klima-miljoe
 type: Nyhed
 kicker: Kemikalier
