@@ -1,7 +1,7 @@
 ---
 title: "EU-graf: Ni ud af ti danskere handler på nettet – kun Irland og Holland gør det oftere"
 slug: eu-graf-netkoeb-2025
-date: 2026-11-23 12:00
+date: 2026-11-23 11:31
 section: oekonomi
 type: Nyhed
 kicker: EU i tal
