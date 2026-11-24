@@ -1,7 +1,7 @@
 ---
 title: "EU-graf: Danske virksomheder bruger mest kunstig intelligens i EU – dobbelt så mange som EU-snittet"
 slug: eu-graf-ai-virksomheder-2025
-date: 2026-11-24 12:00
+date: 2026-11-24 11:39
 section: oekonomi
 type: Nyhed
 kicker: EU i tal
