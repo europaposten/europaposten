@@ -2,6 +2,7 @@
 title: "Parlamentet stemmer i dag om EU-lettelse med dansk ordfører: Grænsen for GDPR-fortegnelser hæves fra 250 til 1.000 ansatte"
 slug: omnibus-iv-gdpr-fortegnelser-1000-ansatte-niels-flemming-hansen
 date: 2026-11-24 06:30
+updated: 2026-11-25 06:32
 section: oekonomi
 type: Nyhed
 kicker: Europa-Parlamentet
@@ -27,6 +28,8 @@ sources:
   - "Erhvervsministeren, svar på spørgsmål 2 ad KOM(2025)0501 om antal ansatte i danske virksomheder, 9. juli 2025 | https://www.ft.dk/samling/20251/kommissionsforslag/kom(2025)0501/spm/2/svar/2153448/3051576.pdf"
   - "Databeskyttelsesforordningen (EU) 2016/679, artikel 30, stk. 5 | https://eur-lex.europa.eu/legal-content/DA/TXT/?uri=CELEX:32016R0679"
 ---
+
+*Opdateret onsdag 25. november: Parlamentet vedtog forordningen tirsdag med 572 stemmer for, 44 imod og 42, der stemte hverken for eller imod. Elleve danske MEP'er stemte for, Per Clausen (EL) imod, og tre stemte ikke. [Se hvordan alle 15 danske MEP'er stemte](/artikler/omnibus-iv-kvotereserve-danske-mep-stemmer-clausen-storm/).*
 
 Europa-Parlamentet stemmer tirsdag ved middagstid i Strasbourg om en EU-lettelse, som en dansk MEP har været med til at forhandle på plads. Den konservative Niels Flemming Hansen er en af tre ordførere på forordningen om såkaldte små midcap-virksomheder, [viser Parlamentets sagsoversigt](https://oeil.secure.europarl.europa.eu/oeil/en/procedure-file?reference=2025/0130(COD)). Den står på listen over tirsdagens afstemninger kl. 12–13, [ifølge Parlamentets ugeplan](https://www.europarl.europa.eu/news/en/agenda/weekly-agenda/2026-48).
 
